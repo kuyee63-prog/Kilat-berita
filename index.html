@@ -52,6 +52,17 @@ main{padding:12px 14px 26px;max-width:760px;margin:0 auto}
 .cuplikan{font-size:13.5px;color:var(--teks2);line-height:1.5;margin-top:5px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .baca{font-size:12.5px;color:var(--aksen2);font-weight:800;margin-top:8px}
 .kosong{text-align:center;color:var(--teks2);padding:38px 16px;font-size:14px;line-height:1.6}
+.bungkus{margin-bottom:14px}
+.bungkus .kartu{margin-bottom:0;border-radius:18px 18px 0 0}
+.bungkus .hero{margin-bottom:0;border-radius:20px 20px 0 0}
+.bagikan{display:flex;align-items:center;background:var(--kartu);border-radius:0 0 18px 18px;padding:2px 16px 13px;box-shadow:var(--bayang)}
+.bungkus .hero + .bagikan{border-radius:0 0 20px 20px}
+.btn-wa{display:inline-flex;align-items:center;gap:6px;background:#25d366;color:#05330f;font-weight:800;font-size:13px;padding:8px 15px;border-radius:16px;text-decoration:none}
+.btn-bagikan-situs{display:inline-block;background:#25d366;color:#05330f;font-weight:800;font-size:13.5px;padding:10px 20px;border-radius:20px;text-decoration:none;margin-bottom:10px}
+#bannerPasang{display:none;max-width:760px;margin:12px auto 0;padding:0 14px}
+#bannerPasang .dalam{display:flex;gap:10px;align-items:flex-start;background:linear-gradient(135deg,#fff8e1,#ffecb3);border:1.5px solid #ffd54d;border-radius:16px;padding:12px 14px;color:#4d3800;box-shadow:var(--bayang)}
+#bannerPasang .teks{font-size:13px;line-height:1.55}
+#bpTutup{background:none;border:none;font-size:16px;color:#8d6e00;padding:0 2px}
 footer{text-align:center;font-size:12px;color:var(--teks2);padding:4px 20px 32px;line-height:1.65;max-width:760px;margin:0 auto}
 </style>
 </head>
@@ -67,6 +78,7 @@ footer{text-align:center;font-size:12px;color:var(--teks2);padding:4px 20px 32px
   </div>
   <div class="cari"><input id="cari" type="search" placeholder="🔍  Cari berita..."></div>
 </header>
+<div id="bannerPasang"><div class="dalam"><div class="teks">📲 <b>Pasang KabarKilat di layar HP-mu</b> — buka berita seperti aplikasi, tanpa install dari Play Store.<br>Caranya: ketuk <b>⋮</b> di kanan atas Chrome → <b>Tambahkan ke Layar Utama</b>.</div><button id="bpTutup" title="Tutup">✕</button></div></div>
 <div class="statusbar"><span id="status">Memuat berita terbaru...</span><button id="segarkan">↻ Segarkan</button></div>
 <nav id="nav">
   <button class="aktif" data-k="semua">⚡ Semua</button>
@@ -82,6 +94,7 @@ footer{text-align:center;font-size:12px;color:var(--teks2);padding:4px 20px 32px
 <footer>
   <b>KabarKilat</b> mengumpulkan judul, foto, dan cuplikan dari umpan resmi (RSS) media-media Indonesia: Antara, Detik, CNN Indonesia, CNBC, dan lainnya.<br>
   Berita lengkap dibaca di situs sumbernya — ketuk kartu berita untuk membuka.<br>
+  <a class="btn-bagikan-situs" href="https://wa.me/?text=%E2%9A%A1%20*KabarKilat*%20%E2%80%94%20Semua%20kabar%2C%20secepat%20kilat!%0A%0ABaca%20berita%20terbaru%20dari%20banyak%20media%20dalam%20satu%20tempat%3A%20ringan%2C%20cepat%2C%20gratis.%0A%0Ahttps%3A%2F%2Fkuyee63-prog.github.io%2FKilat-berita%2F" target="_blank" rel="noopener">📤 Bagikan KabarKilat ke WhatsApp</a><br>
   © 2026 KabarKilat
 </footer>
 <script>
@@ -157,22 +170,28 @@ function muatBerita(){
 
 // ================= TAMPILAN =================
 function kartuHero(b){
-  return '<a class="hero" href="' + b.u + '" target="_blank" rel="noopener">'
+  var inti = '<a class="hero" href="' + b.u + '" target="_blank" rel="noopener">'
     + '<div class="foto-besar" style="background-image:url(\'' + b.f + '\')"></div><div class="lapis"></div>'
     + '<div class="isi-hero"><span class="lencana">⚡ Sorotan Utama</span>'
     + '<div class="judul-hero">' + b.j + '</div>'
     + '<div class="meta-hero">' + (b.contoh ? '📌 Berita contoh • ' + LABEL[b.k] : b.s + ' • ' + waktuRelatif(b.t) + ' • ' + LABEL[b.k]) + '</div></div></a>';
+  return b.contoh ? inti : '<div class="bungkus">' + inti + tombolBagikan(b) + '</div>';
+}
+function tombolBagikan(b){
+  var teks = '*' + b.j + '*\n\nBaca selengkapnya: ' + b.u + '\n\n— via KabarKilat ⚡ Semua kabar, secepat kilat:\nhttps://kuyee63-prog.github.io/Kilat-berita/';
+  return '<div class="bagikan"><a class="btn-wa" href="https://wa.me/?text=' + encodeURIComponent(teks) + '" target="_blank" rel="noopener">📤 Bagikan ke WhatsApp</a></div>';
 }
 function kartu(b){
   var foto = b.f
     ? '<div class="foto" style="background-image:url(\'' + b.f + '\')"><span class="kat">' + LABEL[b.k] + '</span></div>'
     : '<div class="foto" style="background:linear-gradient(135deg,#0b6e4f,#0aa79b)"><span class="kat">' + LABEL[b.k] + '</span></div>';
-  return '<a class="kartu" href="' + b.u + '" target="_blank" rel="noopener">'
+  var inti = '<a class="kartu" href="' + b.u + '" target="_blank" rel="noopener">'
     + foto
     + '<div class="isi"><div class="meta"><span class="titik" style="background:' + WARNA[b.k] + '"></span>' + (b.contoh ? '📌 Berita contoh' : b.s + ' • ' + waktuRelatif(b.t)) + '</div>'
     + '<div class="judul">' + b.j + '</div>'
     + (b.c ? '<div class="cuplikan">' + b.c + '</div>' : '')
     + '<div class="baca">Baca selengkapnya →</div></div></a>';
+  return b.contoh ? inti : '<div class="bungkus">' + inti + tombolBagikan(b) + '</div>';
 }
 function tampil(){
   var kata = document.getElementById('cari').value.toLowerCase();
@@ -213,6 +232,18 @@ try {
     document.documentElement.setAttribute('data-tema', 'gelap');
     document.getElementById('temaBtn').textContent = '☀️';
   }
+} catch(e){}
+
+// ================= BANNER PASANG DI LAYAR UTAMA =================
+try {
+  var sudahPasang = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+  if (!sudahPasang && !localStorage.getItem('kk_banner_tutup')) {
+    document.getElementById('bannerPasang').style.display = 'block';
+  }
+  document.getElementById('bpTutup').addEventListener('click', function(){
+    document.getElementById('bannerPasang').style.display = 'none';
+    try { localStorage.setItem('kk_banner_tutup', '1'); } catch(e){}
+  });
 } catch(e){}
 
 // Mulai: tampilkan cache/cadangan seketika, lalu ambil berita.json terbaru
