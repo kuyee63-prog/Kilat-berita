@@ -130,10 +130,11 @@ var WARNA = {nasional:"#1565c0", ekonomi:"#2e7d32", bola:"#ef6c00", teknologi:"#
 var CADANGAN = [
  {k:"nasional", s:"ZonaUtara", t:Date.now()-36e5, j:"BMKG Prediksi Hujan, Arahan Prabowo: Rangkuman Berita Nasional 22 Oktober 2026", c:"BMKG memprakirakan hujan dengan intensitas bervariasi melanda mayoritas kota di Indonesia pada Kamis. Presiden Prabowo juga memberi arahan penguatan ketahanan nasional dalam sidang kabinet paripurna.", f:"https://awsimages.detik.net.id/visual/2024/01/31/warga-melintas-saat-banjir-melanda-wilayah-pemukiman-penduduk-di-kawasan-petogogan-jakarta-rabu-3112024-banjir-yang-melanda-wi-1_43.jpeg?w=1200&q=90", u:"https://zonautara.com/2026/10/22/bmkg-prediksi-hujan-arahan-prabowo-rangkuman-berita-nasional-22-oktober-2026/"},
  {k:"ekonomi", s:"ValidNews", t:Date.now()-72e5, j:"Tren Turun Berlanjut, Emas Antam Terkoreksi Ke Rp2,55 Juta/Gram", c:"Harga emas Antam pada perdagangan Kamis (22/10) kembali terkoreksi Rp4.000 menjadi Rp2.550.000 per gram, melanjutkan tren pelemahan dari perdagangan sebelumnya.", f:"https://journalarta.com/wp-content/uploads/2026/08/foto-jurnalarta-20260821-4e8ecf-1200x675.jpg", u:"https://validnews.id/ekonomi/2026/10/22/tren-turun-berlanjut-emas-antam-terkoreksi-ke-rp255-jutagram-104500474"},
- {k:"bola", s:"YukSports", t:Date.now()-108e5, j:"Patrick Kluivert Resmi Ditunjuk sebagai Pelatih Baru Timnas Indonesia", c:"Patrick Kluivert dipastikan menjadi pelatih baru timnas Indonesia setelah konfirmasi jurnalis Fabrizio Romano. Ia menyepakati kontrak dua tahun dengan opsi perpanjangan.", f:"https://cdns.klimg.com/bola.net/library/upload/21/2025/01/996x664/20250126bl_pengenala_ef55c11.jpg", u:"http://yuksports.com/sepak-bola/timnas-indonesia/patrick-kluivert-resmi-ditunjuk-sebagai-pelatih-baru-timnas-indonesia"},
- {k:"hiburan", s:"VIV", t:Date.now()-54e5, j:"Agnez Mo Beradu Akting dengan Nicolas Cage dalam Film Hollywood Terbaru", c:"Agnez Mo menembus layar lebar Hollywood lewat film cyber thriller C.L.A.Y bersama Nicolas Cage dan Michael Sheen, setelah sukses memerankan antagonis di Reacher Season 4.", f:"https://redaksisatu.id/wp-content/uploads/2026/06/AGNEZ_Mo_main-485x360.jpg", u:"https://www.viv.co.id/read/238037/agnez-mo-beradu-akting-dengan-nicolas-cage-dalam-film-hollywood-terbaru"},
- {k:"daerah", s:"Banten Pos", t:Date.now()-9e6, j:"Kinerja Buruk, Kontrak Puluhan PPPK Paruh Waktu Banten Tak Diperpanjang", c:"Puluhan PPPK Paruh Waktu di lingkungan Pemprov Banten tidak mendapat perpanjangan kontrak. Dari 4.630 orang terdeteksi aktif, 88 tidak diperpanjang dengan berbagai alasan.", f:"https://suaranusantara.com/wp-content/uploads/2019/06/ASN-PEMPROV-BANTEN-APEL-HARI-PERTAMA-USAI-LIBUR-LEBARAN-10-JUNI-2019.jpg", u:"https://banpos.co/artikel/2026/10/22/kinerja-buruk-kontrak-puluhan-pppk-paruh-waktu-banten-tak-diperpanjang/"}
+ {k:"bola", s:"YukSports", t:Date.now()-108e5, j:"Patrick Kluivert Resmi Ditunjuk sebagai Pelatih Baru Timnas Indonesia", c:"Patrick Kluivert dipastikan menjadi pelatih baru timnas Indonesia setelah konfirmasi jurnalis Fabrizio Romano. Ia menyepakati kontrak dua tahun dengan opsi perpanjangan.", f:"", u:"http://yuksports.com/sepak-bola/timnas-indonesia/patrick-kluivert-resmi-ditunjuk-sebagai-pelatih-baru-timnas-indonesia"},
+ {k:"hiburan", s:"VIV", t:Date.now()-54e5, j:"Agnez Mo Beradu Akting dengan Nicolas Cage dalam Film Hollywood Terbaru", c:"Agnez Mo menembus layar lebar Hollywood lewat film cyber thriller C.L.A.Y bersama Nicolas Cage dan Michael Sheen, setelah sukses memerankan antagonis di Reacher Season 4.", f:"", u:"https://www.viv.co.id/read/238037/agnez-mo-beradu-akting-dengan-nicolas-cage-dalam-film-hollywood-terbaru"},
+ {k:"daerah", s:"Banten Pos", t:Date.now()-9e6, j:"Kinerja Buruk, Kontrak Puluhan PPPK Paruh Waktu Banten Tak Diperpanjang", c:"Puluhan PPPK Paruh Waktu di lingkungan Pemprov Banten tidak mendapat perpanjangan kontrak. Dari 4.630 orang terdeteksi aktif, 88 tidak diperpanjang dengan berbagai alasan.", f:"", u:"https://banpos.co/artikel/2026/10/22/kinerja-buruk-kontrak-puluhan-pppk-paruh-waktu-banten-tak-diperpanjang/"}
 ];
+CADANGAN.forEach(function(b){ b.contoh = true; });
 
 // ================= MESIN PENGAMBIL BERITA =================
 var DATA = {};        // per kategori: array berita
@@ -157,22 +158,55 @@ function waktuRelatif(t){
   if (s < 86400) return Math.floor(s / 3600) + " jam lalu";
   return Math.floor(s / 86400) + " hari lalu";
 }
-function ambilSatu(umpan, kategori){
+function bentukItem(judulMentah, deskripsi, foto, tautan, tanggal, umpan, kategori){
+  var judul = bersihTeks(judulMentah);
+  var sumber = umpan.s;
+  var potong = judul.lastIndexOf(" - ");
+  if (umpan.s === "Google News" && potong > 20) { sumber = judul.slice(potong + 3); judul = judul.slice(0, potong); }
+  return {
+    k: kategori, s: sumber, j: judul,
+    c: bersihTeks(deskripsi).slice(0, 190),
+    f: foto || gambarDariDeskripsi(deskripsi) || "",
+    u: tautan, t: tanggal || Date.now()
+  };
+}
+function ambilViaRss2Json(umpan, kategori){
   var urlApi = "https://api.rss2json.com/v1/api.json?count=12&rss_url=" + encodeURIComponent(umpan.u);
   return fetch(urlApi).then(function(r){ return r.json(); }).then(function(json){
-    if (!json || json.status !== "ok" || !json.items) throw new Error("umpan gagal");
+    if (!json || json.status !== "ok" || !json.items || !json.items.length) throw new Error("umpan gagal");
     return json.items.map(function(it){
-      var judul = bersihTeks(it.title);
-      var sumber = umpan.s;
-      var potong = judul.lastIndexOf(" - ");
-      if (umpan.s === "Google News" && potong > 20) { sumber = judul.slice(potong + 3); judul = judul.slice(0, potong); }
-      return {
-        k: kategori, s: sumber, j: judul,
-        c: bersihTeks(it.description).slice(0, 190),
-        f: it.thumbnail || (it.enclosure && it.enclosure.link) || gambarDariDeskripsi(it.description) || "",
-        u: it.link, t: new Date(it.pubDate.replace(" ", "T") + "Z").getTime() || Date.now()
-      };
+      return bentukItem(it.title, it.description,
+        it.thumbnail || (it.enclosure && it.enclosure.link) || "",
+        it.link, new Date(String(it.pubDate).replace(" ", "T") + "Z").getTime(), umpan, kategori);
     }).filter(function(b){ return b.j && b.u; });
+  });
+}
+function ambilViaAllOrigins(umpan, kategori){
+  var urlApi = "https://api.allorigins.win/raw?url=" + encodeURIComponent(umpan.u);
+  return fetch(urlApi).then(function(r){ return r.text(); }).then(function(teks){
+    var dok = new DOMParser().parseFromString(teks, "text/xml");
+    var nodes = dok.querySelectorAll("item");
+    if (!nodes.length) nodes = dok.querySelectorAll("entry");
+    if (!nodes.length) throw new Error("xml kosong");
+    var hasil = [];
+    for (var i = 0; i < nodes.length && hasil.length < 12; i++){
+      var n = nodes[i];
+      function ambil(tag){ var e = n.querySelector(tag); return e ? e.textContent : ""; }
+      var tautan = ambil("link");
+      if (!tautan) { var l = n.querySelector("link[href]"); tautan = l ? l.getAttribute("href") : ""; }
+      var foto = "";
+      var mc = n.querySelector("content[url], thumbnail[url], enclosure[url]");
+      if (mc) foto = mc.getAttribute("url") || "";
+      var desk = ambil("description") || ambil("summary") || ambil("encoded");
+      hasil.push(bentukItem(ambil("title"), desk, foto, tautan,
+        new Date(ambil("pubDate") || ambil("published") || ambil("updated")).getTime(), umpan, kategori));
+    }
+    return hasil.filter(function(b){ return b.j && b.u; });
+  });
+}
+function ambilSatu(umpan, kategori){
+  return ambilViaRss2Json(umpan, kategori).catch(function(){
+    return ambilViaAllOrigins(umpan, kategori);
   });
 }
 function gabungUnik(list){
@@ -218,7 +252,7 @@ function muatKategori(kat){
     Object.keys(DATA).forEach(function(k){ total += (DATA[k] || []).length; });
     statusEl.textContent = total
       ? "Diperbarui " + new Date().toLocaleTimeString("id-ID", {hour:"2-digit", minute:"2-digit"}) + " • " + total + " berita"
-      : "Umpan sedang lambat — menampilkan berita tersimpan.";
+      : "Umpan live belum tersambung — yang tampil di bawah ini berita contoh.";
     tampil();
   });
 }
@@ -229,7 +263,7 @@ function kartuHero(b){
     + '<div class="foto-besar" style="background-image:url(\'' + b.f + '\')"></div><div class="lapis"></div>'
     + '<div class="isi-hero"><span class="lencana">⚡ Sorotan Utama</span>'
     + '<div class="judul-hero">' + b.j + '</div>'
-    + '<div class="meta-hero">' + b.s + ' • ' + waktuRelatif(b.t) + ' • ' + LABEL[b.k] + '</div></div></a>';
+    + '<div class="meta-hero">' + (b.contoh ? '📌 Berita contoh • ' + LABEL[b.k] : b.s + ' • ' + waktuRelatif(b.t) + ' • ' + LABEL[b.k]) + '</div></div></a>';
 }
 function kartu(b){
   var foto = b.f
@@ -237,7 +271,7 @@ function kartu(b){
     : '<div class="foto" style="background:linear-gradient(135deg,#0b6e4f,#0aa79b)"><span class="kat">' + LABEL[b.k] + '</span></div>';
   return '<a class="kartu" href="' + b.u + '" target="_blank" rel="noopener">'
     + foto
-    + '<div class="isi"><div class="meta"><span class="titik" style="background:' + WARNA[b.k] + '"></span>' + b.s + ' • ' + waktuRelatif(b.t) + '</div>'
+    + '<div class="isi"><div class="meta"><span class="titik" style="background:' + WARNA[b.k] + '"></span>' + (b.contoh ? '📌 Berita contoh' : b.s + ' • ' + waktuRelatif(b.t)) + '</div>'
     + '<div class="judul">' + b.j + '</div>'
     + (b.c ? '<div class="cuplikan">' + b.c + '</div>' : '')
     + '<div class="baca">Baca selengkapnya →</div></div></a>';
