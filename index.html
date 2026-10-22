@@ -85,44 +85,6 @@ footer{text-align:center;font-size:12px;color:var(--teks2);padding:4px 20px 32px
   © 2026 KabarKilat
 </footer>
 <script>
-// ================= KONFIGURASI SUMBER (RSS) =================
-var GN = "https://news.google.com/rss/search?q=";
-var GNP = "&hl=id&gl=ID&ceid=ID:id";
-var UMPAN = {
-  nasional: [
-    {u:"https://www.antaranews.com/rss/terkini", s:"Antara"},
-    {u:"https://news.detik.com/rss", s:"Detik"},
-    {u:GN + "berita+nasional+indonesia" + GNP, s:"Google News"}
-  ],
-  ekonomi: [
-    {u:"https://www.antaranews.com/rss/ekonomi", s:"Antara"},
-    {u:"https://www.cnbcindonesia.com/rss", s:"CNBC Indonesia"},
-    {u:"https://finance.detik.com/rss", s:"Detik Finance"}
-  ],
-  bola: [
-    {u:"https://www.antaranews.com/rss/sepakbola", s:"Antara"},
-    {u:GN + "sepak+bola+timnas+indonesia" + GNP, s:"Google News"},
-    {u:GN + "liga+inggris+OR+liga+champions" + GNP, s:"Google News"}
-  ],
-  teknologi: [
-    {u:"https://www.antaranews.com/rss/tekno", s:"Antara"},
-    {u:"https://inet.detik.com/rss", s:"Detik Inet"},
-    {u:GN + "teknologi+gadget+AI" + GNP, s:"Google News"}
-  ],
-  hiburan: [
-    {u:"https://www.antaranews.com/rss/hiburan", s:"Antara"},
-    {u:GN + "selebriti+film+musik+indonesia" + GNP, s:"Google News"}
-  ],
-  internasional: [
-    {u:"https://www.antaranews.com/rss/dunia", s:"Antara"},
-    {u:GN + "berita+dunia+internasional" + GNP, s:"Google News"}
-  ],
-  daerah: [
-    {u:"https://banten.antaranews.com/rss/terkini.xml", s:"Antara Banten"},
-    {u:GN + "Banten+Serang" + GNP, s:"Google News"},
-    {u:GN + "Lampung" + GNP, s:"Google News"}
-  ]
-};
 var LABEL = {nasional:"Nasional", ekonomi:"Ekonomi", bola:"Bola", teknologi:"Teknologi", hiburan:"Hiburan", internasional:"Internasional", daerah:"Daerah"};
 var WARNA = {nasional:"#1565c0", ekonomi:"#2e7d32", bola:"#ef6c00", teknologi:"#6a1b9a", hiburan:"#c2185b", internasional:"#455a64", daerah:"#795548"};
 
@@ -136,78 +98,19 @@ var CADANGAN = [
 ];
 CADANGAN.forEach(function(b){ b.contoh = true; });
 
-// ================= MESIN PENGAMBIL BERITA =================
-var DATA = {};        // per kategori: array berita
+// ================= MESIN PEMBACA berita.json =================
+// Berita dikumpulkan oleh robot di GitHub (ambil-berita.py) tiap 30 menit
+// ke dalam file berita.json — halaman ini tinggal membacanya. Tanpa relay.
+var DATA = {};
 var katAktif = "semua";
 var daftar = document.getElementById('daftar');
 var statusEl = document.getElementById('status');
 
-function bersihTeks(html){
-  var d = document.createElement('div');
-  d.innerHTML = html || "";
-  return (d.textContent || "").replace(/\s+/g, " ").trim();
-}
-function gambarDariDeskripsi(html){
-  if (!html) return "";
-  var m = html.match(/<img[^>]+src=["']([^"']+)["']/i);
-  return m ? m[1] : "";
-}
 function waktuRelatif(t){
   var s = Math.max(0, (Date.now() - t) / 1000);
   if (s < 3600) return Math.max(1, Math.floor(s / 60)) + " mnt lalu";
   if (s < 86400) return Math.floor(s / 3600) + " jam lalu";
   return Math.floor(s / 86400) + " hari lalu";
-}
-function bentukItem(judulMentah, deskripsi, foto, tautan, tanggal, umpan, kategori){
-  var judul = bersihTeks(judulMentah);
-  var sumber = umpan.s;
-  var potong = judul.lastIndexOf(" - ");
-  if (umpan.s === "Google News" && potong > 20) { sumber = judul.slice(potong + 3); judul = judul.slice(0, potong); }
-  return {
-    k: kategori, s: sumber, j: judul,
-    c: bersihTeks(deskripsi).slice(0, 190),
-    f: foto || gambarDariDeskripsi(deskripsi) || "",
-    u: tautan, t: tanggal || Date.now()
-  };
-}
-function ambilViaRss2Json(umpan, kategori){
-  var urlApi = "https://api.rss2json.com/v1/api.json?count=12&rss_url=" + encodeURIComponent(umpan.u);
-  return fetch(urlApi).then(function(r){ return r.json(); }).then(function(json){
-    if (!json || json.status !== "ok" || !json.items || !json.items.length) throw new Error("umpan gagal");
-    return json.items.map(function(it){
-      return bentukItem(it.title, it.description,
-        it.thumbnail || (it.enclosure && it.enclosure.link) || "",
-        it.link, new Date(String(it.pubDate).replace(" ", "T") + "Z").getTime(), umpan, kategori);
-    }).filter(function(b){ return b.j && b.u; });
-  });
-}
-function ambilViaAllOrigins(umpan, kategori){
-  var urlApi = "https://api.allorigins.win/raw?url=" + encodeURIComponent(umpan.u);
-  return fetch(urlApi).then(function(r){ return r.text(); }).then(function(teks){
-    var dok = new DOMParser().parseFromString(teks, "text/xml");
-    var nodes = dok.querySelectorAll("item");
-    if (!nodes.length) nodes = dok.querySelectorAll("entry");
-    if (!nodes.length) throw new Error("xml kosong");
-    var hasil = [];
-    for (var i = 0; i < nodes.length && hasil.length < 12; i++){
-      var n = nodes[i];
-      function ambil(tag){ var e = n.querySelector(tag); return e ? e.textContent : ""; }
-      var tautan = ambil("link");
-      if (!tautan) { var l = n.querySelector("link[href]"); tautan = l ? l.getAttribute("href") : ""; }
-      var foto = "";
-      var mc = n.querySelector("content[url], thumbnail[url], enclosure[url]");
-      if (mc) foto = mc.getAttribute("url") || "";
-      var desk = ambil("description") || ambil("summary") || ambil("encoded");
-      hasil.push(bentukItem(ambil("title"), desk, foto, tautan,
-        new Date(ambil("pubDate") || ambil("published") || ambil("updated")).getTime(), umpan, kategori));
-    }
-    return hasil.filter(function(b){ return b.j && b.u; });
-  });
-}
-function ambilSatu(umpan, kategori){
-  return ambilViaRss2Json(umpan, kategori).catch(function(){
-    return ambilViaAllOrigins(umpan, kategori);
-  });
 }
 function gabungUnik(list){
   var lihat = {}, hasil = [];
@@ -225,34 +128,29 @@ function simpanCache(){
 function muatCache(){
   try {
     var c = JSON.parse(localStorage.getItem("kk_cache") || "null");
-    if (c && c.data) { DATA = c.data; return c.saat; }
+    if (c && c.data) DATA = c.data;
   } catch(e){}
-  return 0;
 }
-function muatKategori(kat){
-  var umpans = (kat === "semua")
-    ? [{u:UMPAN.nasional[0].u, s:"Antara", kk:"nasional"}, {u:UMPAN.ekonomi[1].u, s:"CNBC Indonesia", kk:"ekonomi"}, {u:UMPAN.bola[0].u, s:"Antara", kk:"bola"}, {u:UMPAN.teknologi[0].u, s:"Antara", kk:"teknologi"}, {u:UMPAN.hiburan[0].u, s:"Antara", kk:"hiburan"}, {u:UMPAN.internasional[0].u, s:"Antara", kk:"internasional"}]
-    : UMPAN[kat].map(function(x){ return {u:x.u, s:x.s, kk:kat}; });
+function hitungTotal(){
+  var n = 0;
+  Object.keys(DATA).forEach(function(k){ n += (DATA[k] || []).length; });
+  return n;
+}
+function muatBerita(){
   statusEl.textContent = "Mengambil berita terbaru...";
-  var janji = umpans.map(function(x){
-    return ambilSatu(x, x.kk).catch(function(){ return []; });
-  });
-  Promise.all(janji).then(function(hasil){
-    var semuaItem = [];
-    hasil.forEach(function(h){ semuaItem = semuaItem.concat(h); });
-    if (kat === "semua") {
-      var perKat = {};
-      semuaItem.forEach(function(b){ (perKat[b.k] = perKat[b.k] || []).push(b); });
-      Object.keys(perKat).forEach(function(k){ DATA[k] = gabungUnik(perKat[k]); });
-    } else if (semuaItem.length) {
-      DATA[kat] = gabungUnik(semuaItem);
-    }
+  fetch("berita.json?t=" + Date.now()).then(function(r){
+    if (!r.ok) throw new Error("belum ada");
+    return r.json();
+  }).then(function(json){
+    DATA = json.kategori || {};
     simpanCache();
-    var total = 0;
-    Object.keys(DATA).forEach(function(k){ total += (DATA[k] || []).length; });
-    statusEl.textContent = total
-      ? "Diperbarui " + new Date().toLocaleTimeString("id-ID", {hour:"2-digit", minute:"2-digit"}) + " • " + total + " berita"
-      : "Umpan live belum tersambung — yang tampil di bawah ini berita contoh.";
+    var jam = json.diperbarui ? new Date(json.diperbarui) : new Date();
+    statusEl.textContent = "Diperbarui " + jam.toLocaleTimeString("id-ID", {hour:"2-digit", minute:"2-digit"}) + " • " + (json.total || hitungTotal()) + " berita";
+    tampil();
+  }).catch(function(){
+    statusEl.textContent = hitungTotal()
+      ? "Menampilkan berita tersimpan di HP ini."
+      : "Belum tersambung — yang tampil di bawah ini berita contoh.";
     tampil();
   });
 }
@@ -301,10 +199,9 @@ document.getElementById('nav').addEventListener('click', function(e){
   e.target.classList.add('aktif');
   katAktif = e.target.getAttribute('data-k');
   tampil();
-  if (katAktif !== "semua" && !(DATA[katAktif] && DATA[katAktif].length)) muatKategori(katAktif);
 });
 document.getElementById('cari').addEventListener('input', tampil);
-document.getElementById('segarkan').addEventListener('click', function(){ muatKategori(katAktif); });
+document.getElementById('segarkan').addEventListener('click', function(){ muatBerita(); });
 document.getElementById('temaBtn').addEventListener('click', function(){
   var g = document.documentElement.getAttribute('data-tema') === 'gelap';
   document.documentElement.setAttribute('data-tema', g ? '' : 'gelap');
@@ -318,11 +215,10 @@ try {
   }
 } catch(e){}
 
-// Mulai: tampilkan cache/cadangan seketika, lalu segarkan dari umpan
-var umurCache = muatCache();
+// Mulai: tampilkan cache/cadangan seketika, lalu ambil berita.json terbaru
+muatCache();
 tampil();
-if (!umurCache || Date.now() - umurCache > 10 * 60 * 1000) muatKategori("semua");
-else statusEl.textContent = "Menampilkan berita tersimpan • ketuk ↻ untuk yang terbaru";
+muatBerita();
 </script>
 </body>
 </html>
