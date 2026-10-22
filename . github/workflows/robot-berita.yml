@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Salin Isi File Robot KabarKilat</title>
+<style>
+body{font-family:-apple-system,'Segoe UI',Roboto,sans-serif;background:#eef3f1;color:#12211c;padding:18px;line-height:1.55}
+h1{font-size:20px;color:#065f46}
+textarea{width:100%;height:340px;font-family:monospace;font-size:12px;padding:10px;border:2px solid #0b6e4f;border-radius:10px;background:#fff}
+button{width:100%;padding:16px;margin:14px 0;font-size:17px;font-weight:800;color:#fff;background:linear-gradient(135deg,#0b6e4f,#0aa79b);border:none;border-radius:12px}
+ol{padding-left:20px}
+li{margin-bottom:8px}
+.kode{background:#dff3ec;padding:2px 7px;border-radius:6px;font-family:monospace;font-size:13px}
+#hasil{text-align:center;font-weight:700;color:#0b6e4f;min-height:22px}
+</style>
+</head>
+<body>
+<h1>🤖 Isi File Robot KabarKilat</h1>
+<p>File ini yang memberi tahu GitHub supaya robot jalan sendiri tiap 30 menit. Cara pasangnya:</p>
+<ol>
+  <li>Ketuk tombol <b>SALIN ISI FILE ROBOT</b> di bawah.</li>
+  <li>Buka repo <b>Kilat-berita</b> di Chrome → <b>Add file</b> → <b>Create new file</b>.</li>
+  <li>Di kolom nama file, ketik persis: <span class="kode">.github/workflows/robot-berita.yml</span></li>
+  <li>Ketuk kolom isi besar di bawahnya → <b>Tempel</b> (tekan tahan → Tempel).</li>
+  <li>Ketuk <b>Commit changes</b>.</li>
+</ol>
+<button onclick="salin()">📋 SALIN ISI FILE ROBOT</button>
+<div id="hasil"></div>
+<textarea id="kotak" readonly>name: Robot Berita KabarKilat
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ambil-berita:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Ambil berita dari semua umpan
+        run: python ambil-berita.py
+      - name: Simpan berita.json ke repo
+        run: |
+          git config user.name "KabarKilat Robot"
+          git config user.email "robot@kabarkilat.local"
+          git add berita.json
+          git diff --cached --quiet || git commit -m "Update berita otomatis"
+          git push
+</textarea>
+<script>
+function salin(){
+  var t = document.getElementById('kotak');
+  var selesai = function(){ document.getElementById('hasil').textContent = '✅ Tersalin! Sekarang tempel di GitHub.'; };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(t.value).then(selesai).catch(function(){ t.select(); document.execCommand('copy'); selesai(); });
+  } else { t.select(); document.execCommand('copy'); selesai(); }
+}
+</script>
+</body>
+</html>
