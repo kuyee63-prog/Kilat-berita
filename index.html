@@ -178,7 +178,14 @@ function kartuHero(b){
   return b.contoh ? inti : '<div class="bungkus">' + inti + tombolBagikan(b) + '</div>';
 }
 function tombolBagikan(b){
-  var teks = '*' + b.j + '*\n\nBaca selengkapnya: ' + b.u + '\n\n— via KabarKilat ⚡ Semua kabar, secepat kilat:\nhttps://kuyee63-prog.github.io/Kilat-berita/';
+  var situs = 'https://kuyee63-prog.github.io/Kilat-berita/';
+  var teks = '*' + b.j + '*';
+  if (b.c) {
+    var ringkas = b.c.length > 200 ? b.c.slice(0, 197).replace(/\s+\S*$/, '') + '…' : b.c;
+    teks += '\n\n' + ringkas;
+  }
+  if (b.u.indexOf('news.google.com') === -1) teks += '\n\nBaca selengkapnya: ' + b.u;
+  teks += '\n\n— via KabarKilat ⚡ Semua kabar, secepat kilat:\n' + situs;
   return '<div class="bagikan"><a class="btn-wa" href="https://wa.me/?text=' + encodeURIComponent(teks) + '" target="_blank" rel="noopener">📤 Bagikan ke WhatsApp</a></div>';
 }
 function kartu(b){
