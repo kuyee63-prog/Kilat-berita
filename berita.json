@@ -1,17 +1,878 @@
 {
- "diperbarui": "2026-11-07T01:31:24.756474+00:00",
- "total": 180,
+ "diperbarui": "2026-11-07T02:41:36.636838+00:00",
+ "total": 192,
  "kategori": {
-  "hiburan": [
+  "teknologi": [
    {
-    "k": "hiburan",
-    "s": "cek&ricek",
-    "j": "Daftar Lengkap Pemenang AMI Awards 2026",
-    "c": "Daftar Lengkap Pemenang AMI Awards 2026 cek&ricek",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBFUlBKV3MzdXJ1WEZWMGk3NloxUmlaUnVra3pWS3R3anRVZU8xb0J2bDRTcW5XUmI2N09rUmJFOU55UTNRV2hGekZjeVlPSDFSTzFSdVQ4TmswYllVR1VWUlY2NkxtTW5YWXlqMG5Ccw?oc=5",
-    "t": 1793936036000
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "15 Ribu Situs Web Terinfeksi Malware, Bisa Curi Data Kartu Kredit",
+    "c": "Peneliti menemukan 15 ribusitus web terinfeksi malware dengan 135 juta kunjungan per bulan. Ancaman mencakup pencurian data kartu kredit hingga spyware iPhone.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2024/11/08/ilustrasi-malware_169.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/security/d-8742163/15-ribu-situs-web-terinfeksi-malware-bisa-curi-data-kartu-kredit",
+    "t": 1794017729000
    },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "10 HP Flagship Android Paling Kencang Sejagat, Ada Juara Baru!",
+    "c": "AnTuTu baru saja merilis daftar 10 HP flagship Android dengan performa paling kencang edisi Oktober 2026. Apa ada yang kamu incar, detikers?",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2025/08/05/ilustrasi-menggunakan-smartphone-atau-ponsel-1754383000994.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/fotoinet/d-8742135/10-hp-flagship-android-paling-kencang-sejagat-ada-juara-baru",
+    "t": 1794015047000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Ilmuwan Periksa Kotoran Manusia 1.100 Tahun, Fakta Bikin Melotot",
+    "c": "Ilmuwan memeriksa fosil kotoran manusia berusia 1.100 tahun dari zaman Viking. Hasilnya mengungkap ratusan telur cacing parasit.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/01/24/kotoran-manusia-viking-1769237708365.webp?w=360&q=90",
+    "u": "https://inet.detik.com/science/d-8742122/ilmuwan-periksa-kotoran-manusia-1-100-tahun-fakta-bikin-melotot",
+    "t": 1794012317000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Headphone Walkman Legendaris Kembali, Kini Pakai USB-C",
+    "c": "Sony kembali meluncurkan headphone legendaris MDR-3R, terinspirasi Walkman 1979. Dikenal dengan desain retro, kini dilengkapi konektor USB-C dan mikrofon.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/11/07/sony-mdr-3r-1794008566468_169.webp?w=360&q=90",
+    "u": "https://inet.detik.com/consumer/d-8742117/headphone-walkman-legendaris-kembali-kini-pakai-usb-c",
+    "t": 1794009652000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Ribuan Pegawai Canva Kena PHK Tapi Pesangonnya Mewah",
+    "c": "Platform desain asal Australia, Canva, memangkas 22% tenaga kerja globalnya. Menurut laporan, 1.271 karyawan terdampak PHK ini.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/05/18/canva-1779088079214.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/business/d-8742106/ribuan-pegawai-canva-kena-phk-tapi-pesangonnya-mewah",
+    "t": 1794007838000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Elon Musk Zonk: Semua Jagoannya Tumbang, Rp 8,5 T Melayang",
+    "c": "Elon Musk mencetak rekor setelah menggelontorkan hampir setengah miliar dolar untuk mendukung Partai Republik dalam pemilihan sela AS.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2025/06/02/mata-lebam-elon-musk-saat-pamit-dari-pemerintahan-trump-1748856850236.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/business/d-8741793/elon-musk-zonk-semua-jagoannya-tumbang-rp-8-5-t-melayang",
+    "t": 1794005138000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Kapasitas Data Center Cikarang Penuh, NeutraDC Bidik Ekspansi hingga 1 GW",
+    "c": "NeutraDC siap ekspansi kapasitas data center hingga 1 GW untuk memenuhi kebutuhan infrastruktur AI. Cikarang penuh, fokus pada relevansi dan keberlanjutan.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/08/14/neutradc-gandeng-pln-ekspansi-data-center-di-cikarang-hingga-200-mw-1786689684941_169.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/telecommunication/d-8741956/kapasitas-data-center-cikarang-penuh-neutradc-bidik-ekspansi-hingga-1-gw",
+    "t": 1793979166000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Kabar Terbaru Wasit Data Pribadi, Perpres Sudah di Meja Presiden",
+    "c": "Pembentukan lembaga pengawas Pelindungan Data Pribadi (PDP) semakin dekat. Rancangan Perpres telah diajukan, menunggu kepastian waktu operasional.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2019/10/16/b1690506-c948-4d8c-8473-98e62640bcce.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/law-and-policy/d-8741813/kabar-terbaru-wasit-data-pribadi-perpres-sudah-di-meja-presiden",
+    "t": 1793977838000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "6 Hal Penting Seruan Peneliti Keamanan Siber, Pengguna Android Wajib Ikuti!",
+    "c": "Peneliti McAfee temukan lonjakan aplikasi mencurigakan yang menyamar sebagai layanan populer. Berikut tips untuk menghindari penipuan perangkat lunak.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2025/04/23/ilustrasi-1745381043220_169.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/security/d-8741804/6-hal-penting-seruan-peneliti-keamanan-siber-pengguna-android-wajib-ikuti",
+    "t": 1793976323000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Hacker Serang Bank Darah, Suhu Freezer Dibikin Mendidih",
+    "c": "Hacker menyerang bank darah di Prancis dengan memprogram ulang freezer hingga suhu ekstrem. Untungnya, serangan terdeteksi sebelum produk darah rusak",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/03/11/safari-donor-darah-ramadan-pmi-banda-aceh-sambangi-masjid-1773210720256_169.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/security/d-8741784/hacker-serang-bank-darah-suhu-freezer-dibikin-mendidih",
+    "t": 1793974507000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Saham Raksasa Teknologi Ramai Dilepas, Rp 45 Ribu Triliun Lenyap",
+    "c": "Pasar global anjlok setelah kejatuhan Wall Street menghapus sekitar USD 2,5 triliun (sekitar Rp 45 ribu triliun) nilai pasar hari Kamis waktu setempat.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2022/04/26/ilustrasi-pasar-saham.jpeg?w=360&q=90",
+    "u": "https://inet.detik.com/business/d-8741598/saham-raksasa-teknologi-ramai-dilepas-rp-45-ribu-triliun-lenyap",
+    "t": 1793972729000
+   },
+   {
+    "k": "teknologi",
+    "s": "Detik Inet",
+    "j": "Ukuran File GTA 6 Fantastis, Pemain Perlu Siapkan 212 GB",
+    "c": "Rockstar resmi mengumumkan ukuran file GTA 6. Gamer harus menyiapkan ruang penyimpanan yang luas, karena ukurannya lebih dari 100 GB.",
+    "f": "https://akcdn.detik.net.id/community/media/visual/2026/06/19/pre-order-gta-6-mulai-dibuka-25-juni-2026-di-playstation-xbox-store-1781840337939_169.png?w=360&q=90",
+    "u": "https://inet.detik.com/games-news/d-8741615/ukuran-file-gta-6-fantastis-pemain-perlu-siapkan-212-gb",
+    "t": 1793970924000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Mau jual HP bekas? Ini 9 langkah menghapus data pribadi",
+    "c": "Menjual ponsel atau handphone (HP) bekas tidak cukup hanya dengan menghapus foto, video, dan aplikasi. Pengguna juga ...",
+    "f": "https://img.antaranews.com/cache/800x533/2025/10/05/kebijakan-blokir-imei-2639121.jpg",
+    "u": "https://www.antaranews.com/berita/5835679/mau-jual-hp-bekas-ini-9-langkah-menghapus-data-pribadi",
+    "t": 1793928061000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Benarkah mode pesawat bisa percepat pengisian daya HP?",
+    "c": "Mengaktifkan mode pesawat atau airplane mode biasanya dilakukan ketika seseorang berada di dalam pesawat. Namun, fitur ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/05/23/WhatsApp-Image-2026-05-22-at-22.09.38.jpeg",
+    "u": "https://www.antaranews.com/berita/5833071/benarkah-mode-pesawat-bisa-percepat-pengisian-daya-hp",
+    "t": 1793847019000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Laptop tidak bisa terhubung ke Wi-Fi, apa penyebabnya?",
+    "c": "Laptop yang tiba-tiba tidak bisa terhubung ke jaringan Wi-Fi tentu dapat mengganggu aktivitas, terutama ketika ...",
+    "f": "https://img.antaranews.com/cache/800x533/2023/08/11/wifia.jpg",
+    "u": "https://www.antaranews.com/berita/5832947/laptop-tidak-bisa-terhubung-ke-wi-fi-apa-penyebabnya",
+    "t": 1793839514000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Mengenal LIMS, alat yang digunakan untuk menyadap Presiden Prabowo",
+    "c": "Kasus dugaan penyadapan terhadap Presiden Prabowo Subianto yang menyeret mantan Kapolri Jenderal Listyo Sigit Prabowo ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/04/Bareskrim-Tetapkan-Tiga-Tersangka-Kasus-Dugaan-Penyadapan-Ilegal-031126-gp-4.jpg",
+    "u": "https://www.antaranews.com/berita/5832595/mengenal-lims-alat-yang-digunakan-untuk-menyadap-presiden-prabowo",
+    "t": 1793805561000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Cara mengetahui HP disadap tanpa sepengetahuan pemiliknya",
+    "c": "Ponsel pintar menyimpan berbagai informasi pribadi, mulai dari percakapan, foto, lokasi, hingga akses ke rekening dan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2024/08/16/1001195287.jpg",
+    "u": "https://www.antaranews.com/berita/5832475/cara-mengetahui-hp-disadap-tanpa-sepengetahuan-pemiliknya",
+    "t": 1793803430000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Laptop cepat panas dan kipas berisik, apa penyebabnya?",
+    "c": "Laptop yang tiba-tiba terasa panas disertai suara kipas yang semakin berisik sering kali membuat pengguna khawatir. ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_20261018_164905.jpg",
+    "u": "https://www.antaranews.com/berita/5831603/laptop-cepat-panas-dan-kipas-berisik-apa-penyebabnya",
+    "t": 1793786668000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Apa perbedaan FPS, RPG, MOBA, dan Battle Royale dalam dunia game?",
+    "c": "Dunia video game memiliki banyak jenis permainan dengan mekanisme dan tujuan yang berbeda-beda. Ada gim yang ...",
+    "f": "https://img.antaranews.com/cache/800x533/2025/08/14/2025-08-14-15-12-45.jpg",
+    "u": "https://www.antaranews.com/berita/5831519/apa-perbedaan-fps-rpg-moba-dan-battle-royale-dalam-dunia-game",
+    "t": 1793785361000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Cara menghapus data KTP dari pinjol, ini 7 langkah yang bisa dilakukan",
+    "c": "Penggunaan layanan pinjaman online (pinjol) mengharuskan calon peminjam menyerahkan sejumlah data pribadi, termasuk ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/07/28/WhatsApp-Image-2026-07-28-at-19.12.27_1.jpeg",
+    "u": "https://www.antaranews.com/berita/5830407/cara-menghapus-data-ktp-dari-pinjol-ini-7-langkah-yang-bisa-dilakukan",
+    "t": 1793754560000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Cara memindahkan chat WhatsApp ke HP baru tanpa kehilangan data",
+    "c": "Mengganti ponsel sering kali membuat pengguna khawatir kehilangan riwayat percakapan, foto, video, hingga dokumen ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/08/05/InShot_20260805_104732163.jpg",
+    "u": "https://www.antaranews.com/berita/5827855/cara-memindahkan-chat-whatsapp-ke-hp-baru-tanpa-kehilangan-data",
+    "t": 1793664295000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Cara menambah anggota keluarga di KK secara online",
+    "c": "Penambahan anggota keluarga dalam Kartu Keluarga (KK) kini dapat diajukan secara online melalui layanan administrasi ...",
+    "f": "https://img.antaranews.com/cache/800x533/2021/08/28/23.jpg",
+    "u": "https://www.antaranews.com/berita/5810055/cara-menambah-anggota-keluarga-di-kk-secara-online",
+    "t": 1792882823000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "8 penyebab HP tidak bisa menerima SMS dan cara mengatasinya",
+    "c": "Sinyal ponsel yang terlihat penuh tidak selalu menjamin semua layanan seluler berfungsi dengan baik. Pengguna bisa saja ...",
+    "f": "https://img.antaranews.com/cache/800x533/2024/06/17/IMG-20240616-WA0026.jpg",
+    "u": "https://www.antaranews.com/berita/5809183/8-penyebab-hp-tidak-bisa-menerima-sms-dan-cara-mengatasinya",
+    "t": 1792824706000
+   },
+   {
+    "k": "teknologi",
+    "s": "Antara",
+    "j": "Cara mengatasi notifikasi WhatsApp yang terlambat masuk",
+    "c": "Notifikasi WhatsApp yang terlambat masuk kerap membuat pengguna melewatkan pesan penting, baik dari keluarga, rekan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/08/05/InShot_20260805_104732163.jpg",
+    "u": "https://www.antaranews.com/berita/5803673/cara-mengatasi-notifikasi-whatsapp-yang-terlambat-masuk",
+    "t": 1792633899000
+   },
+   {
+    "k": "teknologi",
+    "s": "Kementerian Agama",
+    "j": "Guru Melek Digital Nggak Harus Pakai Gadget Terus, Kok!",
+    "c": "Guru Melek Digital Nggak Harus Pakai Gadget Terus, Kok! Kementerian Agama",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJreFZMN05UWmRmSGFaOXpSZEtSVkZ6RTR2X1l1SEJaR1FmT3NscnVYLTdjVmVxd0Q0NEE3UlFJUkxmUjExZTFnbnRPcW93aklFRENOaVNHcUx4cmlyYjJPbVlxQVF6NjdwZThsbGRlcVNrM1owNEU4WEtULXU1dVNYZkJIRzc4WWkwUklJano3TFl3Q0Q5enpYRmI?oc=5",
+    "t": 1790924400000
+   },
+   {
+    "k": "teknologi",
+    "s": "Teknologi.id",
+    "j": "Meta Muse Charm Resmi Diperkenalkan, Gadget AI 5G Mirip Tamagotchi",
+    "c": "Meta Muse Charm Resmi Diperkenalkan, Gadget AI 5G Mirip Tamagotchi Teknologi.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk1uYUlUaEJ5b2V0Xzd3SThpeF82Q2lPOG1ZRW5UX24xVTZOS2hHdWNOR213R2Z5R1VUTWx5SmpOSTJZRG1fdlB3aUpoMDBzNUFGMXdaY19pZ3JXWU0tNHZSdWs0dHVRSFAtWGd0TmtQR05nZkluUElXWEpMcHdjRVZGRHRlZ1JhNWxxdU8yTGp5Zl96b2VDMQ?oc=5",
+    "t": 1790319600000
+   },
+   {
+    "k": "teknologi",
+    "s": "TOPIK.ID",
+    "j": "Relay Q Diperkenalkan di IFA 2026, Gadget AI Berbasis Gemini yang Bisa Memahami Konteks Percakapan",
+    "c": "Relay Q Diperkenalkan di IFA 2026, Gadget AI Berbasis Gemini yang Bisa Memahami Konteks Percakapan TOPIK.ID",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1M5bUZZcWZFal9HLTl6QzNZWEhEcWRwNDh3WU9PUTlCMkxTZXR5Q28zODhQQzVxRGZ4Z3M3M21JM3hSVl9CYldqTTJZMDJpb0xqcjdXWXhxV2owb3NjOVA4ZXE2LThNeGRwclBuNmV2NU0tOFVwWFROUmFyRTNtaHlPcXJMdXBhTkh5QlRubzlZdkUwWGVkRkkwT0trN3ZQdGxWVlhLMUp1dWoteTktcVdVOXRVcmxieUE?oc=5",
+    "t": 1788764400000
+   },
+   {
+    "k": "teknologi",
+    "s": "VIVA Jogja",
+    "j": "Axioo Hadir di Agres Karnaval Gadget 2026, Tawarkan Pengalaman AI dan Gaming Langsung di Yogyakarta",
+    "c": "Axioo Hadir di Agres Karnaval Gadget 2026, Tawarkan Pengalaman AI dan Gaming Langsung di Yogyakarta VIVA Jogja",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZTU1MThCSEMyQUs4b1Y2MnhxNDJkMjZ2TFpyMlZscDd5RmZqR3V3SWEtVFl6b1dpSWR4dTAxYzAzSlVkN0Q1c2ZJZEcwdEpVWG1jbXF4RnIxMjE1VW43bGV1R0ROeGlCY1p3YlkyZEM2TmxvOFZ6VnhrQk1QS21JdlVXaVNVNEhhQkFYbjVLNU4zQ3IzdTZmbG0wT0Z4bzRnemkzSXp4anBDZm51dXFhQ05PR3pSWVNOX3BVd0xJUFRTUlVwQ1I5bUFxanZVN2lrNVBuTUxqaw?oc=5",
+    "t": 1787986800000
+   },
+   {
+    "k": "teknologi",
+    "s": "Teknologi.id",
+    "j": "HMD Touch AI Meluncur, HP Mini Mirip Nokia Lumia dengan Fitur AI",
+    "c": "HMD Touch AI Meluncur, HP Mini Mirip Nokia Lumia dengan Fitur AI Teknologi.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVktc21HLWlEY0xqUDV4VnB1U3hyMlBqbk1WeTRqSDRmam5uUzhWaDVnOEhFaVAxQURKMkQxQ3I2OVRXbDlfajFZOExJMnRHZjVLeUxaRGxpVnotQWFnQmNibE1IclNXa2RGUTJmMXpYRmVlZjhJdENpejVfVExKTzdnd1pkTF9lLXpoV1VzWlAxbU4yU3c?oc=5",
+    "t": 1785135600000
+   },
+   {
+    "k": "teknologi",
+    "s": "okinews",
+    "j": "Tren Gadget 2026: Smartphone Makin Canggih dengan Fitur AI - okinews.disway.id",
+    "c": "Tren Gadget 2026: Smartphone Makin Canggih dengan Fitur AI - okinews.disway.id okinews",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTVZNHRGT2N1Z0VIdXp2cE1GUlJELWdPemlyWUF3dnhUbkpRZlc4NUNiME5waE9HZS03a1BPT3lTMUx0dmpTSDJYQlNmMmhWaE12U2IydV9kYk1kQl9CV1ZSM0xwQUJYV3ZOeFZfV29VRzc1UXIwZDRsekVTZER4dWdwZEJVLTltMFVFTnhsMW5KejVKODZRR1pEYTNEYmlCeGfSAZgBQVVfeXFMUDQydmhMV1BvWU56Q0pVQUYzZFZSNlNpXzJDZ0t6M25BSXQ1UHZjaHRNb19xMXBmOWY1VTNJLXA2YTdJOXp3ZXNMSnZIYlBtSEdjLWdDOFctdlpiTWFkZmJOQUxEbDJ1QzRNZDZnNFp1UG95alRxM2JZc3Q2YmFqU0RRTmVnZmFDTk5mZDVENXFBcHdBbUxKNzE?oc=5",
+    "t": 1773730800000
+   },
+   {
+    "k": "teknologi",
+    "s": "GadgetSquad.ID",
+    "j": "Resmi Meluncur! TECNO MEGAPAD SE Bawa Teknologi AI Canggih ke Tablet Harga 2 Jutaan",
+    "c": "Resmi Meluncur! TECNO MEGAPAD SE Bawa Teknologi AI Canggih ke Tablet Harga 2 Jutaan GadgetSquad.ID",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV294YTA1aUpIYWhpREJtNkxKRF80NmFQdEJpanhoU0RGWnBLUjJuRVllWHpRc1UtSk9MMy1udVMzUkRLZ0ItR3ZHYlVLRzVPQXVJbkpMaWlvTXAxNFJMeGdlOUMxV3gwQnZ2RXIzODNCU3U5RGNqNC1VSEt0Y1BFX0ozaFVaNGhqUF9KUUJMZ0lVankxcGN5OWMwV3hKc3MtblI1T0VhRE96aTA2SWlaeA?oc=5",
+    "t": 1770624000000
+   },
+   {
+    "k": "teknologi",
+    "s": "CNN Indonesia",
+    "j": "Mengintip Deretan Gadget Canggih dan Unik di CES 2026",
+    "c": "Mengintip Deretan Gadget Canggih dan Unik di CES 2026 CNN Indonesia",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzJOekdoTkpoQ1VQLUpVTVB6SUZlUWRUV2VqZXlWalJwN1l3cl92bE5KTVdZdVhqVDB4dUJRMHV2OXdyeTk1R3BVbXJFNXV0WGxRRTFsakJlR0J1UklIc3V4WmlVdWEyT2c3bWJZWU9SM1AtZTRJOWc4VzctZFdiY2ZBdWlMVmhmTTMtbGRWTWF6blNLZ0JnbW1wTVRUeHlNRXB0X2g3bi1Xbk1Pd3d1WlVhU01ublB0dkJN?oc=5",
+    "t": 1767686400000
+   },
+   {
+    "k": "teknologi",
+    "s": "Ligagame Esports",
+    "j": "ENTER KOMPUTER Gelar Acara Edukasi Teknologi AI di Universitas Bunda Mulia",
+    "c": "ENTER KOMPUTER Gelar Acara Edukasi Teknologi AI di Universitas Bunda Mulia Ligagame Esports",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3piMnhNdk1sdFdReEcyaV9TOHhkcElDZ0MxVXhlN2pWdmQwcXJVeFhqYTlwTjI2bXhlb25zd2lzLUljdHdQcVU0Qi1iT1ZDdF9aajJ4QkNUNDFPdk1WMlhpMk9qOGVNZmd0MHJTTng5N3BLZzVWRF9oMVNJSHRJTXM0bXhMZEFQRjQ4RzhOb096Q01sU3FSLVdUZ2ZJMlBtQjZJdGRYSU5FdnUyeHdz0gG0AUFVX3lxTE1EOXVVYXN5UnhFUlBjUlZHT1J0ekZDWXBoRERBN1BXdGhaWXRXeVdNdDliTXU2NEZIbUFJVXptU01DcllBdmFlWWlvMk8zNEpSU0FxQ0NLTDdmeEZneUZqOGFYdWZiUERYR2FranVCNnNqLXVobzY5RGRfYm1vZkZoZ21vMWlBR1ZGQlN1R0lJNWZOWGdWbHhDTnNLbk9mQUNHQTh4UUNvd2RybFJrOVZxNENaVw?oc=5",
+    "t": 1747810800000
+   },
+   {
+    "k": "teknologi",
+    "s": "Eraspace",
+    "j": "Makin Canggih, Ini Contoh Artificial Intelligence di HP Kekinian",
+    "c": "Makin Canggih, Ini Contoh Artificial Intelligence di HP Kekinian Eraspace",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RNX0kxSWtPaDNjcEtDZ0ltZlgxTjgzMWVTQlhGVnZESUFWVWFVMGNSektWYXpLUjBlZnRiMWtJVG9VYUJzWDI1MVFHd2cxb0oxT1YxZWtuQVBBeEs3M3lONXNtczBPV1RlZ1F6YzMtWXBjV3ZvWFNGX2hreUFrb2dFSnZ6bW02RC1RM05ab2xuQTZqSzVqS1NPT0E?oc=5",
+    "t": 1723186800000
+   },
+   {
+    "k": "teknologi",
+    "s": "Hypeabis",
+    "j": "Kepoin Rabbit R1, Gadget AI yang Bakal Gantikan Smartphone?",
+    "c": "Kepoin Rabbit R1, Gadget AI yang Bakal Gantikan Smartphone? Hypeabis",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0RxSFc2SVhsMGxwN2pmb05tN1o5UkNMQVgyUUhKcXR0Vzd3OXdqbHhkdXlXRHA5OXNMRno5U2VzUDVweGxUdUZjV3RSNXZVN2Z4aFNsX3FSZHQ4ZmVYaDBhMHRMSnN5SlQxUHZNc3NocG15cEtSNkJtYlJSc3NaRXVlRWhXc3JJdzZoZTlUNE53UQ?oc=5",
+    "t": 1714460400000
+   },
+   {
+    "k": "teknologi",
+    "s": "Suara.com",
+    "j": "Apa Itu Rabbit R1? Gadget AI Unik yang Mendadak Bikin Heboh",
+    "c": "Apa Itu Rabbit R1? Gadget AI Unik yang Mendadak Bikin Heboh Suara.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjZhaGFfVlhKMlVhTEdxVnN1RXhnTmpycG9QalhaY3NjM3F4endLb29WaUkwZ2JFOHY5a3phT1VQbTkxUjk2WHQ3dzkxUXB5ZmFtYkIzcktVblJRamNXYnN2V2dmWWo3SEtrblQtTzRHUDhHMHBtVUVaaHVfVlVLOTBINzlqOVRHOUdXcFU0VGcybWFSWF9hcmhHUnZrVzBwN19CUzdKTdIBpwFBVV95cUxNWlpHWkpaYXZCUDJNTFVqeDVPOWFaQzdialYyS1F0amJSYW5hbDZHMFZENjd3TE9FckwyazdyaHQ3SHdTOFVUdGFzbGNEa1RDSnl4b0xWdWtPcUpJZjV2bjhuNVpNdE9qckQ2UjExSGwtMkFkakVQRHdnb0dYMl9jTDlwU0plejl5aWxxVFdDTk1mWHN2WXZkdWl5cGNVYXVtN1NsZWxlbw?oc=5",
+    "t": 1714374000000
+   }
+  ],
+  "nasional": [
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "KMSPJ serahkan piala Jakarta Youth Award ke atlet catur mahasiswi UNJ",
+    "c": "Koalisi Masyarakat Sipil untuk Pemuda Jakarta (KMSPJ) menyerahkan piala Jakarta Youth Award (JYA) 2026 kepada atlet ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/InShot_20261107_085619188.jpg",
+    "u": "https://www.antaranews.com/berita/5837959/kmspj-serahkan-piala-jakarta-youth-award-ke-atlet-catur-mahasiswi-unj",
+    "t": 1794019200000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "ICBA bantu pemda kembangkan karbon hutan berbasis yurisdiksi",
+    "c": "Aliansi Kredit Karbon dan Biodiversitas Indonesia (ICBA) membantu pemerintah daerah (pemda) dalam membangun kerangka ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/WhatsApp-Image-2026-11-07-at-8.43.36-AM.jpeg",
+    "u": "https://www.antaranews.com/berita/5837955/icba-bantu-pemda-kembangkan-karbon-hutan-berbasis-yurisdiksi",
+    "t": 1794018849000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Tarif Rp0 pencatatan hak cipta bantu talenta kreatif lindungi karya",
+    "c": "Kementerian Ekonomi Kreatif/Badan Ekonomi Kreatif mendukung perluasan penerapan tarif Rp0 dalam pelayanan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/1000661455.jpg",
+    "u": "https://www.antaranews.com/berita/5837951/tarif-rp0-pencatatan-hak-cipta-bantu-talenta-kreatif-lindungi-karya",
+    "t": 1794018795000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Pertamina Sumbagsel dukung ketahanan energi nasional",
+    "c": "PT Pertamina Patra Niaga Regional Sumatera Bagian Selatan (Sumbagsel) menegaskan peran strategisnya dalam mendukung ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/851656.jpg",
+    "u": "https://www.antaranews.com/berita/5837947/pertamina-sumbagsel-dukung-ketahanan-energi-nasional",
+    "t": 1794018773000
+   },
+   {
+    "k": "nasional",
+    "s": "beritanasionalupdate.com",
+    "j": "Momentum Hari Pahlawan, Meneladani Semangat Perjuangan dengan Perkuat Persatuan dan Kawal Pembangunan",
+    "c": "Momentum Hari Pahlawan, Meneladani Semangat Perjuangan dengan Perkuat Persatuan dan Kawal Pembangunan beritanasionalupdate.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON1FOWXZWMkRkQmxNUFdRWWtmRDg1TkI4Q05vdDVJMlViQWNNWkdBQV9oTE1XRUNBM2hrRTE0VEJnRzAtUXJYYURJZzR4cV9QQ0RXMHRVYUx5RHlWSW9JVHhpOTBJaGlsb05IS2tYSTRIRkpsa0lpX3NPV1h0SkJRVjU2NjZGbnpsMTdYTlFiajVjbmp4UHBsWVh5bHhway1EN0ZRQ2dzRmswUzc4RWlwVkVhLThCcnp6Smh4U2FOX0JIQmdpVEVkSG4wV1BOdS1pYk5iUzNsaUhRRnQ4bTRMN0xfSFpxNnc?oc=5",
+    "t": 1794018667000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "\"Together for an AI-Powered Urban Future\": Dahua Technology Perkenalkan Solusi AIoT di Ajang SCEWC 2026",
+    "c": "Dahua Technology, perusahaan terkemuka di dunia yang menyediakan solusi dan layanan AIoT berbasis video, memamerkan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/Dahua-Technology-Showcases.jpg",
+    "u": "https://www.antaranews.com/berita/5837943/together-for-an-ai-powered-urban-future-dahua-technology-perkenalkan-solusi-aiot-di-ajang-scewc-2026",
+    "t": 1794017831000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Sabtu ini harga emas Antam turun Rp20.000 jadi Rp2,545 juta/gr",
+    "c": "Harga emas Antam yang dipantau dari laman Logam Mulia, di Jakarta, Sabtu, 09.04 WIB, turun Rp20.000 dari semula ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/02/IMG_9095_1.jpg",
+    "u": "https://www.antaranews.com/berita/5837939/sabtu-ini-harga-emas-antam-turun-rp20000-jadi-rp2545-juta-gr",
+    "t": 1794017672000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "IPL siapkan liga tenis meja elite bergulir mulai 2027",
+    "c": "Indonesia Pingpong League (IPL) menyiapkan liga tenis meja elite yang akan bergulir mulai tahun 2027 mendatang sebagai ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/22/Tebism.jpg",
+    "u": "https://www.antaranews.com/berita/5837935/ipl-siapkan-liga-tenis-meja-elite-bergulir-mulai-2027",
+    "t": 1794017301000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "PDS HB Jassin masuk \"MOWCAP\" sebagai warisan bernilai se-Asia Pasifik",
+    "c": "Koleksi Pusat Dokumentasi Sastra (PDS) HB Jassin resmi masuk dalam \"Memory of the World Committee for Asia and the ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/1000478251.jpg",
+    "u": "https://www.antaranews.com/berita/5837931/pds-hb-jassin-masuk-mowcap-sebagai-warisan-bernilai-se-asia-pasifik",
+    "t": 1794016976000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Kemarin, ekspor via DSI hingga potensi peningkatan cadangan devisa",
+    "c": "Terdapat berbagai peristiwa bidang ekonomi yang terjadi pada Jumat (6/11/2026) yang masih hangat dan relevan untuk ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/18/vale_2025_morowali-09-17-at-08.39.07.jpg",
+    "u": "https://www.antaranews.com/berita/5837927/kemarin-ekspor-via-dsi-hingga-potensi-peningkatan-cadangan-devisa",
+    "t": 1794016754000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Liga Arab kecam keras Houthi coba serang Madinah",
+    "c": "Liga Arab mengecam keras upaya kelompok milisi Houthi untuk menargetkan wilayah Madinah di Arab Saudi dengan serangan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/25/IMG_20261025_212756.jpg",
+    "u": "https://www.antaranews.com/berita/5837923/liga-arab-kecam-keras-houthi-coba-serang-madinah",
+    "t": 1794016498000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Minum kopi saat perut kosong? Ini 5 dampaknya bagi tubuh",
+    "c": "Minum kopi pada pagi hari sebelum sarapan sudah menjadi rutinitas bagi sebagian orang. Selain membantu mengurangi rasa ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/12/20261011-sajian-kopi-khop-khas-aceh-barat_1.jpeg",
+    "u": "https://www.antaranews.com/berita/5837919/minum-kopi-saat-perut-kosong-ini-5-dampaknya-bagi-tubuh",
+    "t": 1794016301000
+   },
+   {
+    "k": "nasional",
+    "s": "Antara",
+    "j": "Bagaimana Torreense, klub Divisi 2 Portugal bisa main di Liga Europa?",
+    "c": "Nama Torreense menjadi salah satu cerita menarik di sepak bola Eropa musim 2026/2027. Bagaimana tidak, klub yang ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/torreense.jpg",
+    "u": "https://www.antaranews.com/berita/5837915/bagaimana-torreense-klub-divisi-2-portugal-bisa-main-di-liga-europa",
+    "t": 1794016114000
+   },
+   {
+    "k": "nasional",
+    "s": "ANTARA News Bangka Belitung",
+    "j": "ANTARA raih penghargaan Anugerah Kebudayaan Indonesia 2026",
+    "c": "ANTARA raih penghargaan Anugerah Kebudayaan Indonesia 2026 ANTARA News Bangka Belitung",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjQ5TF81VDdrM3U4ZVV1T2gweXFacF9UV1VlRmdDWHdYVnMtaXZYR0JsdTVXVGxlVnBRNHdpWFhFNjB5ZW9BZV94N2FUdHhIVXBfdGE2LXcwRkJJVnNZa2tPbGQ5TngyNUp0NVlWdlQyR1VQay1lMTlwSy1PY2ZaWFB1MXRGYlpWSUU0UUtTb1E0UFVMVFktSU1FVUVtUU4tRlBR0gGoAUFVX3lxTFBycVU1OGFzZ2dXdFhXZmhMaTNuWVdkQVZ3a1pZX1RBMVF5Tlljd1c2ZVpGU19LTHQtUW9rRHBGa3FkbWN3VE1tNEh6dUhPR0dTSWw3XzBtTDBqOFE0SUx3bHBuTzc2dk1zSXVVaHA5dXk5SW5GREY2ZTJtQmJtLUVVTzNoWTI5T3lzYVJaLWNvcHc4V1JYSENQN3ZBaUNQX3V1QlN3ZUhRVg?oc=5",
+    "t": 1793971347000
+   },
+   {
+    "k": "nasional",
+    "s": "Tribratanews",
+    "j": "Tribratanews - Portal Berita Resmi Kepolisian Republik Indonesia",
+    "c": "Tribratanews - Portal Berita Resmi Kepolisian Republik Indonesia Tribratanews",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHVTTDlSODROWS1HUzV5TzlIRWQ3bm9mLWpKbDhoUWdRSTF3ZzdrblRDX2J0VEx5R2JiY3FzZEU1WXBNVG5fS3psZDE5QTdBODBsYVhWd0VjZGdhOVR0d0sydzdHZXJHSkM3VE5uclJ2cTZFdmJhd0xoenN5UE9sUklZM0stMEpmekJn?oc=5",
+    "t": 1793957856000
+   },
+   {
+    "k": "nasional",
+    "s": "beritanasionalupdate.com",
+    "j": "Hari Pahlawan 2026, Momentum Jaga Persatuan dan Perkuat Perjuangan untuk Kesejahteraan",
+    "c": "Hari Pahlawan 2026, Momentum Jaga Persatuan dan Perkuat Perjuangan untuk Kesejahteraan beritanasionalupdate.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRURBdTFYaXZQYjA5RkV5STRTS0lqRzRkZHZXWUN2anZoVURvQVRWTFBBQlpVUTJ2aUVuS1h3SnNJOWZhUGxjY2hGTWxqR282bmtyU01KRVZRcXBTang5SkdLZmlQRTZGSERRRmNjRjVRcE81RXl1aDBjdVRnd3BlOEx6ZmZGbHBuMHJEb24tZ2xUdVdPcy1uSTBPQmI1SWNTZEtJeGNjTTZ3TnYzOXA5T1YzVFhBakhGOE44dnkzVnlTa1NfU20wMFFxanZsU0JaREhJ?oc=5",
+    "t": 1793930606000
+   },
+   {
+    "k": "nasional",
+    "s": "beritanasionalupdate.com",
+    "j": "Pemerintah Fokus pada Penanganan Bencana, Keamanan Pangan, dan Kebijakan Pengupahan",
+    "c": "Pemerintah Fokus pada Penanganan Bencana, Keamanan Pangan, dan Kebijakan Pengupahan beritanasionalupdate.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1k5cE15amdfQ2ZPb0RSaElTTkN6S2ZiQlFxSWlsWUNOVlJ4QTd0MGdIM3M2d1NYUWl1UWtMcWFfVlNaU0hVb0FTS205Rk5YaFNrUEdkNEkzcDdlRURVbms1Q1ZQMUJqcGcweW1zbTBhNG1YWHR2c1AtM3ZfVFhYTHVORkNlYmxiWUtrNWtOWjl6RjNJeW43NGZhRFRScTBPbzFRdGJ2ZFIwNm9lbl9kdEFQSmpEWFV3aEpabDQyNzFsZnV1Nkpua0pnSXVmTEU?oc=5",
+    "t": 1793929702000
+   },
+   {
+    "k": "nasional",
+    "s": "BBC",
+    "j": "Jokowi dan Prabowo di antara kasus penyadapan",
+    "c": "Jokowi dan Prabowo di antara kasus penyadapan BBC",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZXJDWXJhdDBHT0FXcDltYlhTVWJONGVwLThRbmhOak1yR2lxTlhBSjU3SkdSbk9ERlNwX04xOGJVQ3BVbDZGd3JuOUpDMW5FYy1MaVl2SjhUR21vTkI5SEt30gFnQVVfeXFMUDBwRUFnM0xURzQ3X21WTTFYelNJck9yVVltWENSeDBLclotcXpNY2twYzB5a05pT2tJUU1pMFoybmVuTXVKY3ZPOGEwc1dCX0RFOUlUcm9SbnVFZld6Y2tsTGp0RXZibw?oc=5",
+    "t": 1793863394000
+   },
+   {
+    "k": "nasional",
+    "s": "Ortax",
+    "j": "Wamenkeu Paparkan Strategi Pemanfaatan AI untuk Pengawasan Pajak Sawit dan HNWI",
+    "c": "Wamenkeu Paparkan Strategi Pemanfaatan AI untuk Pengawasan Pajak Sawit dan HNWI Ortax",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1NTWHRhMllycmJGLUhPUnViVmM1QXJDb1RkQk94RWFldWdRaUwwbDZGX2VBenJRQ2JsR0RZaU1yUk5XRjF5QnBydWlXa2VIbTg1OHBHQjJNUDdVczROczFDOWxUZGJGU25BcXVIZURhVlY3T1VrdXdGMWcyRHNUTThtM3hjVjNYenU1R3hEZFNvWTg5Z29FWU84ckJaQQ?oc=5",
+    "t": 1791874800000
+   },
+   {
+    "k": "nasional",
+    "s": "Dinas Kelautan dan Perikanan Aceh",
+    "j": "Selamat Memperingati Hari Tentara Nasional Indonesia!",
+    "c": "Selamat Memperingati Hari Tentara Nasional Indonesia! Dinas Kelautan dan Perikanan Aceh",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnhoYTR1eDVFSVkyaUp5RGt0eDgxazViX2Z6UzJFcVhFYkIwNk1NS0hnQkFTNEc2aWkyQzNoYkhROFBZQm90Vy1lamFBYl91QzZjQzUxVzJ0NTRuZlZoTS1YMG1MZWdHUGRIM0hNSDNHSjZpUjhHS0NiSWk3SEdETkh6VzI4Y0NCNjlLWFAxMzd1R051ZW52VGtJaVNZVnk4Y0E?oc=5",
+    "t": 1791183600000
+   },
+   {
+    "k": "nasional",
+    "s": "Pemerintah Kota Depok",
+    "j": "Rayakan Hari Komedi Nasional, Pelawak Tanah Air Sukses Hibur Warga di CFD Depok",
+    "c": "Rayakan Hari Komedi Nasional, Pelawak Tanah Air Sukses Hibur Warga di CFD Depok Pemerintah Kota Depok",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhGRjlSR3c5NDF6VzRRUVFYLWNnQXljNFB0SHVmeUV4YmtIdU41NFFnQUN3eGFDcEVSVTFVWlFhQWxGbkJVcFZXOXJNWkg0X21UOHQwRm1aX2RlQ29KUGZqMnhWX2lnMUVKUHdxOTNBdW1LSDVkMnNoeDJwYzlDb2Ffdkw0eS04dEpmVHBJMjRwd18xSW9qWmZ1RWFfNmZpSVREcHROaVc?oc=5",
+    "t": 1790497585000
+   },
+   {
+    "k": "nasional",
+    "s": "Komdigi",
+    "j": "Kementerian Komunikasi dan Digital",
+    "c": "Kementerian Komunikasi dan Digital Komdigi",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmlHVjZDRFFYR3BTZ3l4V2lsc1JwdkFWY3BhUl9UUm93RkIxeXZSSzhfdUNJcFhqY0JhVDI3RGRPaF83T2c1dXhuaUFnWkxjZC1mU1RDMWdpVWl6VVZHamxWdU51dDdRd3ExaE1EZHlJYk44T1J0M2g2cmJGTHVrSFBnTGcxWkZMUjdqdk5vY3RnUExzYW10S3QtYmd6ZnE4el9OUmQ1UW5nU0NrVGtYZ0ZtYlg0WUY2QTE2cUY1cFhCZw?oc=5",
+    "t": 1790319600000
+   },
+   {
+    "k": "nasional",
+    "s": "Mahkamah Konstitusi",
+    "j": "MK Tegaskan Jumlah Korban Sebagai Indikator Utama Penetapan Status Bencana Nasional",
+    "c": "MK Tegaskan Jumlah Korban Sebagai Indikator Utama Penetapan Status Bencana Nasional Mahkamah Konstitusi",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3ZWOThUOTZYSTNIQmVUSlQ3RlZOQUJxWnk1M3BQdnF0RVhUVU43NnVLeU1RbHM4SzAySTBzSklyM25QNVRQbmZhRVdQYTlVUDBUQ29DbUZGSXF6SEVnLXZ0aTM5OW9oRWo3VzBPZ1JpZ3JTWW9BMEtYZzhEVGY0YU1RRzR4RTctSEh0dTR1WEFrLVh3Y2d4Ym16YnpDSldOc19ZbUhyaHRjNHp1U3I2X3RB?oc=5",
+    "t": 1787900400000
+   },
+   {
+    "k": "nasional",
+    "s": "Ombudsman Republik Indonesia",
+    "j": "Peringatan Hari Anak Nasional, Ombudsman RI Kawal dan Awasi Pelayanan Publik Berkualitas bagi Anak Indonesia",
+    "c": "Peringatan Hari Anak Nasional, Ombudsman RI Kawal dan Awasi Pelayanan Publik Berkualitas bagi Anak Indonesia Ombudsman Republik Indonesia",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWpkYXFnQ081bVFvazRQZk56MkpNenNFTmV2UDRacUlLbnNoOTBXaHZMZXVEU3NRbjQ4Tm1JYUxZTTk2SG1ENnhSQWs1THdtYnE4Qmc5VXpmLVpSVXltWGxjc2w5VVdFM05OVmVKdmxsTnBXRVFsRVZzTUJlSUxrQ1YtdldmSFY2MmNGUXJfeU1sUzg1RWt6QnROOF9ZZXIzRWhhaHg3MGxOclBWdWVvUVNqNFRjY1J4SExJVVB6ZWFmTG5lRkI4U3Yyb1RCWVVjbDcybg?oc=5",
+    "t": 1784703600000
+   }
+  ],
+  "bola": [
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Bagaimana Torreense, klub Divisi 2 Portugal bisa main di Liga Europa?",
+    "c": "Nama Torreense menjadi salah satu cerita menarik di sepak bola Eropa musim 2026/2027. Bagaimana tidak, klub yang ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/torreense.jpg",
+    "u": "https://www.antaranews.com/berita/5837915/bagaimana-torreense-klub-divisi-2-portugal-bisa-main-di-liga-europa",
+    "t": 1794016114000
+   },
+   {
+    "k": "bola",
+    "s": "RRI.co.id",
+    "j": "FIFA Matchday November, Timnas Indonesia Pilih TC di Bali",
+    "c": "FIFA Matchday November, Timnas Indonesia Pilih TC di Bali RRI.co.id Timnas Indonesia Akan TC Jika Gagal Dapat Lawan di FIFA Matchday Kompas.tv Batal ke Timur Tengah, Timnas Indonesia Pindahk",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0pvOG9KLUlGeExpQjROMlVFalhPRF9tNTRyZlQ1Tm9JbUdFdmZrSHBnQjYxeDg1SFVsV0JNczhKNE1ON1R5VEdnQ2xjYngwWTJWVjNyakpDQmtvZHBrN0pHazRtNFd3TkxCVUZxaHlKNVdydnpQNEl3QzlUdml2UkNvaWxNR1FmaUlHcHdMTmphdlMzZlpRTmI2SXdULUlEYmd1Yw?oc=5",
+    "t": 1794015060000
+   },
+   {
+    "k": "bola",
+    "s": "IDN Times",
+    "j": "Gak Main dalam FIFA Matchday, Timnas Indonesia TC di Bali",
+    "c": "Gak Main dalam FIFA Matchday, Timnas Indonesia TC di Bali IDN Times",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjZyUVgwUTc2b3lNODZNMmhfdUJCel84NnFXLTQ5NkNfUVJaN2tabkxLZzAtT0U1Qjc1TXJEVVk3ZDQybkR2MGZQR042MWZMcm5mc2lTcTJIRGZ4cmpqOUlqUnllTkN5aWhGbGhZYy04S3gxWDRwQTdLZ0pjcFJ2VDRJUllwTkhyTUsyZUJ0NGNyNzh1cTB6VGdzUEJfeUtKdTBoTTVZZzZmQ0JhbkZv0gG0AUFVX3lxTFBqSlNjS3FYbENvZk5tVjg4TWR4LTNpV1RGaWVkNEg0c0QyUW0yZVNDUzZ2amJwV2dScXlHaG9Mb1BNRkY3ZFQ2WWxpYkNETVlEODVIQXdZa1F3cjlSSnJjV3BOSGR1aHRfVzhlUWx1UFhkdDFOX1VhLW5GQWFndWhieVJoVXVQTjJ5M1E1eUtaNDdGUjlMbmo0OXMtWjBKLXNyMDJ1QnV6dVYwTUZYMVo2NERTRQ?oc=5",
+    "t": 1794014581000
+   },
+   {
+    "k": "bola",
+    "s": "Kompas.id",
+    "j": "Tidak Bertanding, Timnas Indonesia Gelar Pemusatan Latihan di Bali",
+    "c": "Tidak Bertanding, Timnas Indonesia Gelar Pemusatan Latihan di Bali Kompas.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdFoyZ0k0b2Y0SmRPa05vbTVFVkNJaXRtNmFObE52V2gxS0hnLVB3c3hsSmNiTXM5VFB6Yl96SlYtTjNabHdWT2NSa3pKNmlaMWRpbkFUYXcxbUFnN0ZmdkFzejZTX3NFQWNIdVRXcGx6SnIyUm5tdGwtcEtrTlBmcVFoWlhaNlNVRjluX3lTdmxtdVJtNXBSc19PblJYZTJLNEFuLTZFR1U0eEdRYTJKLXYwOEZvTjdRekE?oc=5",
+    "t": 1794012833000
+   },
+   {
+    "k": "bola",
+    "s": "RRI.co.id",
+    "j": "Arsenal Catat 19 Laga tanpa Kekalahan di Liga Champions",
+    "c": "Arsenal Catat 19 Laga tanpa Kekalahan di Liga Champions RRI.co.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXNFR1B2dzJSVHB4TW1nR2owanRKTlBiby0tN294UXEzdWhWNWxTLTNCaTNXTy1ReER2UkF6dkZfSG5nMl9sLTBHSjR5dC12WHhWZU5yWnZBUEc5UXdNdmVkakk0eWtQbEswdU81RWJDRTRvTmNLQ3FfX0MzbDFRQngyVFdjUWRDdWJ3QUl3QVlwQ3ozWWhJ?oc=5",
+    "t": 1793991600000
+   },
+   {
+    "k": "bola",
+    "s": "Tribunjakarta.com",
+    "j": "Jadwal Piala Asia 2027 Berubah, PSSI Siapkan 3 Agenda Penting Sebelum Timnas Indonesia Bertarung",
+    "c": "Jadwal Piala Asia 2027 Berubah, PSSI Siapkan 3 Agenda Penting Sebelum Timnas Indonesia Bertarung Tribunjakarta.com Penundaan Piala Asia 2027 Tak Bikin Timnas Indonesia Menganggur, Apa Rencan",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONW9ReWFnWFg4aWs0alJNVUZzM1JNSmZaRW5ZNHllSjgxUzNaWUpQbTIwZDY0N3oya3hQTEswZ1ZpREI3aDl5R3F5NlJEaVowTFRJdjlJSGF6dVJ6aC0yWUw3ck81bWRweTVaZFJ5WDllRWwzNjdWQUdEUUtNdkl3U0pWcUpaSUpGX044alBoN3lPck9QUkVjZ3F3aklWXzBFeFhTQ0hraXRsN2NCaEpwVXFGRzBxNmdFMkV1WGd5QUxfYlJzSkY3QlYzQXp0QVBfOGp0NlhTTnNpclE?oc=5",
+    "t": 1793976390000
+   },
+   {
+    "k": "bola",
+    "s": "https://janalokajournal.id/",
+    "j": "PSSI Maksimalkan FIFA Matchday November Untuk Pantau Pemain Timnas Indonesia Persiapan Piala Asia",
+    "c": "PSSI Maksimalkan FIFA Matchday November Untuk Pantau Pemain Timnas Indonesia Persiapan Piala Asia https://janalokajournal.id/",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlg4QWlCc0xha3M4Vmh3c1dWcGtxRm42UWFBSnJtUU1SX1lVNVgwQUdid2FCZmJ4R3pMMDZnQlNxUnpkcXdKRDJjZFZuVjBxRTdQWVY2Q3NpWDJIeDBIOWdsaE5sN2x5TGdUZ1J1eEZSRXFZQUFGb0tUMkZMWDdhUDY0UzFDdGRDS1FBb2puQ0xPTWtQaGVKTkpxM2FYaGs?oc=5",
+    "t": 1793961580000
+   },
+   {
+    "k": "bola",
+    "s": "Superball.ID",
+    "j": "Satu Wakil ASEAN Dilarang Tampil di Kualifikasi Piala Asia U-20 2029 usai Melanggar Aturan AFC",
+    "c": "Satu Wakil ASEAN Dilarang Tampil di Kualifikasi Piala Asia U-20 2029 usai Melanggar Aturan AFC Superball.ID",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGVocldVZ2Y4MWFXN1hhcjhUbG91Zk9fMHVWTFZlZF9CYTJraGdTcFlRR04xbjBEOHZYRE5UUFpDcjVkSmNtNFE3RWptZWVqYW8wbjZBUHhmbjRRZ0hmQ3BQV0dkY2F4SnktLU9rRVNuQ2F1Smc1YVl2Wk9JZVdLUVNVZ214QmNYaGJ5RzJVUThRd3J5LUZMUGFWSnNRcHBUZlltc2xjdFB3X1h0MFN5ejRCdFVfNWpKVHVjczNjcl93aG5MUjczY0t0T21YaS1qWkt5QWtKQnPSAd4BQVVfeXFMUHQ4Yldhc3phbGdCRndLVGZMdTUzRjJ5REtSYmUxampRRWdFeXhPQ1RtTWU5QVRidnU5aW1zRnAyVEtoZDNJYmNSemZrR2ctcWpLbXQyV2JtQ28yOG02d3RZRzZIR1pSN09JNk4tMVlvQkFTQnhQRHBMeXFoUzNKeFJBZ3dnM29WT1VTUG9DSS0zWnRpcVk5MlpkSXZ4MEg2TDhFLWRQNklHallEelRneTR3dzF6NE85dEZTTWFDcC1FaGp1YlNXRGNHaTdRTEFyenNWbkw3YV9lc0RnYmZR?oc=5",
+    "t": 1793960460000
+   },
+   {
+    "k": "bola",
+    "s": "Bola.com",
+    "j": "Penjelasan PSSI terkait Pelepasan Satoru Mochizuki dari Timnas Indonesia Putri, Pelatih yang Persembahkan 2 Gelar Piala AFF",
+    "c": "Penjelasan PSSI terkait Pelepasan Satoru Mochizuki dari Timnas Indonesia Putri, Pelatih yang Persembahkan 2 Gelar Piala AFF Bola.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNkFvMjZpeGR4dEJicEpWZ3RWUklLbktyc2xQOVI2SEtDaW1iUXdIMVhUOHNMRVJ6R0hsVGVOWldzbkNLaC15LUhhUjlaU01TNlg2amlsTFI2YzR1c19TNEduTnE1WmtaUlNuTFJaWWV3T1JRM2RWUW1jR3gyaXVNUWk5Q1VRcGxDZ0hSWWVGNHJfSmwxSTFSRFBrdVFQWkJIX2U2UVcwNHNMbjcwZ3R2clp3bTA1NmN4NXpUSDlKMnV1d2IzYUxFTzV0VzVXNHQzNGNlalR3VXFtMWhVbjVFU3A2eXJvUm1xQ3BHT2J4RDUwNEQwUmZxSUFR0gHrAUFVX3lxTE91Zm9CdU5vN2JHWnNfUE1nMTFrUUNLdTJlQ3FsYUFJQ1NrX2lqVXZxZzVPbW9Xb1drRlZZVjJLRmpwa1JmZmdDMjk5Y0lKR3B2dE93eElySFFabXYzbjNid0JVZEZiZFpmU3ZHbUF4dGZOTk10NXhmM0VtQ0pULTZtTXlSMExQTC1sRk1yRkE4QWxzRFBRbU4zSDVtcnVxSEdvbkFicXMyQVdsTnlCYVIwb2RVUEZ6OU1Oc1N2VXF1YndvUDhPc2lVZHFWTlZyY3R5Y1JlZklsY1k0VUNQVnBhd0RBYmptc2NELVk?oc=5",
+    "t": 1793959200000
+   },
+   {
+    "k": "bola",
+    "s": "Bolasport.com",
+    "j": "Tantang Arsenal, Hull City Merasa Hadapi Juara Bertahan Liga Champions",
+    "c": "Tantang Arsenal, Hull City Merasa Hadapi Juara Bertahan Liga Champions Bolasport.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDFJTUZMRElwaW9GZVRMc3ExNXI0azAzVXQyUXBfN1dsLVhlZWE2RXlWenJRWDBrSEZNdlFVM1B5d3I3VVBCV0VCa21VMHR5b1dESTc0YWZtbXNJMUdFdVpYaHJTcnNaZDdfYVJ0cGd0RHRLQVVGV1d6aURKSzlQZUlvNEtPQnpYb2VDdmFSaUZLUXVneVVuSDhRNzFnUFp3dGtSaW5hN1l4dlAtSEc40gG0AUFVX3lxTFBqcjdoSG10QVlMa0xoM2Jvam53TUJmci1FZEktc2lkT3Y0dkdFVFZsR1ZUZm5SeVBwbXduY1VyQTJQbmNBYWFiQUtPTUxKdl80LXlFejY4THZKQWtDOV9jNGs1WV9vbDhvLWdfbUJTT2NUWEloVXYwMkdKaktJTzJrNmRnQkROelNveWF4cHZ2dzNZdXFvNWNaQkF4SE9PTVFkSTMwOTl4OVAySHk5bUtsdFBRNA?oc=5",
+    "t": 1793954700000
+   },
+   {
+    "k": "bola",
+    "s": "detikSport",
+    "j": "David Raya Masih Terhantui Kekalahan dari PSG di Final Liga Champions",
+    "c": "David Raya Masih Terhantui Kekalahan dari PSG di Final Liga Champions detikSport",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnNHalRMNEFzZ1pnUXhpT0h3N2E5RFBfamZ3SndCV1B0eTJ2R0tfY0JRQlRkQmhUWGlnWXpCZ1JNTlRkQTVkN01Ha2Rfa180ekZTX3c1ZTFaQ2hzTUJTMVF2aWxGR3FpbnBZYnBWYzhOcjE3YUlEZXlTME9RYzFMMmlwTEZKMUM0OVZ1QTE2cUE2cFVxX0g1OFRXa3ZsUGtlN21HWkk1bXpIcmFmc1oyV0hHQ2IyYkR4bGfSAb8BQVVfeXFMUDFTd29nM044ZGpITGpNQkdEc2tnbUFUbFZQWTYxT3NTVVRBcHRqbGlmMElqbDBoT0plU0RGanRoQkNFSUdpcS1XblMwRkM5SWR5ZmYySmctSjRYaktzTE9aR0dDYkU1NW9hMzNjVFRERkp5UkZ0T0NvdUtuU1NGZ3VGaTVTZ0RVTFEzWjJ0UDQtNmNUXzR1WEdsQzdYdHkzb0dLMUdMX09nX3NoNVA0TFVzbmJod3BpYmNuUVgteTg?oc=5",
+    "t": 1793946630000
+   },
+   {
+    "k": "bola",
+    "s": "Goal.com",
+    "j": "Jadwal Siaran Langsung Sepakbola TV Indonesia Hari Ini - Nonton Bola Live Malam Ini (Liga Inggris, Liga Champions, Liga Italia, BRI Super League / Liga 1 & Lainnya)",
+    "c": "Jadwal Siaran Langsung Sepakbola TV Indonesia Hari Ini - Nonton Bola Live Malam Ini (Liga Inggris, Liga Champions, Liga Italia, BRI Super League / Liga 1 & Lainnya) Goal.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczZXMDRWXzdpM3ZTcUhwQlhqZzZKWWtqcFNNeHlKdklBN0RDaVVNNGxwSjlIM0owVnpGMVp1UVdadVdTVW1PekI3YUVuU0xIXy1TQ3NnTkctNG5SUzBza1lPUW1fX0JWcklkdWQ4Zmd5Wmg5ck1pcjdCdjdtelBEVzhFYXJNZElCZ0w5WF9Ub20yMmly?oc=5",
+    "t": 1793946601000
+   },
+   {
+    "k": "bola",
+    "s": "Bola.com",
+    "j": "Sir Alex Ferguson Sebut Striker 5 Gol Ini Finisher Terbaik MU, Bukan Ronaldo atau Rooney",
+    "c": "Sir Alex Ferguson Sebut Striker 5 Gol Ini Finisher Terbaik MU, Bukan Ronaldo atau Rooney Bola.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2ViOXVLSERmeVlSYUVjMmFWUUw3ZVBwcTE1bnVkOWR2N1AxOEhYX19oV005bHdVT3AzZUtBbWcwSmYyVVlVOWRvdndOVldhcDNtWmlMdkpKc3pKVU1qZkhkNnNpYUd2cjhpWVdvNVg4UURlSjRtemlrUTFlY0UzRU5Ucm84RVdJeWVkQzJ0YUtlaXh6aFhjcENjT09NeHNCblNlclE2Rlgwc1I2TzR1dTFBbzZCNWZIdTl2MG01SkhJT0tyamRkX9IBvAFBVV95cUxOd1VtLW1jRGptc0paSnZ4aHNaandWTmRBZGx0b0ZQSkJkVnpFZmVjNDRBd1JUTFJrRHptRS12c0JlRm9hR2hSd0RNRG9TN2MzOTR6Q0V6VGpzMnl6ZTJUdDRpN2JvMU9FSWh4QlZZb1I3R1hyeGhCcDRWNmp5T3VUQmZ5bzdSSVZDZ01OTkZKSS1qWmt1M2xwUncxVWJCOE9COVNTbkZTSUtZaTlEbTE5UXJIM1UwVTItWFBuWA?oc=5",
+    "t": 1793935807000
+   },
+   {
+    "k": "bola",
+    "s": "VIVA.co.id",
+    "j": "Jadwal Kualifikasi Piala Dunia 2030 Zona Asia, Timnas Indonesia Langsung Lolos Babak Kedua",
+    "c": "Jadwal Kualifikasi Piala Dunia 2030 Zona Asia, Timnas Indonesia Langsung Lolos Babak Kedua VIVA.co.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMkNVQ2ZLRWR0OHgzUnBKMldrbG1hYzdZdEVlV0RpTXd4WV9FTTVnWlJzY2t5VDNNdmI1M0NqQjJWRXprZU1yOS1abHJCTVItQVNtbEZHUjhKbWNFVmE3S2pOMnRxQWM4NkljNG5Ia01RVmNZM2Zpd3RFRnlfOEo5MnZsdkRTbVJXZ0hKbC1yaWowaUNzRW9aMXppTk9IdzZxZk1maHBqZFBuTFJJa0p0R3U3bHJ3YmZPOTdoc2JNYm5SOW_SAcgBQVVfeXFMTUhYZVEzV0FwRkRLRW5qa1NHdUUxU1VacDAzazJJUU5RcVFRUFdHZVNFcGRKOFM0dmtTZ1VvbTd0VFcwc1JrLXU5UnJEYzRjcFJsRXBHNUlFLUFzbmJLQng1dkctSVRwZjVqLXVIYy1ORmpFMFc0M2FfRTBqNTJkUWZGQndzUFQzcHg4TE0xbkE0SmZUWUFTNWVWVFBFSW9WS2RnNi1ETFI3VTNHVU5KUHI1eW1ibVZZN2tlaks2T2RMbmJLREhQeFQ?oc=5",
+    "t": 1793935680000
+   },
+   {
+    "k": "bola",
+    "s": "detikSport",
+    "j": "Catatan Unik dari Pesta Sembilan Gol Como di Liga Champions",
+    "c": "Catatan Unik dari Pesta Sembilan Gol Como di Liga Champions detikSport",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWY4T1hGRGlKUm1kc0NDOGZOM3A4aGRHTXBjb0RrOEIzdDkycmEzRjFYTURTUXQzc3ZFZVViNWxkVlRwb0hkc194M1RTNmpONWxpVWZBc2U1RGttVlg5YnJpRWZEZ0NEWTRiUjhLT0hyV04tMktuQ1YzNUFUel95NzJ6Yi1LTllPZ2Z1bnBIQmZoUzAxbXlkM3RlV1pqYWdMRjRKb2F1OG5WT1ds0gGyAUFVX3lxTE1BaDBVY3FFVmZoLTlLVVUxdWJPVklzbmJuUDIybERQeVdlTzIteTFQTWhhS0s4RmJQd1FQTy1CNUc0b1FBTHRGdmRqT3lQbzNlbVVnUi05d3dSaVZwWW5PR042UGJFZjFvdU50Y28xY0pMcTNncWtsSmJoMDRGT3BMVmhEclZVaTFpdHNFTXprV0ZYc1lGRnJCS2NGY0RHZ1dNQmVKQnpPMkRJaHduT1NpLVE?oc=5",
+    "t": 1793926852000
+   },
+   {
+    "k": "bola",
+    "s": "Tribratanews Polda Jabar",
+    "j": "Piala Asia 2027 Resmi Ditunda, Erick Thohir Sebut Menguntungkan Persiapan Timnas Indonesia",
+    "c": "Piala Asia 2027 Resmi Ditunda, Erick Thohir Sebut Menguntungkan Persiapan Timnas Indonesia Tribratanews Polda Jabar",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVEyQnR6UUlBTnNHZXZWZ1JlaVBpbmZDam5JYWkzRFR1dTVRa2ZjZHF3cE0wTURVcG9lbTJiWW5Lbm5kaWpKWmlicHBPb1RsZkdKUzR6VjFLakVYT2NDVjl1MjF0dW1DRDRWSjNfN08tNUQySlNDUVRSay1EUkdhNkktQ1gzZmVSNWVScXA0a3RvT0Z2cnN1RGVWa2dSbWFkZmFMTXpVbzVUWGlyWUpMaG9udVZFUE1vcHJ4ajRqWjRpd1ZnaGkxWA?oc=5",
+    "t": 1793923560000
+   },
+   {
+    "k": "bola",
+    "s": "Kompas.com",
+    "j": "Deretan Prestasi Satoru Mochizuki bersama Timnas Putri Indonesia",
+    "c": "Deretan Prestasi Satoru Mochizuki bersama Timnas Putri Indonesia Kompas.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNldvMklFQ3dQQWFSZFVucllqX3podWZjNXFXZHJmeEV0Z2JiX0dLX1lib2xCNmYzb1l4M0dmQUM3MVA3TFFXNmF2YV90UjRkR0xaZnlEb2FGdUVwWE1oMURmWlBTMjJzbS1TNzNQYWNTUmJJT0tIeFNCeW92VGZXOEtQNXhETTJPelRVdF9KYzNWTW5ENFU0OHhQNWFuVHc5ZmZtM3dGNUYxcTdFTGd1cHRvdw?oc=5",
+    "t": 1793920200000
+   },
+   {
+    "k": "bola",
+    "s": "Bola.com",
+    "j": "Mengapa The Longest Wait Tak Sajikan Kisah Timnas Indonesia Secara Kronologis?",
+    "c": "Mengapa The Longest Wait Tak Sajikan Kisah Timnas Indonesia Secara Kronologis? Bola.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFkxRWlEc0hSVDJHQ3FKMzVhd2RRRWhxNXlMZHF2LVlBRTFVSGR1VFR0NmhCQUJSSzgxOE9PSHB1YURYZUFNWUdfRnlKT0dpRmhZNTk4THdXeU5UQWI0UHRaLTNSejlJMnV5RlBMbVRnWVVsRmlueWV2clVvbkhJRGJaZGJSZXZPbFYzTzM2X1FINHpBRWpGLVhURWw3cGJ1cXJEOG40eEFiQzJvbXhVTTAtMW93UVk5Skt6UGpR0gGvAUFVX3lxTE9RQVB5X2Q1NWRkNDJ2cnI3OUdyUlZqbjUzOEJRZlQ2RWdHLTJwU3oyeGhmZWxnUEk5ZXhESHJXcTBxLWdYRDFRRko3NFlmREJSYTNnS2U4ajQ5LUYxZ1lEb0ZYamN2eFo3elpjMUEwVnA2emprenh6VzBKTXBlRzA5a3JiWm80VHhrVmlmVThqdERFdC1fckVQMmlxdlBNNzJkN0lmRU9oZTFVU2szcGs?oc=5",
+    "t": 1793918726000
+   },
+   {
+    "k": "bola",
+    "s": "CNN Indonesia",
+    "j": "Resmi: Satoru Mochizuki Dicopot dari Pelatih Timnas Putri Indonesia",
+    "c": "Resmi: Satoru Mochizuki Dicopot dari Pelatih Timnas Putri Indonesia CNN Indonesia",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkwwTXdnSU9sMFZlYzl4cEdNZ0VEVTNlNGRCa2JaWWcwNFFic1B2d0xEaFdkMlNGVFNRNmxtRmM5dER2bDRBZ1ZfRHU4QkVxSEU5RXpKaXJ4Y3JGQkVEZ2FMamJVcW9qYUZROVNoMWVJUTMwbW01TWRFLXJZQ2FtcVNRa1Q4N08xT0dzUFBFU28tcHdCTk1vVkdjWVEybFdUQWFyRU55blpIejhhWUxhTHZ0ZXpyZzVRTVp0eG5MeXhFQjRLaG1HMU1Md9IB0AFBVV95cUxOSWx2RHNDY3ZXd1lId2s0Yk5qSnllNWZhT1R0V282WWpXR0ZYYVpFUTY2Ml9ya0JWMmE2NmpremRVbUdyRldJMXdrY0N2OFBxWVdYbS0ycmZIS1dBM0ZBbGpBdXMwdUNXWWRhTElIbnFwMUJaejUxWHR1bDVqZlZzNHl1V3ljbHMzMGo4U2EtdlVTYmlXSFZzWnA3bG9mYVVhTm43T2hJWU9BNTFUSVo4S29NMklTSkJ3RU5hd3Q4bzBETVkzM2d3LVUwZ0hHX3Vm?oc=5",
+    "t": 1793885242000
+   },
+   {
+    "k": "bola",
+    "s": "detikSport",
+    "j": "Klasemen Liga Champions: Madrid Tempel Ketat PSG",
+    "c": "Klasemen Liga Champions: Madrid Tempel Ketat PSG detikSport",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW1GQVJISE5vSFN6aVU4ekNucFNqVHd1V1kxTVY5NGFkX3Zib1FPNnZ3T0ZlWE9SSU1LbXlFSUNaaG9xWFBZZS0tbHI5cHpRRHVocjFuS3JPVW5DOWYwNDZla2V4TVVIR2lybHc1OTZyZHY3QTJSWlV5OXVBcWRtV1p1YmtxTDhKS0pXd2s3NkdNVGpqQmFGN1Y2R2XSAaIBQVVfeXFMTmRUanRWbVQ3dG5ZdVJyTG53YV9wNk5QVms4X2pZVk9pcmRPTGRsUkwtWnU1d1VpcGk2blNYYW50UXIzTkx1ZWtXc2YxY3U3Z2Z2VU5PU2t5WFNmMnJOcGtfbHJPWU5Wb2lUNHAzTlRoQWE3SnZZZzBkQjVvZnFDSW1ZcGRXaURWZEhmY2tFbUtOMHRYOHFzaUZMVmFYeW82eC1n?oc=5",
+    "t": 1793834459000
+   },
+   {
+    "k": "bola",
+    "s": "ANTARA News Makassar",
+    "j": "Liga Champions - Liverpool dipermalukan Fenerbahce 2-3",
+    "c": "Liga Champions - Liverpool dipermalukan Fenerbahce 2-3 ANTARA News Makassar",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHl2b1pMMTdqcjRidTA1LVhDdGpLNThzYnR1UHBFb2s1bnE0WTJZUVphWjJ4U2d6cWZQa2tpZFZlRmU3cTk5YXJiZjM0X2ViTE10Mm9ndkd5MUZscWZRMkJ5TjZtZTY1NThkQWZMR2thbHRtckhQQnNGNXcxbmMybFdlLTBlWHhXa0xqX2JVUDZMaUVUZ2dld09HQXI2MDg?oc=5",
+    "t": 1793829063000
+   },
+   {
+    "k": "bola",
+    "s": "detikSport",
+    "j": "Bisa Bawa Madrid Juara Liga Champions, Mourinho?",
+    "c": "Bisa Bawa Madrid Juara Liga Champions, Mourinho? detikSport",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzRYZFpaSEl2VzRoR0JWNDVsV1VwZk9RaU9nWUpqd3puTE91MktsQ2tRV1BVTUZjQjBET19aRWlQSklQcVNtRURNUEVWQVpaVWxsX3NxaXgzWksyQ0FMZk92TDFjTFJodHMwODg4Vm5NeUlIZUhLTlROOWhDdFdWclFhQmEya3JhUVNZRE9XdmNTOVhodDBVcW9oQdIBoAFBVV95cUxOU21HYmJGQkJDeGxuazZNT05jTkF6QjNtSkVUV0d1eG9iaXdHR1lGV3RtS1Vvbno2MjJtMnRDYW5oeEhSMHJYenpCa3RKb2lTdS10Z0VCaG9SYlZuQ2R6ak5CLUd1UlN4U2xEV25kalJQSFZNb2ZUQ21HTExxd0JoNkEtSk14MlhHTk9qTWZ1Z184MW9kTU5OcXZHRHNlek1E?oc=5",
+    "t": 1793808005000
+   },
+   {
+    "k": "bola",
+    "s": "Bola.com",
+    "j": "Comeback atas Roma Jadi Bukti Dukungan Pemain MU kepada Michael Carrick",
+    "c": "Comeback atas Roma Jadi Bukti Dukungan Pemain MU kepada Michael Carrick Bola.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckxTLW00VFZHeEJzajc4U2ZzdUJSNW5qOXZPZlZnZm1vQjBJRGliaUxIM2ZqWHdLRTVFbkZQWmRRYUhtcVRENElzRUQ1RzZ4czlTbXhDX1QzMWtCaW9WRHlURlBlVUR0MS1MTUlLQW05azZUOXZGOU9DbHJudERsZFRzbXVtcUFDR0pBVlFwV3pDeUlkNTQtSm5lSUFzRy0tb0l5QVpnUW1RbnhYQ2FVM9IBpwFBVV95cUxNVkJ0dVZmd1FzMzMxd0JfZDQzS1o4d0RsZUR6OGRXY0VHQXFWS0V6eTZWaVZod3Z1TjE5MG1lMGVwckNYeG02NmxuN0JhN0Z1czRMdVFuX2E1cUxhcS0xa2xuc2hLNGFwek1UOUhxZ2JOWjN5RnpyTFR3Y0VlR2kybWZBeTJxMC1fc25sRG1PZTRhOEVieDJvdElCUXBIUzREUENpYmZudw?oc=5",
+    "t": 1793788642000
+   },
+   {
+    "k": "bola",
+    "s": "Bola.com",
+    "j": "Aksi Shea Lacey saat MU Bungkam Roma Bikin Suporter Berisik, Carrick Didesak Jadikannya Starter",
+    "c": "Aksi Shea Lacey saat MU Bungkam Roma Bikin Suporter Berisik, Carrick Didesak Jadikannya Starter Bola.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzJuZUZKRmJCNzZGNnRKTGJFTzljdjVkR3ZBNExsckJHbjhQNEZLeXlIVF9jT3A1aEFKbzhpR1ZOVTd3WmlGM2Q1M01qZ19ia2tDeFMyLURwVWlOekNXY0RyX2ZUeU04TUdveVE2SkF2Y00ySldhNXBDeTFCMlJwX0lMeUQ0RmppcGpiUEVXbnlNQkpCcFItYllNcWN3Z2JBbEJiemI3SEE1ZUZKZWI5RC0zOFhzc2lzSm1VMERlT1hrMG5zVmNXLTJTcDg0LWs1amfSAcYBQVVfeXFMT1VJWl9NRkRCa2d6VEZ6ZlNsZVdzTUVOdzdvX3U1dDlPQktlaE83dXdnRTVrTmdZLUd0WnpLS3hHNDA4LTNZeXV6VzBVeE9mTkV4MTNaaFNORXNBcHRPTmxLMWE3M0RfRl9oZjBtaWdWVlJtZFppSVg4MVpEdkJzRHFfeXlaeEtrTWpVMkJoaWJ3T1hEbGNkaFJNMWdDOGVLWWpIbnVKYWR5N19Pc2RrVEU2aHY1NHctTlppT0loR1NEaGtiLU5n?oc=5",
+    "t": 1793769302000
+   },
+   {
+    "k": "bola",
+    "s": "Kompas.com",
+    "j": "Link Live Streaming Man United Vs AS Roma di Liga Champions 2026-2027",
+    "c": "Link Live Streaming Man United Vs AS Roma di Liga Champions 2026-2027 Kompas.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnAwUEZ0MEl3MTM3NEw1NGdaWGd5UUFVNWhadm1TRUdyMHZXSUVnUzJBM2pJa3VPMkVZMkVITEcycmk1UFhlVENfOFZwRFVBMWh6ekZaQWtIblBWaF9Cb29CZUhWbkszS2VkME5mcXVOMXhFMWtoOFpacUpJekJPaG16ZE1fVDVwc0pfUVVYMU9lSXV2Z0tIbV9nVU5qNVdhb0kzbXAtOXFQeGpSYlA1cWJ0Q0lCbTI3c1E?oc=5",
+    "t": 1793721600000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "10 pesepak bola yang punya karier musik, ada Memphis Depay",
+    "c": "Sepak bola dan musik merupakan dua dunia yang memiliki daya tarik tersendiri, khususnya di lingkup pop culture. ...",
+    "f": "https://img.antaranews.com/cache/800x533/2025/09/08/lithuania_v_holland_-world_cup_qualifier-1.jpg",
+    "u": "https://www.antaranews.com/berita/5827867/10-pesepak-bola-yang-punya-karier-musik-ada-memphis-depay",
+    "t": 1793664722000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Jadwal perdana League Cup Indonesia 2026/2027: Ada PSMS vs Persija",
+    "c": "Kompetisi sepak bola Indonesia bakal kedatangan turnamen baru pada musim 2026/2027. League Cup atau Piala Liga ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/07/7f943119-53ef-4a70-9f2d-75f54b05f9b4.jpeg",
+    "u": "https://www.antaranews.com/berita/5803621/jadwal-perdana-league-cup-indonesia-2026-2027-ada-psms-vs-persija",
+    "t": 1792632031000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Mengenal Stadion Metropolitano, venue final Liga Champions 2027",
+    "c": "Stadion Metropolitano di Madrid, Spanyol, akan menjadi panggung perebutan gelar juara Liga Champions UEFA atau UEFA ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/14/image-2026-10-14T043135.913.jpg",
+    "u": "https://www.antaranews.com/berita/5787505/mengenal-stadion-metropolitano-venue-final-liga-champions-2027",
+    "t": 1792035096000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Profil karier Emil Audero, penjaga gawang di Final ASEAN Cup 2026",
+    "c": "Emil Audero menjadi salah satu nama yang paling disorot setelah Timnas Indonesia meraih gelar juara FIFA ASEAN Cup ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/05/indonesia-juara-fifa-asean-cup-2026-2878692.jpg",
+    "u": "https://www.antaranews.com/berita/5774613/profil-karier-emil-audero-penjaga-gawang-di-final-asean-cup-2026",
+    "t": 1791339898000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Kasus Manchester City: Kronologi, dakwaan, hingga hukuman",
+    "c": "Kasus dugaan pelanggaran aturan finansial yang menjerat Manchester City memasuki babak baru setelah laporan pada ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/07/14/riley.jpg",
+    "u": "https://www.antaranews.com/berita/5765420/kasus-manchester-city-kronologi-dakwaan-hingga-hukuman",
+    "t": 1790777165000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Tiket FIFA ASEAN Cup 2026: Cara beli, syarat dan harganya",
+    "c": "FIFA ASEAN Cup 2026 akan segera dimulai dan Timnas Indonesia menjadi salah satu peserta yang akan berlaga di Divisi 1. ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/26/Indonesia-kalahkan-Singapura-250926-MRH-3.jpg",
+    "u": "https://www.antaranews.com/berita/5759421/tiket-fifa-asean-cup-2026-cara-beli-syarat-dan-harganya",
+    "t": 1790394844000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Cara dan syarat nonton BRI Super League Rp1",
+    "c": "Menonton langsung pertandingan BRI Super League menjadi pilihan bagi pencinta sepak bola untuk merasakan atmosfer ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/20/persib-bandung-menang-atas-persijap-jepara-2867580.jpg",
+    "u": "https://www.antaranews.com/berita/5759416/cara-dan-syarat-nonton-bri-super-league-rp1",
+    "t": 1790394706000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "8 pemain asing Super League yang dipanggil timnas negaranya",
+    "c": "Jeda internasional September 2026 membuat sejumlah klub Super League 2026/2027 harus kehilangan pemain asingnya untuk ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/19/madura-united-menang-atas-psim-18092026-ma-1.jpg",
+    "u": "https://www.antaranews.com/berita/5757739/8-pemain-asing-super-league-yang-dipanggil-timnas-negaranya",
+    "t": 1790299136000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Laga melawan Singapura jadi misi balas dendam Garuda di ASEAN CUP",
+    "c": "Timnas Indonesia akan memulai petualangan di FIFA ASEAN Cup 2026 dengan menghadapi Singapura. Laga ini menjadi ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/24/20a333b8-ef1a-483e-a470-821f05454ead.jpeg",
+    "u": "https://www.antaranews.com/berita/5757733/laga-melawan-singapura-jadi-misi-balas-dendam-garuda-di-asean-cup",
+    "t": 1790298925000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Batu yang diduduki Mohamed Salah mendadak viral, ini lokasinya",
+    "c": "Sebuah bongkahan batu di kawasan pegunungan Trabzon, Turki, mendadak menjadi perhatian setelah pesepak bola Mohamed ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/07/04/XxjpseE000147_20260704_PEPFN0A001.jpg",
+    "u": "https://www.antaranews.com/berita/5757712/batu-yang-diduduki-mohamed-salah-mendadak-viral-ini-lokasinya",
+    "t": 1790297885000
+   },
+   {
+    "k": "bola",
+    "s": "Antara",
+    "j": "Suporter PSIM & PSS sepakat berdamai, bagaimana sejarah persetruannya?",
+    "c": "Rivalitas PSIM Yogyakarta dan PSS Sleman memasuki babak baru. Menjelang Derbi Mataram pada BRI Super League 2026/2027, ...",
+    "f": "https://img.antaranews.com/cache/800x533/2018/07/kericuhan-antara-oknum-suporter-dan-polisi.jpg",
+    "u": "https://www.antaranews.com/berita/5753065/suporter-psim-pss-sepakat-berdamai-bagaimana-sejarah-persetruannya",
+    "t": 1790072161000
+   }
+  ],
+  "hiburan": [
    {
     "k": "hiburan",
     "s": "Antara",
@@ -20,6 +881,15 @@
     "f": "https://img.antaranews.com/cache/800x533/2025/10/06/Taylor.jpeg",
     "u": "https://www.antaranews.com/berita/5835695/mengapa-lagu-dan-album-baru-sering-dirilis-pada-hari-jumat",
     "t": 1793928518000
+   },
+   {
+    "k": "hiburan",
+    "s": "Opsi.id",
+    "j": "Daftar Lengkap Pemenang AMI Awards 2026, Ajang Apresiasi 67 Kategori Musik Tanah Air",
+    "c": "Daftar Lengkap Pemenang AMI Awards 2026, Ajang Apresiasi 67 Kategori Musik Tanah Air Opsi.id",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUZiS3NWQlZIS2U4Wk1lTnJnR0pGZC1SaS1OSGNfMUJvMDdfakFHcFFYWVloMDZTZk1NVGRlSW1oUmZfci1CY0NvXzlUVG81SjliSU81VkFJRnFMMUtnWFdXS2lhQmpiX1FRRzhhR3A0SEVxZ3MyVnJkcUpHNElQSmc1MV95Vnd3dmYwdDNGdXFIZ0lqS2VkR2N5SHBYVFFuWVE?oc=5",
+    "t": 1793868705000
    },
    {
     "k": "hiburan",
@@ -223,6 +1093,24 @@
   "daerah": [
    {
     "k": "daerah",
+    "s": "Tribratanews Polda Lampung",
+    "j": "Polres Mesuji Bersama Tim PT BDPA Padamkan Dua Titik Api Karhutla Lahan Gambut Sungai Sidang",
+    "c": "Polres Mesuji Bersama Tim PT BDPA Padamkan Dua Titik Api Karhutla Lahan Gambut Sungai Sidang Tribratanews Polda Lampung",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT1ZRaVFWMDNpM2Y2eEVNRXZ3YlR2ZVg4OUtOU3VhTVJIN2p6VWVHZkYyd3lEUVU3dnRNRkMzc0RkSGFaRUhpbHFXTmQ2MXYzdEJyZVN3bUkzZE5ObXp6UmtPYmg0R0tUdGh3VURWMXhhckdVRW9IeXBtUlZqUE1lai0zQS1sUWtQTEMxMTBaeF9sVnRBU3dEWk9qN1E5WVB4RDRwVzU4aUhlZ2IyVkZMbl9rVVJGdUNtSlZVY2lNMHNxbnozcG4yMUFOS0x1OExsUTN5emh1TDVpdHUwS0E?oc=5",
+    "t": 1794019032000
+   },
+   {
+    "k": "daerah",
+    "s": "Tribratanews Polda Lampung",
+    "j": "Ketahanan Pangan, Polsek Tanjung Raya Sambangi dan Pembinaan Masyarakat Bujung Buring",
+    "c": "Ketahanan Pangan, Polsek Tanjung Raya Sambangi dan Pembinaan Masyarakat Bujung Buring Tribratanews Polda Lampung",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMkZRNFdxNFNEMG5Jekg0MElzYXBVRUx5Vlo3Nl9fTUZ5VWtrbDRsR1RnLWJVWlJmWWlhaXd6ajlNN1JQVTIyMUZtUUtqNFBMV21oWWVBbHJBLXdFbzRrT0VSLU5YMmlPaFF5WW1jQUg0Z0daZjlScE1TWDB1RHJWU250TWM5ZUxnU0U2eGZGSVZHbmh6d1hGaGU3QnFOY3BsLV9ZSmhJdHZqOEtobVF5djBXQWhLMjkwelB4SWN5T0c3Wng1Zllvd1pwTUw1QnRJVllN?oc=5",
+    "t": 1794018000000
+   },
+   {
+    "k": "daerah",
     "s": "ANTARA News Banten",
     "j": "Polisi tangkap pasangan kekasih penabrak petugas PJR di Tol Serang",
     "c": "Polisi tangkap pasangan kekasih penabrak petugas PJR di Tol Serang ANTARA News Banten",
@@ -247,15 +1135,6 @@
     "f": "",
     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMXhuOUJXcFFfQWJZTHowQ2szNU8wM0tmZXp3RGR5a2FZNXEtWXZRVnMxX05xTzV2U3VHS19PWF9BS1dzVm5OWGs0Zjk0OGdlTmU4NTI5TjVkQ1hfODlEREp0WmNmZjdrRkhOMFI3ZUVBRXgzSEV5XzAzYnFxV2dEX0RCa2RIOXJwSU95ZjUzMGFHLXZFS3ZaUXJxc2FaMVdZYkQ1akphWS1SS215c1BVaUFpZjc3TnNSU1RNQmxlemrSAcYBQVVfeXFMUHhFZHFMNERaX2M4MW1CWXVDRVpwMjZFMTgzeTFLXzNwN2dXQ2p6cjVjZkF6YmxaajluMWgtSWNrY192WVJfTk9aa3FETFRNZzVzTklfcFl1d2tSVm1waEtKeVg1VzdreC1QWk9ERmV5c054T2xhbks4RXhmcG1EYTlCQkpqWXNUTjNqbnpwbnNwYmFUN0JkSFhONThYbnFabFlDU2dwbGIwX0hkMEV0MkpoNjg3S0ROM0xmRE5TOEl2ekNtTzV3?oc=5",
     "t": 1793983273000
-   },
-   {
-    "k": "daerah",
-    "s": "Tribratanews Polda Lampung",
-    "j": "Polda Lampung Berhasil Ungkap 15 Kasus Penyalahgunaan BBM Subsidi dan Dugaan Penyelundupan 22 Ton Beras Impor",
-    "c": "Polda Lampung Berhasil Ungkap 15 Kasus Penyalahgunaan BBM Subsidi dan Dugaan Penyelundupan 22 Ton Beras Impor Tribratanews Polda Lampung",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRTY3akIzZzFMLW0ydUFLOUlabDNCclFWWlN6WEVzOURBalNmbzd2amEwcnRUOF9weTlkQTdkOHN4SXZDWm5GWXBOZV8tV05nOTV4akFsNF9YU1FqcXBSN01OZjlkNnBfbzBITjIwSDlHMXpjeFczdUg5Sm9TOEVQRVA1YjRhU19JQWVHY29VWGNCRkxtdWplbTctTVNUZU9HUFE5aTlHaEJGMG9Wc3pnS0hQUm85aS1icWNwWTFqQnhOR3RIdWV3TGNScTRESWVqYklfWVliYkRiS2E2bjZqV2dwMmV6Z3hBS01oN1EtNEp2ZHBp?oc=5",
-    "t": 1793977200000
    },
    {
     "k": "daerah",
@@ -313,12 +1192,12 @@
    },
    {
     "k": "daerah",
-    "s": "VIVA Lampung",
-    "j": "Polda Lampung Bongkar 15 Kasus Penyelewengan BBM Subsidi, Modus Tangki Modifikasi Hingga Barcode Ganda",
-    "c": "Polda Lampung Bongkar 15 Kasus Penyelewengan BBM Subsidi, Modus Tangki Modifikasi Hingga Barcode Ganda VIVA Lampung",
+    "s": "Kompas.com",
+    "j": "Pemkot Bandar Lampung Beri Diskon Tunggakan Pajak Kendaraan, Berlaku hingga 23 Desember 2026",
+    "c": "Pemkot Bandar Lampung Beri Diskon Tunggakan Pajak Kendaraan, Berlaku hingga 23 Desember 2026 Kompas.com",
     "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb3FLNzE0czlvZ3FDMUdSc0Jib3FwTkU1NEo2WUV2RzhwV1VIOThZY3l1V1k3SnhkN3NnN0Y0eHRpRkJtNGdLV0RLTERhLWwzUGtrQ01mVWV6dUF1QXZqX3d5c2JFd0hHbFkxVmxvb1VEMlpueUpWUFNfeHdfdEhtM0s5ak9LWFhWc2xPekcwWFdEWkh1UWdpVWVEY25tZmxuWF9udjVUOW5nZGJLbzc3Z2hsSXdCVEF4WE9MeUJFd1NTaE5TQThFRko1Y2plTE1pckpia1ZScGfSAd4BQVVfeXFMTmJBZUFUUU1qNWlIdFQ0SGt0OXNsOV9zTHJrZzRrUlpZSmRUemVTNU5tQm8xTlFaXzNfYzRWbzNibkRPOUs2VmdrTVJXWExWOEpTWlRZWmREZUctZGhQVGdOQTlLcnB0MnNaSlpWbDhyaVRpYXl2c3lsbUVDblRjaWxHMURDMUtaeWlkdXZTQy1GNG1lS0JXUkhhN2tfcFV6aDZHa2l1cTd2ZlhtUDNiUGR0VFFZSWluNnZFMUZIS2xvY2FmeGtvel9ZZlpRYUtzWGxMSjlkSjBubWlnVjlB?oc=5",
-    "t": 1793938680000
+    "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkhhY3lpOVlNRU0xSS1TVGM0bFdEWGZhd1Y2VlJrM2FDMUtuRlFtaWFTeTU4VGhVa0plUGJEZHpET19FM3FTU01GdXhWdkI5R0dEeV9NNnItOGFUWS10WTBNdTdzM2JlazNYMHhTS0FTSTZtdlBBM0RocUplMm5qbS1JRkhjX1ZFcE9VZ2hyRkJHLXlhYjZ5NmQ0XzVMd00yb284anJQV1B4ckRlTnBIa0hnVTVod2tQZkZfNWZpbkx5bzJlZE40?oc=5",
+    "t": 1793948580000
    },
    {
     "k": "daerah",
@@ -346,15 +1225,6 @@
     "f": "",
     "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR1AzU3p3aTl4OTlqeEREckVzY1VrRDdxSllVN0pYOGR6NUh4N2Rsd1N2cG9rMXJwN1dISG1IdDkxME81bE5EaVQ4VUtXRTMzemkzLTA4Y2ZnSHRyQmV1UmJqOEstdTAwZGpqRUl1RXpQcTNjWGd2Smd4Z1pfdE1ubm5HTXpRcFRCR1RISnVZOUUyNkxqdGl6Tzl5Nm91ekJVQ0NEZDdJaUNDNGF4bXJyZjUwTnpmZTRFNGw1TjdVLU5wdExweTFTRndyQjdya0N0X1E4RA?oc=5",
     "t": 1793925903000
-   },
-   {
-    "k": "daerah",
-    "s": "Kompas.com",
-    "j": "Polda Lampung Bongkar 15 Kasus Penyelewengan BBM Subsidi, 20 Orang Jadi Tersangka",
-    "c": "Polda Lampung Bongkar 15 Kasus Penyelewengan BBM Subsidi, 20 Orang Jadi Tersangka Kompas.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2dpbWVrR2RtQVVNaS15aXNwTFNoaGt4UW1pYTVIQVlIU1JtNlphQjZ0cDdZUE1ZWldiTjFKZnJkR1l3dEI4VkE4dmV6TTkwOW1hY1hmczRXNVJ6QTlnUFdBUFYxd0c2ejM5dHA5anlJQ1Nfa1FEaU16Ykw0N1NmZkFUSnhaQy1MZUhmUG54em9mZWxoYjRZUk1wOWdQYjhVVDJ3UkRHSUNMQUlZNjktTm5aYUJrRWQ3VHFkdW9tZDRxZw?oc=5",
-    "t": 1793923560000
    },
    {
     "k": "daerah",
@@ -436,6 +1306,224 @@
     "f": "",
     "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZXp1cXVrYjhSM1RYWmxHN1ZFeFlTZWNhNG12X2hWS1VGVUFqTzlwSHJXem92THk5eTFzQ3lCVDhmUjhzSW43Tk92Z3otb0g3dUJKeHZRaVNpdGVnZEg4QkZ6a3RKNThsOTEtVlF4VkxlNllrZ2s0VElrQnJCWmpDMWhPUHhLRk9uclpKaGwyUUNpTi1PazFBNmxOR25SaVlPZVBFWFRyRmNRNlNnalg40gGuAUFVX3lxTE9HTGQ0N2E5Z0JabW9YTzB5VEt3cVdDcUdiVHoyX19pWVlqZFRtaG1jVmtKbm9zYmtxdGdVeWM5ODNLZGJaX0VRQTRZMmNYcjZ0MGhScmpuUnlJMDd0YjRNa19sTHVHV2dMNlRCY1BjZlNtM3ZpdFcwTm9FbGlMSFpmUmxrQWcyeE9PS0xvNnFrMV9nWFhRQk5ueWVkOFExSEY4SHdzWmF0LXNOd0ZvQQ?oc=5",
     "t": 1793770194000
+   }
+  ],
+  "ekonomi": [
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Dunia Diramal Kiamat 13 November, Manusia Bakal Musnah-Mati Terimpit?",
+    "c": "Proyeksi kiamat pada 2026 menarik perhatian publik dan ilmiah. Artikel ini membahas pertumbuhan populasi dan potensi kolaborasi untuk mencegah bencana.",
+    "f": "https://awsimages.detik.net.id/visual/2024/03/23/ilustrasi-hari-kiamat_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/tech/20261107080000-37-783146/dunia-diramal-kiamat-13-november-manusia-bakal-musnah-mati-terimpit",
+    "t": 1794018600000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Pengumuman! Harga Emas Antam Hari Ini Turun Jadi Rp2.545.000",
+    "c": "Harga emas batangan Antam turun Rp20.000 per gram menjadi Rp2.545.000. Penurunan sejalan dengan melemahnya harga emas dunia.",
+    "f": "https://awsimages.detik.net.id/visual/2025/04/11/pelanggan-memadati-butik-emas-antam-di-pulogadung-jakarta-kamis-1042025-1744362622271_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/research/20261107091337-128-783149/pengumuman-harga-emas-antam-hari-ini-turun-jadi-rp2545000",
+    "t": 1794017844000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Video:Tarik Investor, Bursa Saham RI Harus Bersih Dari Praktik \"Kotor\"",
+    "c": "Perkuat Kepercayaan Investor, Bursa Saham RI Harus Bersih Dari Praktik Tidak Sehat",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/06/perkuat-kepercayaan-investor-bursa-saham-ri-harus-bersih-dari-praktik-tidak-sehat-1793935944427_169.png?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/market/20261106102250-19-782888/videotarik-investor-bursa-saham-ri-harus-bersih-dari-praktik-kotor",
+    "t": 1794016801000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Aturan Saldo Minimum Bank Mandiri-BRI-BNI November 2026",
+    "c": "Saldo minimum di rekening bank penting untuk menjaga status aktif. Besaran bervariasi tergantung jenis tabungan dan segmen nasabah. Temukan rinciannya di sini.",
+    "f": "https://awsimages.detik.net.id/visual/2024/02/13/sahamnya-diiborong-asing-ini-perkiraan-dividen-bri-bni-mandiri_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/market/20261107072659-17-783141/aturan-saldo-minimum-bank-mandiri-bri-bni-november-2026",
+    "t": 1794016800000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Harga Minyak Anjlok 16% Usai Sinyal Damai AS-Iran, Pasar Masih Waspada",
+    "c": "Harga minyak mentah dunia turun tajam setelah pemilu AS, meski serangan di Timur Tengah tetap mendukung harga. Brent mencapai US$98,15 per barel.",
+    "f": "https://awsimages.detik.net.id/visual/2018/02/09/f05a4f6c-e61a-41f0-8d10-9c98577336a8_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/research/20261107035337-128-783134/harga-minyak-anjlok-16-usai-sinyal-damai-as-iran-pasar-masih-waspada",
+    "t": 1794015900000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Larangan Aneh Tapi Berlaku di 4 Negara Ini, No.3: Bensin Habis Didenda",
+    "c": "Artikel ini membahas aturan-aturan unik di berbagai negara, seperti larangan jual permen karet di Singapura dan denda untuk kehabisan bensin di Jerman.",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/06/ilustrasi-turis-asing-1793962868348_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/lifestyle/20261107025710-33-783131/larangan-aneh-tapi-berlaku-di-4-negara-ini-no3-bensin-habis-didenda",
+    "t": 1794015000000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "6 pengaruh Pertamax terhadap performa mesin kendaraan",
+    "c": "Pemilihan bahan bakar minyak (BBM) tidak hanya berkaitan dengan biaya pengeluaran, tetapi juga dapat memengaruhi ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/30/stok-bbm-diy-aman-hingga-akhir-tahun-2896303.jpg",
+    "u": "https://otomotif.antaranews.com/berita/5837899/6-pengaruh-pertamax-terhadap-performa-mesin-kendaraan",
+    "t": 1794014896000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Hacker Bisa Bobol Kulkas Supermarket, AS Minta Siaga Serangan Lanjutan",
+    "c": "Pemerintah AS memperingatkan ancaman serangan siber terhadap sistem pendingin supermarket. Organisasi diminta waspada dan isolasi perangkat dari internet.",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/04/sebuah-rak-yang-hampir-kosong-dengan-dua-papan-pemberitahuan-yang-menginformasikan-kepada-pelanggan-bahwa-sejumlah-produk-pend-1793783045970_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/tech/20261107023715-37-783130/hacker-bisa-bobol-kulkas-supermarket-as-minta-siaga-serangan-lanjutan",
+    "t": 1794014100000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Harga Emas Galeri 24, UBS, Antam-Antam Retro Hari Ini; Mana yang Naik?",
+    "c": "Harga emas batangan yang tersedia di Galeri 24 milik Pegadaian beda arah pada perdagangan Sabtu",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/06/suasana-galeri-24-di-jakarta-jumat-6112026-cnbc-indonesiatri-susilo-1793948634792_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/research/20261107073851-128-783142/harga-emas-galeri-24-ubs-antam-antam-retro-hari-ini-mana-yang-naik",
+    "t": 1794013202000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Ini Cara Lacak Lokasi Orang, Bisa Pakai WhatsApp-Google Maps",
+    "c": "Pelajari cara melacak lokasi seseorang menggunakan WhatsApp, Google Maps, dan metode lainnya. Pastikan untuk selalu meminta izin sebelum melacak.",
+    "f": "https://awsimages.detik.net.id/visual/2023/05/30/liustrasi-stalker_169.png?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/tech/20261107040326-37-783135/ini-cara-lacak-lokasi-orang-bisa-pakai-whatsapp-google-maps",
+    "t": 1794012300000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Pendaftaran CASN Dibuka November, Ini Dokumen yang Wajib Disiapkan",
+    "c": "Pemerintah akan membuka rekrutmen ASN pada November 2026. Calon pelamar diminta mempersiapkan dokumen dan memahami formasi jabatan yang dilamar.",
+    "f": "https://awsimages.detik.net.id/visual/2020/01/27/933c8bad-65fd-42aa-9e61-b078af464edb_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/news/20261107042705-4-783137/pendaftaran-casn-dibuka-november-ini-dokumen-yang-wajib-disiapkan",
+    "t": 1794011400000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "7 Kesalahaan Sering Terulang Saat Berwudhu, Awas Salat Tak Diterima",
+    "c": "Artikel ini membahas kesalahan umum saat berwudhu yang dapat mengakibatkan salat tidak diterima. Pelajari cara berwudhu yang benar dan sempurna.",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/06/ilustrasi-wudhu-pexelsahmet-cuhadar-1793964003299_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/syariah/20261107033620-29-783133/7-kesalahaan-sering-terulang-saat-berwudhu-awas-salat-tak-diterima",
+    "t": 1794010500000
+   },
+   {
+    "k": "ekonomi",
+    "s": "CNBC Indonesia",
+    "j": "Trump Bilang Israel-Timur Tengah Bisa Hilang Usai 2 Rudal Hantam Iran",
+    "c": "Dua rudal menghantam pulau Qeshm, Iran. Trump menegaskan pentingnya mencegah Iran memiliki senjata nuklir, sementara kritik terhadap Hegseth meningkat.",
+    "f": "https://awsimages.detik.net.id/visual/2026/11/03/seorang-anggota-irgc-di-pusat-pelatihan-militer-untuk-warga-sipil-di-lapangan-tajrish-teheran-iran-2-november-2026-1793664462055_169.jpeg?w=1200&q=90",
+    "u": "https://www.cnbcindonesia.com/news/20261107065201-4-783140/trump-bilang-israel-timur-tengah-bisa-hilang-usai-2-rudal-hantam-iran",
+    "t": 1794009665000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Aki mobil soak, baiknya dicas atau diganti? Ini penjelasannya",
+    "c": "Aki merupakan salah satu komponen penting pada mobil karena berfungsi menyimpan dan menyuplai energi listrik untuk ...",
+    "f": "https://img.antaranews.com/cache/800x533/2024/08/28/antarafoto-ekspansi-penjualan-aki-mobil-di-makassar-28082024-hs-1.jpg",
+    "u": "https://otomotif.antaranews.com/berita/5832939/aki-mobil-soak-baiknya-dicas-atau-diganti-ini-penjelasannya",
+    "t": 1793838681000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Mengapa anak muda suka pinjol? Ini 7 alasan dan risikonya",
+    "c": "Kemudahan mengakses layanan keuangan melalui ponsel membuat pinjaman online (pinjol) semakin dekat dengan kehidupan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/04/07/utang-pinjol-masyarakat-capai-rp100-triliun-2768415.jpg",
+    "u": "https://www.antaranews.com/berita/5832875/mengapa-anak-muda-suka-pinjol-ini-7-alasan-dan-risikonya",
+    "t": 1793836463000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Mengapa anak muda suka pinjol dan paylater? Ini 5 alasannya",
+    "c": "Penggunaan pinjaman online (pinjol) dan layanan buy now pay later (BNPL) atau paylater semakin dekat dengan kehidupan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/07/WhatsApp-Image-2026-09-07-at-18.27.00.jpeg",
+    "u": "https://www.antaranews.com/berita/5832431/mengapa-anak-muda-suka-pinjol-dan-paylater-ini-5-alasannya",
+    "t": 1793802854000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Salah transfer uang ke rekening orang lain? Ini langkahnya",
+    "c": "Salah transfer uang ke rekening orang lain bisa terjadi ketika seseorang keliru memasukkan nomor rekening, memilih nama ...",
+    "f": "https://img.antaranews.com/cache/800x533/2024/09/04/antarafoto-layanan-perbankan-melalui-brilink-di-ternate-492024-ans-1.jpg",
+    "u": "https://www.antaranews.com/berita/5810183/salah-transfer-uang-ke-rekening-orang-lain-ini-langkahnya",
+    "t": 1792894511000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Penyebab rem motor berdecit dan cara mengatasinya",
+    "c": "Suara berdecit saat mengerem pada sepeda motor kerap mengganggu kenyamanan berkendara. Bunyi tersebut terkadang muncul ...",
+    "f": "https://img.antaranews.com/cache/800x533/2022/05/26/WhatsApp_Image_2022-05-26_at_8.53.20_AM.jpeg",
+    "u": "https://otomotif.antaranews.com/berita/5808855/penyebab-rem-motor-berdecit-dan-cara-mengatasinya",
+    "t": 1792802964000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "9 penyebab motor injeksi mati mendadak saat berhenti",
+    "c": "Motor injeksi yang mendadak mati saat berhenti di lampu merah atau ketika menghadapi kemacetan bisa mengganggu ...",
+    "f": "https://img.antaranews.com/cache/800x533/2019/10/03/Pelanggaran-Lalu-Lintas-Pesepeda-motor-031019-app-3.jpg",
+    "u": "https://otomotif.antaranews.com/berita/5808827/9-penyebab-motor-injeksi-mati-mendadak-saat-berhenti",
+    "t": 1792802004000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Motor tiba-tiba boros bensin? Ini 9 penyebabnya",
+    "c": "Konsumsi bensin sepeda motor yang tiba-tiba meningkat dapat membuat biaya perjalanan sehari-hari semakin besar. Kondisi ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/30/distribusi-bbm-melalui-pertashop-di-wilayah-papua-maluku-2874604.jpg",
+    "u": "https://otomotif.antaranews.com/berita/5808795/motor-tiba-tiba-boros-bensin-ini-9-penyebabnya",
+    "t": 1792798052000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Apa perbedaan sertifikat halal dan label halal pada kemasan?",
+    "c": "Logo halal yang tercantum pada kemasan makanan, minuman, kosmetik, hingga produk kebutuhan sehari-hari menjadi salah ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/10/11/realisasi-penerbitan-sertifikat-halal-gratis-081025-ap-4.jpg",
+    "u": "https://www.antaranews.com/berita/5803661/apa-perbedaan-sertifikat-halal-dan-label-halal-pada-kemasan",
+    "t": 1792633098000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Cara memeriksa status sertifikat halal produk secara online",
+    "c": "Masyarakat kini dapat memeriksa status sertifikat halal suatu produk secara online sebelum membeli atau menggunakannya. ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/09/28/1001260399.jpg",
+    "u": "https://www.antaranews.com/berita/5803653/cara-memeriksa-status-sertifikat-halal-produk-secara-online",
+    "t": 1792632967000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Ini alasan mengapa BBM langka di beberapa daerah",
+    "c": "Kelangkaan bahan bakar minyak (BBM) di sejumlah daerah di Indonesia kembali menjadi perhatian publik setelah antrean ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/08/06/1001438636.jpg",
+    "u": "https://www.antaranews.com/berita/5790873/ini-alasan-mengapa-bbm-langka-di-beberapa-daerah",
+    "t": 1792132596000
+   },
+   {
+    "k": "ekonomi",
+    "s": "Antara",
+    "j": "Pendidikan dan karier Suroso Isnandar, Dirut baru PLN",
+    "c": "Suroso Isnandar resmi ditetapkan sebagai Direktur Utama PT PLN (Persero) pada Rabu, 14 Oktober 2026, menggantikan ...",
+    "f": "https://img.antaranews.com/cache/800x533/2026/07/21/1000954838.jpg",
+    "u": "https://www.antaranews.com/berita/5788929/pendidikan-dan-karier-suroso-isnandar-dirut-baru-pln",
+    "t": 1792062707000
    }
   ],
   "internasional": [
@@ -540,15 +1628,6 @@
    },
    {
     "k": "internasional",
-    "s": "RCTI+",
-    "j": "Norman Joesoef: Indonesia Harus Jadi Pembuat Berita Akurat ke Dunia Internasional",
-    "c": "Norman Joesoef: Indonesia Harus Jadi Pembuat Berita Akurat ke Dunia Internasional RCTI+",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNSDFuQi1yMzhVMFlmWTBqWUFvc1F4aHJ5QktndURkWFdWemFVcFduZXgzbzE3R2tYSm5TbnpLT1JBN1U1MWVteXRZWVVtTHVEekFyalBuRjI0Mm1laG1GSnVtUG9FZ2F3a0xqTjdGeXV2aHV4NGRvWEp6cnlCOUo5STJ2dU1qeEgwVnpxRFhaN0JBM2I3UlJzVnVMaVd6djBlV21ZajFaMFNJWkJPa24tc0tmN0JBUVJSa0g3RzhBUGZTcnllQVl6MGNHZDRDRWFnSzFpMUJzUmU1TUdrZFB2Nm50d0JnX080MENuOV85ekVmWDVXRTJ6dDVqaG1PSUJlZlhaTXF6VjZXakFPYXM2cERoMUxHM09BZ01FeWVKSU96M2oxSzJSeTZ3YXNjeFlpaEg4?oc=5",
-    "t": 1789369200000
-   },
-   {
-    "k": "internasional",
     "s": "Majelis Ulama Indonesia",
     "j": "Di Konferensi Internasional Mufti Dunia, Kiai Cholil Beberkan Konsep Keluarga Tangguh - MUI",
     "c": "Di Konferensi Internasional Mufti Dunia, Kiai Cholil Beberkan Konsep Keluarga Tangguh MUI - Majelis Ulama Indonesia",
@@ -621,6 +1700,15 @@
    },
    {
     "k": "internasional",
+    "s": "Kompas.com",
+    "j": "SBY Wanti-wanti Perang Dunia ke-3, Sebut Hukum Internasional Sudah Tak Lagi Dipatuhi",
+    "c": "SBY Wanti-wanti Perang Dunia ke-3, Sebut Hukum Internasional Sudah Tak Lagi Dipatuhi Kompas.com",
+    "f": "",
+    "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZEp1a3hSV29lMnhRTEdXcEZ1T2xGNnBNMUpKcllkRk5TYUUzZFREd0QyandwYnVvcEctZXhLcXV2ZGNEb3g2SHlZUGNjSDktemRxM2F1Wm1QcjVHOG9mRlNGLVNVX0dkOEpCb0xzWE9ETlctcmsxZU05dVp4dkNrMXFzUDZfcXVKdmRVcnNVX0JYbWlWbU9XMTRYTWJLa0xxdUJ1Nkw2YlNYSS05Ry1CeFRLWVpvTHgtMnNDelNQdzZGeU8yUnc?oc=5",
+    "t": 1773385200000
+   },
+   {
+    "k": "internasional",
     "s": "Antara",
     "j": "Trump akan kenakan tarif 25 persen pada produk otomotif, kayu, dan farmasi Korsel",
     "c": "Presiden Amerika Serikat (AS) Donald Trump pada Senin (26/1) menyampaikan bahwa dirinya akan menaikkan tarif dari 15 ...",
@@ -654,986 +1742,6 @@
     "f": "",
     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd0Z6N05iV3g0MGUyTnl2bDRaMVVuY3VNTGEyTmtBN3hCeV9jeEtJOElWWFM4aVc4aWtBUHRPLVp2ZTRDWjZpS2E3RFF3NVV6SlBOYUp3bDdQSGtMRTJNUFoxLUhsQjRid29pZmJ6V2JhYWxPN1ZXdGJtZl9NOU1PMlJqeFBQWWNXQU4xWEhubGZDckxaOXNQUndZT1RiVC1Ja2tnV2NUM2N6aTMyWDBCVXRkbW01dTVYbjhFcU1NR29mVDJWVktWa0c2S2hWN3c?oc=5",
     "t": 1764576000000
-   }
-  ],
-  "ekonomi": [
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "6 pengaruh Pertamax terhadap performa mesin kendaraan",
-    "c": "Pemilihan bahan bakar minyak (BBM) tidak hanya berkaitan dengan biaya pengeluaran, tetapi juga dapat memengaruhi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/30/stok-bbm-diy-aman-hingga-akhir-tahun-2896303.jpg",
-    "u": "https://otomotif.antaranews.com/berita/5837899/6-pengaruh-pertamax-terhadap-performa-mesin-kendaraan",
-    "t": 1794014896000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Hacker Bisa Bobol Kulkas Supermarket, AS Minta Siaga Serangan Lanjutan",
-    "c": "Pemerintah AS memperingatkan ancaman serangan siber terhadap sistem pendingin supermarket. Organisasi diminta waspada dan isolasi perangkat dari internet.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/04/sebuah-rak-yang-hampir-kosong-dengan-dua-papan-pemberitahuan-yang-menginformasikan-kepada-pelanggan-bahwa-sejumlah-produk-pend-1793783045970_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/tech/20261107023715-37-783130/hacker-bisa-bobol-kulkas-supermarket-as-minta-siaga-serangan-lanjutan",
-    "t": 1794014100000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Harga Emas Galeri 24, UBS, Antam-Antam Retro Hari Ini; Mana yang Naik?",
-    "c": "Harga emas batangan yang tersedia di Galeri 24 milik Pegadaian beda arah pada perdagangan Sabtu",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/06/suasana-galeri-24-di-jakarta-jumat-6112026-cnbc-indonesiatri-susilo-1793948634792_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/research/20261107073851-128-783142/harga-emas-galeri-24-ubs-antam-antam-retro-hari-ini-mana-yang-naik",
-    "t": 1794013202000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Ini Cara Lacak Lokasi Orang, Bisa Pakai WhatsApp-Google Maps",
-    "c": "Pelajari cara melacak lokasi seseorang menggunakan WhatsApp, Google Maps, dan metode lainnya. Pastikan untuk selalu meminta izin sebelum melacak.",
-    "f": "https://awsimages.detik.net.id/visual/2023/05/30/liustrasi-stalker_169.png?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/tech/20261107040326-37-783135/ini-cara-lacak-lokasi-orang-bisa-pakai-whatsapp-google-maps",
-    "t": 1794012300000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Pendaftaran CASN Dibuka November, Ini Dokumen yang Wajib Disiapkan",
-    "c": "Pemerintah akan membuka rekrutmen ASN pada November 2026. Calon pelamar diminta mempersiapkan dokumen dan memahami formasi jabatan yang dilamar.",
-    "f": "https://awsimages.detik.net.id/visual/2020/01/27/933c8bad-65fd-42aa-9e61-b078af464edb_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261107042705-4-783137/pendaftaran-casn-dibuka-november-ini-dokumen-yang-wajib-disiapkan",
-    "t": 1794011400000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "7 Kesalahaan Sering Terulang Saat Berwudhu, Awas Salat Tak Diterima",
-    "c": "Artikel ini membahas kesalahan umum saat berwudhu yang dapat mengakibatkan salat tidak diterima. Pelajari cara berwudhu yang benar dan sempurna.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/06/ilustrasi-wudhu-pexelsahmet-cuhadar-1793964003299_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/syariah/20261107033620-29-783133/7-kesalahaan-sering-terulang-saat-berwudhu-awas-salat-tak-diterima",
-    "t": 1794010500000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Trump Bilang Israel-Timur Tengah Bisa Hilang Usai 2 Rudal Hantam Iran",
-    "c": "Dua rudal menghantam pulau Qeshm, Iran. Trump menegaskan pentingnya mencegah Iran memiliki senjata nuklir, sementara kritik terhadap Hegseth meningkat.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/03/seorang-anggota-irgc-di-pusat-pelatihan-militer-untuk-warga-sipil-di-lapangan-tajrish-teheran-iran-2-november-2026-1793664462055_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261107065201-4-783140/trump-bilang-israel-timur-tengah-bisa-hilang-usai-2-rudal-hantam-iran",
-    "t": 1794009665000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Harga Emas Melejit Nyaris 5%, Kembali ke Level US$4.000-an",
-    "c": "Harga emas dunia bangkit ke US$4.062,5 per troy ons, didorong kemenangan Partai Demokrat AS. Dolar melemah, meningkatkan daya tarik emas di pasar global.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/06/suasana-galeri-24-di-jakarta-jumat-6112026-cnbc-indonesiatri-susilo-1793948547735_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/research/20261107033138-128-783132/harga-emas-melejit-nyaris-5-kembali-ke-level-us-4000-an",
-    "t": 1794008700000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Demo Pecah, Aktivis Lompat Pagar-Tembus Lokasi Proyek Data Center",
-    "c": "Aksi protes menentang pembangunan pusat data Microsoft pecah, pendemo menerobos masuk kawasan konstruksi proyek.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/06/ai-europedatacenters-netherlands-1793965123457_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261106184017-7-783114/demo-pecah-aktivis-lompat-pagar-tembus-lokasi-proyek-data-center",
-    "t": 1794007800000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Pemerintah Minta Siaga Darurat, Warga Kota Ini Seperti Tak Peduli",
-    "c": "Pemerintah Inggris imbau masyarakat siapkan persediaan untuk keadaan darurat. London paling tidak siap, sementara Skotlandia paling patuh.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/04/deretan-lemari-pembeku-kosong-di-sebuah-toko-yang-mengalami-gangguan-akibat-serangan-siberyang-menyebabkan-sejumlah-lemari-pem-1793783046268_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261107021403-4-783129/pemerintah-minta-siaga-darurat-warga-kota-ini-seperti-tak-peduli",
-    "t": 1794006900000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Babak Baru Kasus 1MDB: Mantan PM Najib Razak Bakal Jadi Tahanan Rumah",
-    "c": "Pembayaran tersebut membuka jalan bagi Najib untuk menjalani sisa masa hukumannya melalui tahanan rumah.",
-    "f": "https://awsimages.detik.net.id/visual/2026/11/06/malaysia-politicsnajib-1793960594392_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261106173446-7-783087/babak-baru-kasus-1mdb-mantan-pm-najib-razak-bakal-jadi-tahanan-rumah",
-    "t": 1794006000000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Eks Menteri Resmi Ditahan, Korupsi Rp782 M dari Saham",
-    "c": "Mantan ditahan terkait korupsi dugaan pelanggaran pasar modal.",
-    "f": "https://awsimages.detik.net.id/visual/2026/09/30/files-turkey-politics-economy-fraud-investigation-1790762350834_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/news/20261106174242-4-783097/eks-menteri-resmi-ditahan-korupsi-rp782-m-dari-saham",
-    "t": 1793977800000
-   },
-   {
-    "k": "ekonomi",
-    "s": "CNBC Indonesia",
-    "j": "Transaksi Dikuasi Segelintir Pihak, BEI Selidiki 3 Saham Ini",
-    "c": "Bursa Efek Indonesia memeriksa transaksi saham CASA, FUJI, dan NSSS untuk menjaga perdagangan yang teratur. Imbauan untuk investor",
-    "f": "https://awsimages.detik.net.id/visual/2020/03/26/26cf1890-9fa5-4494-a67f-c5de78c7c226_169.jpeg?w=1200&q=90",
-    "u": "https://www.cnbcindonesia.com/market/20261106215925-17-783128/transaksi-dikuasi-segelintir-pihak-bei-selidiki-3-saham-ini",
-    "t": 1793977445000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Aki mobil soak, baiknya dicas atau diganti? Ini penjelasannya",
-    "c": "Aki merupakan salah satu komponen penting pada mobil karena berfungsi menyimpan dan menyuplai energi listrik untuk ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/08/28/antarafoto-ekspansi-penjualan-aki-mobil-di-makassar-28082024-hs-1.jpg",
-    "u": "https://otomotif.antaranews.com/berita/5832939/aki-mobil-soak-baiknya-dicas-atau-diganti-ini-penjelasannya",
-    "t": 1793838681000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Mengapa anak muda suka pinjol? Ini 7 alasan dan risikonya",
-    "c": "Kemudahan mengakses layanan keuangan melalui ponsel membuat pinjaman online (pinjol) semakin dekat dengan kehidupan ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/04/07/utang-pinjol-masyarakat-capai-rp100-triliun-2768415.jpg",
-    "u": "https://www.antaranews.com/berita/5832875/mengapa-anak-muda-suka-pinjol-ini-7-alasan-dan-risikonya",
-    "t": 1793836463000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Mengapa anak muda suka pinjol dan paylater? Ini 5 alasannya",
-    "c": "Penggunaan pinjaman online (pinjol) dan layanan buy now pay later (BNPL) atau paylater semakin dekat dengan kehidupan ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/07/WhatsApp-Image-2026-09-07-at-18.27.00.jpeg",
-    "u": "https://www.antaranews.com/berita/5832431/mengapa-anak-muda-suka-pinjol-dan-paylater-ini-5-alasannya",
-    "t": 1793802854000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Salah transfer uang ke rekening orang lain? Ini langkahnya",
-    "c": "Salah transfer uang ke rekening orang lain bisa terjadi ketika seseorang keliru memasukkan nomor rekening, memilih nama ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/09/04/antarafoto-layanan-perbankan-melalui-brilink-di-ternate-492024-ans-1.jpg",
-    "u": "https://www.antaranews.com/berita/5810183/salah-transfer-uang-ke-rekening-orang-lain-ini-langkahnya",
-    "t": 1792894511000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Penyebab rem motor berdecit dan cara mengatasinya",
-    "c": "Suara berdecit saat mengerem pada sepeda motor kerap mengganggu kenyamanan berkendara. Bunyi tersebut terkadang muncul ...",
-    "f": "https://img.antaranews.com/cache/800x533/2022/05/26/WhatsApp_Image_2022-05-26_at_8.53.20_AM.jpeg",
-    "u": "https://otomotif.antaranews.com/berita/5808855/penyebab-rem-motor-berdecit-dan-cara-mengatasinya",
-    "t": 1792802964000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "9 penyebab motor injeksi mati mendadak saat berhenti",
-    "c": "Motor injeksi yang mendadak mati saat berhenti di lampu merah atau ketika menghadapi kemacetan bisa mengganggu ...",
-    "f": "https://img.antaranews.com/cache/800x533/2019/10/03/Pelanggaran-Lalu-Lintas-Pesepeda-motor-031019-app-3.jpg",
-    "u": "https://otomotif.antaranews.com/berita/5808827/9-penyebab-motor-injeksi-mati-mendadak-saat-berhenti",
-    "t": 1792802004000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Motor tiba-tiba boros bensin? Ini 9 penyebabnya",
-    "c": "Konsumsi bensin sepeda motor yang tiba-tiba meningkat dapat membuat biaya perjalanan sehari-hari semakin besar. Kondisi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/30/distribusi-bbm-melalui-pertashop-di-wilayah-papua-maluku-2874604.jpg",
-    "u": "https://otomotif.antaranews.com/berita/5808795/motor-tiba-tiba-boros-bensin-ini-9-penyebabnya",
-    "t": 1792798052000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Apa perbedaan sertifikat halal dan label halal pada kemasan?",
-    "c": "Logo halal yang tercantum pada kemasan makanan, minuman, kosmetik, hingga produk kebutuhan sehari-hari menjadi salah ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/11/realisasi-penerbitan-sertifikat-halal-gratis-081025-ap-4.jpg",
-    "u": "https://www.antaranews.com/berita/5803661/apa-perbedaan-sertifikat-halal-dan-label-halal-pada-kemasan",
-    "t": 1792633098000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Cara memeriksa status sertifikat halal produk secara online",
-    "c": "Masyarakat kini dapat memeriksa status sertifikat halal suatu produk secara online sebelum membeli atau menggunakannya. ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/28/1001260399.jpg",
-    "u": "https://www.antaranews.com/berita/5803653/cara-memeriksa-status-sertifikat-halal-produk-secara-online",
-    "t": 1792632967000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Ini alasan mengapa BBM langka di beberapa daerah",
-    "c": "Kelangkaan bahan bakar minyak (BBM) di sejumlah daerah di Indonesia kembali menjadi perhatian publik setelah antrean ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/08/06/1001438636.jpg",
-    "u": "https://www.antaranews.com/berita/5790873/ini-alasan-mengapa-bbm-langka-di-beberapa-daerah",
-    "t": 1792132596000
-   },
-   {
-    "k": "ekonomi",
-    "s": "Antara",
-    "j": "Pendidikan dan karier Suroso Isnandar, Dirut baru PLN",
-    "c": "Suroso Isnandar resmi ditetapkan sebagai Direktur Utama PT PLN (Persero) pada Rabu, 14 Oktober 2026, menggantikan ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/07/21/1000954838.jpg",
-    "u": "https://www.antaranews.com/berita/5788929/pendidikan-dan-karier-suroso-isnandar-dirut-baru-pln",
-    "t": 1792062707000
-   }
-  ],
-  "nasional": [
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Sederet pengaruh bensin Pertamax bagi performa kendaraan Anda",
-    "c": "Pemilihan bahan bakar minyak (BBM) tidak hanya berkaitan dengan biaya pengeluaran, tetapi juga dapat memengaruhi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/30/stok-bbm-diy-aman-hingga-akhir-tahun-2896303.jpg",
-    "u": "https://otomotif.antaranews.com/berita/5837899/sederet-pengaruh-bensin-pertamax-bagi-performa-kendaraan-anda",
-    "t": 1794014896000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Sudah sikat gigi tapi napas bau? Ini 6 penyebabnya",
-    "c": "Menyikat gigi secara rutin menjadi salah satu cara menjaga kebersihan dan kesehatan mulut. Namun, kebiasaan tersebut ...",
-    "f": "https://img.antaranews.com/cache/800x533/2020/08/30/secret-2681508_1280.jpg",
-    "u": "https://www.antaranews.com/berita/5837895/sudah-sikat-gigi-tapi-napas-bau-ini-6-penyebabnya",
-    "t": 1794014627000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Nama tak muncul di cek bansos? Ini cara mengajukan usulan",
-    "c": "Nama yang tidak muncul dalam daftar penerima bantuan sosial (bansos) bisa membuat masyarakat khawatir, terutama bagi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2023/06/21/WhatsApp-Image-2023-06-20-at-20.58.14.jpg",
-    "u": "https://www.antaranews.com/berita/5837891/nama-tak-muncul-di-cek-bansos-ini-cara-mengajukan-usulan",
-    "t": 1794014398000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Profil karier Letjen Kristomei, Kepala BNPB yang baru",
-    "c": "Letnan Jenderal TNI Kristomei Sianturi resmi menjabat Kepala Badan Nasional Penanggulangan Bencana (BNPB) setelah ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/11/05/FotoGrid_20261105_104117612_1.jpg",
-    "u": "https://www.antaranews.com/berita/5837887/profil-karier-letjen-kristomei-kepala-bnpb-yang-baru",
-    "t": 1794014258000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "7 manfaat tertawa bagi kesehatan tubuh dan pikiran",
-    "c": "Tertawa dengan lepas bersama orang-orang terdekat rupanya bukan hanya membuat perasaan lebih lega dan bahagia. Banyak ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/04/17/43.jpg",
-    "u": "https://www.antaranews.com/berita/5837883/7-manfaat-tertawa-bagi-kesehatan-tubuh-dan-pikiran",
-    "t": 1794013893000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Gunung Semeru luncurkan awan panas sejauh 5,5 km ke arah tenggara",
-    "c": "Gunung Semeru di wilayah Kabupaten Lumajang, Provinsi Jawa Timur, pada Sabtu dini hari mengalami ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/11/07/WhatsApp-Image-2026-11-07-at-07.34.30.jpeg",
-    "u": "https://www.antaranews.com/berita/5837879/gunung-semeru-luncurkan-awan-panas-sejauh-55-km-ke-arah-tenggara",
-    "t": 1794013827000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Apa yang terjadi jika sering menahan emosi? Ini dampaknya",
-    "c": "Terkadang seseorang memilih untuk menyembunyikan perasaannya di momen tertentu. Seperti ketika ingin menjalani hari ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/03/13/Screenshot_2022-05-15-08-41-26-82_99c04817c0de5652397fc8b56c3b3817_copy_1024x682.jpg",
-    "u": "https://www.antaranews.com/berita/5837875/apa-yang-terjadi-jika-sering-menahan-emosi-ini-dampaknya",
-    "t": 1794013688000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Kemarin, pengurangan relawan MBG-penanganan banjir di Sanggau",
-    "c": "Beberapa peristiwa humaniora terjadi di tanah air di sepanjang Jumat (6/11), di antaranya BGN sebut tak ada ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/26/343868.jpg",
-    "u": "https://www.antaranews.com/berita/5837871/kemarin-pengurangan-relawan-mbg-penanganan-banjir-di-sanggau",
-    "t": 1794013588000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Ciri-ciri orang insecure yang sering tidak disadari",
-    "c": "Perasaan tidak nyaman atau insecure banyak dialami oleh banyak orang. Mereka cenderung tidak percaya diri dan merasa ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/08/28/pexels-george-milton-7034474.jpg",
-    "u": "https://www.antaranews.com/berita/5837867/ciri-ciri-orang-insecure-yang-sering-tidak-disadari",
-    "t": 1794013440000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Apa yang terjadi pada tubuh saat patah hati? Ini penjelasannya",
-    "c": "Patah hati bukanlah situasi yang mudah untuk dihadapi. Wajar jika beberapa orang merasa berat untuk menjalani ...",
-    "f": "https://img.antaranews.com/cache/800x533/2020/05/27/girl-863686_1280.jpg",
-    "u": "https://www.antaranews.com/berita/5837863/apa-yang-terjadi-pada-tubuh-saat-patah-hati-ini-penjelasannya",
-    "t": 1794013244000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "Hubungan antara stres, kopi, dan gerd di usia muda",
-    "c": "Gastroesophageal Reflux Disease (GERD) kini makin sering melanda kelompok usia muda, terutama mahasiswa dan pekerja ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/11/05/1000467081.jpg",
-    "u": "https://www.antaranews.com/berita/5837859/hubungan-antara-stres-kopi-dan-gerd-di-usia-muda",
-    "t": 1794013059000
-   },
-   {
-    "k": "nasional",
-    "s": "Antara",
-    "j": "7 alasan cinta baik untuk kesehatan fisik dan mental",
-    "c": "Mungkin masih banyak orang yang belum menyadari jika jatuh cinta ternyata membawa segenap manfaat bagi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2022/04/25/pexels-jasmine-carter-888899.jpg",
-    "u": "https://www.antaranews.com/berita/5837855/7-alasan-cinta-baik-untuk-kesehatan-fisik-dan-mental",
-    "t": 1794012755000
-   },
-   {
-    "k": "nasional",
-    "s": "ANTARA News Bangka Belitung",
-    "j": "ANTARA raih penghargaan Anugerah Kebudayaan Indonesia 2026",
-    "c": "ANTARA raih penghargaan Anugerah Kebudayaan Indonesia 2026 ANTARA News Bangka Belitung",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjQ5TF81VDdrM3U4ZVV1T2gweXFacF9UV1VlRmdDWHdYVnMtaXZYR0JsdTVXVGxlVnBRNHdpWFhFNjB5ZW9BZV94N2FUdHhIVXBfdGE2LXcwRkJJVnNZa2tPbGQ5TngyNUp0NVlWdlQyR1VQay1lMTlwSy1PY2ZaWFB1MXRGYlpWSUU0UUtTb1E0UFVMVFktSU1FVUVtUU4tRlBR0gGoAUFVX3lxTFBycVU1OGFzZ2dXdFhXZmhMaTNuWVdkQVZ3a1pZX1RBMVF5Tlljd1c2ZVpGU19LTHQtUW9rRHBGa3FkbWN3VE1tNEh6dUhPR0dTSWw3XzBtTDBqOFE0SUx3bHBuTzc2dk1zSXVVaHA5dXk5SW5GREY2ZTJtQmJtLUVVTzNoWTI5T3lzYVJaLWNvcHc4V1JYSENQN3ZBaUNQX3V1QlN3ZUhRVg?oc=5",
-    "t": 1793971347000
-   },
-   {
-    "k": "nasional",
-    "s": "Tribratanews",
-    "j": "Tribratanews - Portal Berita Resmi Kepolisian Republik Indonesia",
-    "c": "Tribratanews - Portal Berita Resmi Kepolisian Republik Indonesia Tribratanews",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHVTTDlSODROWS1HUzV5TzlIRWQ3bm9mLWpKbDhoUWdRSTF3ZzdrblRDX2J0VEx5R2JiY3FzZEU1WXBNVG5fS3psZDE5QTdBODBsYVhWd0VjZGdhOVR0d0sydzdHZXJHSkM3VE5uclJ2cTZFdmJhd0xoenN5UE9sUklZM0stMEpmekJn?oc=5",
-    "t": 1793957856000
-   },
-   {
-    "k": "nasional",
-    "s": "beritanasionalupdate.com",
-    "j": "Hari Pahlawan 2026, Momentum Jaga Persatuan dan Perkuat Perjuangan untuk Kesejahteraan",
-    "c": "Hari Pahlawan 2026, Momentum Jaga Persatuan dan Perkuat Perjuangan untuk Kesejahteraan beritanasionalupdate.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRURBdTFYaXZQYjA5RkV5STRTS0lqRzRkZHZXWUN2anZoVURvQVRWTFBBQlpVUTJ2aUVuS1h3SnNJOWZhUGxjY2hGTWxqR282bmtyU01KRVZRcXBTang5SkdLZmlQRTZGSERRRmNjRjVRcE81RXl1aDBjdVRnd3BlOEx6ZmZGbHBuMHJEb24tZ2xUdVdPcy1uSTBPQmI1SWNTZEtJeGNjTTZ3TnYzOXA5T1YzVFhBakhGOE44dnkzVnlTa1NfU20wMFFxanZsU0JaREhJ?oc=5",
-    "t": 1793930606000
-   },
-   {
-    "k": "nasional",
-    "s": "beritanasionalupdate.com",
-    "j": "Pemerintah Fokus pada Penanganan Bencana, Keamanan Pangan, dan Kebijakan Pengupahan",
-    "c": "Pemerintah Fokus pada Penanganan Bencana, Keamanan Pangan, dan Kebijakan Pengupahan beritanasionalupdate.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1k5cE15amdfQ2ZPb0RSaElTTkN6S2ZiQlFxSWlsWUNOVlJ4QTd0MGdIM3M2d1NYUWl1UWtMcWFfVlNaU0hVb0FTS205Rk5YaFNrUEdkNEkzcDdlRURVbms1Q1ZQMUJqcGcweW1zbTBhNG1YWHR2c1AtM3ZfVFhYTHVORkNlYmxiWUtrNWtOWjl6RjNJeW43NGZhRFRScTBPbzFRdGJ2ZFIwNm9lbl9kdEFQSmpEWFV3aEpabDQyNzFsZnV1Nkpua0pnSXVmTEU?oc=5",
-    "t": 1793929702000
-   },
-   {
-    "k": "nasional",
-    "s": "BBC",
-    "j": "Jokowi dan Prabowo di antara kasus penyadapan",
-    "c": "Jokowi dan Prabowo di antara kasus penyadapan BBC",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xZXJDWXJhdDBHT0FXcDltYlhTVWJONGVwLThRbmhOak1yR2lxTlhBSjU3SkdSbk9ERlNwX04xOGJVQ3BVbDZGd3JuOUpDMW5FYy1MaVl2SjhUR21vTkI5SEt30gFnQVVfeXFMUDBwRUFnM0xURzQ3X21WTTFYelNJck9yVVltWENSeDBLclotcXpNY2twYzB5a05pT2tJUU1pMFoybmVuTXVKY3ZPOGEwc1dCX0RFOUlUcm9SbnVFZld6Y2tsTGp0RXZibw?oc=5",
-    "t": 1793863394000
-   },
-   {
-    "k": "nasional",
-    "s": "Ortax",
-    "j": "Wamenkeu Paparkan Strategi Pemanfaatan AI untuk Pengawasan Pajak Sawit dan HNWI",
-    "c": "Wamenkeu Paparkan Strategi Pemanfaatan AI untuk Pengawasan Pajak Sawit dan HNWI Ortax",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN1NTWHRhMllycmJGLUhPUnViVmM1QXJDb1RkQk94RWFldWdRaUwwbDZGX2VBenJRQ2JsR0RZaU1yUk5XRjF5QnBydWlXa2VIbTg1OHBHQjJNUDdVczROczFDOWxUZGJGU25BcXVIZURhVlY3T1VrdXdGMWcyRHNUTThtM3hjVjNYenU1R3hEZFNvWTg5Z29FWU84ckJaQQ?oc=5",
-    "t": 1791874800000
-   },
-   {
-    "k": "nasional",
-    "s": "Dinas Kelautan dan Perikanan Aceh",
-    "j": "Selamat Memperingati Hari Tentara Nasional Indonesia!",
-    "c": "Selamat Memperingati Hari Tentara Nasional Indonesia! Dinas Kelautan dan Perikanan Aceh",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMnhoYTR1eDVFSVkyaUp5RGt0eDgxazViX2Z6UzJFcVhFYkIwNk1NS0hnQkFTNEc2aWkyQzNoYkhROFBZQm90Vy1lamFBYl91QzZjQzUxVzJ0NTRuZlZoTS1YMG1MZWdHUGRIM0hNSDNHSjZpUjhHS0NiSWk3SEdETkh6VzI4Y0NCNjlLWFAxMzd1R051ZW52VGtJaVNZVnk4Y0E?oc=5",
-    "t": 1791183600000
-   },
-   {
-    "k": "nasional",
-    "s": "Pemerintah Kota Depok",
-    "j": "Rayakan Hari Komedi Nasional, Pelawak Tanah Air Sukses Hibur Warga di CFD Depok",
-    "c": "Rayakan Hari Komedi Nasional, Pelawak Tanah Air Sukses Hibur Warga di CFD Depok Pemerintah Kota Depok",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclhGRjlSR3c5NDF6VzRRUVFYLWNnQXljNFB0SHVmeUV4YmtIdU41NFFnQUN3eGFDcEVSVTFVWlFhQWxGbkJVcFZXOXJNWkg0X21UOHQwRm1aX2RlQ29KUGZqMnhWX2lnMUVKUHdxOTNBdW1LSDVkMnNoeDJwYzlDb2Ffdkw0eS04dEpmVHBJMjRwd18xSW9qWmZ1RWFfNmZpSVREcHROaVc?oc=5",
-    "t": 1790497585000
-   },
-   {
-    "k": "nasional",
-    "s": "Komdigi",
-    "j": "Kementerian Komunikasi dan Digital",
-    "c": "Kementerian Komunikasi dan Digital Komdigi",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZmlHVjZDRFFYR3BTZ3l4V2lsc1JwdkFWY3BhUl9UUm93RkIxeXZSSzhfdUNJcFhqY0JhVDI3RGRPaF83T2c1dXhuaUFnWkxjZC1mU1RDMWdpVWl6VVZHamxWdU51dDdRd3ExaE1EZHlJYk44T1J0M2g2cmJGTHVrSFBnTGcxWkZMUjdqdk5vY3RnUExzYW10S3QtYmd6ZnE4el9OUmQ1UW5nU0NrVGtYZ0ZtYlg0WUY2QTE2cUY1cFhCZw?oc=5",
-    "t": 1790319600000
-   },
-   {
-    "k": "nasional",
-    "s": "Mahkamah Konstitusi",
-    "j": "MK Tegaskan Jumlah Korban Sebagai Indikator Utama Penetapan Status Bencana Nasional",
-    "c": "MK Tegaskan Jumlah Korban Sebagai Indikator Utama Penetapan Status Bencana Nasional Mahkamah Konstitusi",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3ZWOThUOTZYSTNIQmVUSlQ3RlZOQUJxWnk1M3BQdnF0RVhUVU43NnVLeU1RbHM4SzAySTBzSklyM25QNVRQbmZhRVdQYTlVUDBUQ29DbUZGSXF6SEVnLXZ0aTM5OW9oRWo3VzBPZ1JpZ3JTWW9BMEtYZzhEVGY0YU1RRzR4RTctSEh0dTR1WEFrLVh3Y2d4Ym16YnpDSldOc19ZbUhyaHRjNHp1U3I2X3RB?oc=5",
-    "t": 1787900400000
-   },
-   {
-    "k": "nasional",
-    "s": "BNPB",
-    "j": "Perkembangan Situasi dan Penanganan Bencana di Tanah Air 23 Agustus 2026",
-    "c": "Perkembangan Situasi dan Penanganan Bencana di Tanah Air 23 Agustus 2026 BNPB",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1JvcE9IUlcxcFNqOXlnTERwbzZUb3BZN2d4dG1vcERaUG9wV0xPWWY5ZjhtUkRTUmwwc2xoUkN3aEdJSkNfQm1nX3gwRHNRUlZpbzFaWnFYd2dtVkRJR3BsRFptUW13TmdtVl9acWNya1ZJWmNuQWFncFhuUUk5SEJFc3psTzU4dUUyN043UXROMl81dnh5UXQ3TW9EXzNVQmdUWQ?oc=5",
-    "t": 1787468400000
-   },
-   {
-    "k": "nasional",
-    "s": "Ombudsman Republik Indonesia",
-    "j": "Peringatan Hari Anak Nasional, Ombudsman RI Kawal dan Awasi Pelayanan Publik Berkualitas bagi Anak Indonesia",
-    "c": "Peringatan Hari Anak Nasional, Ombudsman RI Kawal dan Awasi Pelayanan Publik Berkualitas bagi Anak Indonesia Ombudsman Republik Indonesia",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWpkYXFnQ081bVFvazRQZk56MkpNenNFTmV2UDRacUlLbnNoOTBXaHZMZXVEU3NRbjQ4Tm1JYUxZTTk2SG1ENnhSQWs1THdtYnE4Qmc5VXpmLVpSVXltWGxjc2w5VVdFM05OVmVKdmxsTnBXRVFsRVZzTUJlSUxrQ1YtdldmSFY2MmNGUXJfeU1sUzg1RWt6QnROOF9ZZXIzRWhhaHg3MGxOclBWdWVvUVNqNFRjY1J4SExJVVB6ZWFmTG5lRkI4U3Yyb1RCWVVjbDcybg?oc=5",
-    "t": 1784703600000
-   }
-  ],
-  "bola": [
-   {
-    "k": "bola",
-    "s": "Kompas.id",
-    "j": "Tidak Bertanding, Timnas Indonesia Gelar Pemusatan Latihan di Bali",
-    "c": "Tidak Bertanding, Timnas Indonesia Gelar Pemusatan Latihan di Bali Kompas.id",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnlTcUFaUmVGUFhkN0FIYzlWeER5aUstWk1QWDNtS2pWQlFFSUs5NWZ6T294MkdWeFMtQ3dyZGFkY1pUS01OSUc3RUZoMEU5NVh1WW5QRHZqNmNaWkF6ZURnVjhlSkV5eVQ1SjVSZ01XOVpFZm9iNWVuTXY3ejg2NmxtWDIyV0Y0RnZxVTgzdXZ2Nkh3ZDBESVFZeFhkVVhJSU5wREp2endIejRHUTI0VmhzTEh2cWFUbUNv?oc=5",
-    "t": 1794012833000
-   },
-   {
-    "k": "bola",
-    "s": "RRI.co.id",
-    "j": "Arsenal Catat 19 Laga tanpa Kekalahan di Liga Champions",
-    "c": "Arsenal Catat 19 Laga tanpa Kekalahan di Liga Champions RRI.co.id",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXNFR1B2dzJSVHB4TW1nR2owanRKTlBiby0tN294UXEzdWhWNWxTLTNCaTNXTy1ReER2UkF6dkZfSG5nMl9sLTBHSjR5dC12WHhWZU5yWnZBUEc5UXdNdmVkakk0eWtQbEswdU81RWJDRTRvTmNLQ3FfX0MzbDFRQngyVFdjUWRDdWJ3QUl3QVlwQ3ozWWhJ?oc=5",
-    "t": 1793991600000
-   },
-   {
-    "k": "bola",
-    "s": "Tribunjakarta.com",
-    "j": "Jadwal Piala Asia 2027 Berubah, PSSI Siapkan 3 Agenda Penting Sebelum Timnas Indonesia Bertarung",
-    "c": "Jadwal Piala Asia 2027 Berubah, PSSI Siapkan 3 Agenda Penting Sebelum Timnas Indonesia Bertarung Tribunjakarta.com Penundaan Piala Asia 2027 Tak Bikin Timnas Indonesia Menganggur, Apa Rencan",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONW9ReWFnWFg4aWs0alJNVUZzM1JNSmZaRW5ZNHllSjgxUzNaWUpQbTIwZDY0N3oya3hQTEswZ1ZpREI3aDl5R3F5NlJEaVowTFRJdjlJSGF6dVJ6aC0yWUw3ck81bWRweTVaZFJ5WDllRWwzNjdWQUdEUUtNdkl3U0pWcUpaSUpGX044alBoN3lPck9QUkVjZ3F3aklWXzBFeFhTQ0hraXRsN2NCaEpwVXFGRzBxNmdFMkV1WGd5QUxfYlJzSkY3QlYzQXp0QVBfOGp0NlhTTnNpclE?oc=5",
-    "t": 1793976390000
-   },
-   {
-    "k": "bola",
-    "s": "Kompas.com",
-    "j": "Timnas Indonesia Batal Tanding di FIFA Matchday November, Pilih TC di Bali",
-    "c": "Timnas Indonesia Batal Tanding di FIFA Matchday November, Pilih TC di Bali Kompas.com Batal ke Timur Tengah, Timnas Indonesia Pindahkan Agenda FIFA Matchday November ke Bali VIVA.co.id Timna",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0VUekhpQ2tuVEYwN3NOc0w1czl5a0M5X1laT2JUU25PdTRfcG9PSTJtUTZaYVBQc3Q3ZTRmc19pVmg4cU1jRF9QWmpYN0ZDQXZjWnE1OXdJeWxoS2R3aUFBVnUxZmx6dzdRV3JFWHFDZ2xka3JTelozN0lLQW5KdUE5MGdEQW9MeWtFaHlxdG1vUmQzRDFJNWJ2RlJ0Mi12YXB0cTV3dG9KZjJjOUdFY0pLSkFzbDN0d0RqSkNidw?oc=5",
-    "t": 1793971140000
-   },
-   {
-    "k": "bola",
-    "s": "https://janalokajournal.id/",
-    "j": "PSSI Maksimalkan FIFA Matchday November Untuk Pantau Pemain Timnas Indonesia Persiapan Piala Asia",
-    "c": "PSSI Maksimalkan FIFA Matchday November Untuk Pantau Pemain Timnas Indonesia Persiapan Piala Asia https://janalokajournal.id/",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlg4QWlCc0xha3M4Vmh3c1dWcGtxRm42UWFBSnJtUU1SX1lVNVgwQUdid2FCZmJ4R3pMMDZnQlNxUnpkcXdKRDJjZFZuVjBxRTdQWVY2Q3NpWDJIeDBIOWdsaE5sN2x5TGdUZ1J1eEZSRXFZQUFGb0tUMkZMWDdhUDY0UzFDdGRDS1FBb2puQ0xPTWtQaGVKTkpxM2FYaGs?oc=5",
-    "t": 1793961580000
-   },
-   {
-    "k": "bola",
-    "s": "Superball.ID",
-    "j": "Satu Wakil ASEAN Dilarang Tampil di Kualifikasi Piala Asia U-20 2029 usai Melanggar Aturan AFC",
-    "c": "Satu Wakil ASEAN Dilarang Tampil di Kualifikasi Piala Asia U-20 2029 usai Melanggar Aturan AFC Superball.ID",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGVocldVZ2Y4MWFXN1hhcjhUbG91Zk9fMHVWTFZlZF9CYTJraGdTcFlRR04xbjBEOHZYRE5UUFpDcjVkSmNtNFE3RWptZWVqYW8wbjZBUHhmbjRRZ0hmQ3BQV0dkY2F4SnktLU9rRVNuQ2F1Smc1YVl2Wk9JZVdLUVNVZ214QmNYaGJ5RzJVUThRd3J5LUZMUGFWSnNRcHBUZlltc2xjdFB3X1h0MFN5ejRCdFVfNWpKVHVjczNjcl93aG5MUjczY0t0T21YaS1qWkt5QWtKQnPSAd4BQVVfeXFMUHQ4Yldhc3phbGdCRndLVGZMdTUzRjJ5REtSYmUxampRRWdFeXhPQ1RtTWU5QVRidnU5aW1zRnAyVEtoZDNJYmNSemZrR2ctcWpLbXQyV2JtQ28yOG02d3RZRzZIR1pSN09JNk4tMVlvQkFTQnhQRHBMeXFoUzNKeFJBZ3dnM29WT1VTUG9DSS0zWnRpcVk5MlpkSXZ4MEg2TDhFLWRQNklHallEelRneTR3dzF6NE85dEZTTWFDcC1FaGp1YlNXRGNHaTdRTEFyenNWbkw3YV9lc0RnYmZR?oc=5",
-    "t": 1793960460000
-   },
-   {
-    "k": "bola",
-    "s": "Bola.com",
-    "j": "Penjelasan PSSI terkait Pelepasan Satoru Mochizuki dari Timnas Indonesia Putri, Pelatih yang Persembahkan 2 Gelar Piala AFF",
-    "c": "Penjelasan PSSI terkait Pelepasan Satoru Mochizuki dari Timnas Indonesia Putri, Pelatih yang Persembahkan 2 Gelar Piala AFF Bola.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNkFvMjZpeGR4dEJicEpWZ3RWUklLbktyc2xQOVI2SEtDaW1iUXdIMVhUOHNMRVJ6R0hsVGVOWldzbkNLaC15LUhhUjlaU01TNlg2amlsTFI2YzR1c19TNEduTnE1WmtaUlNuTFJaWWV3T1JRM2RWUW1jR3gyaXVNUWk5Q1VRcGxDZ0hSWWVGNHJfSmwxSTFSRFBrdVFQWkJIX2U2UVcwNHNMbjcwZ3R2clp3bTA1NmN4NXpUSDlKMnV1d2IzYUxFTzV0VzVXNHQzNGNlalR3VXFtMWhVbjVFU3A2eXJvUm1xQ3BHT2J4RDUwNEQwUmZxSUFR0gHrAUFVX3lxTE91Zm9CdU5vN2JHWnNfUE1nMTFrUUNLdTJlQ3FsYUFJQ1NrX2lqVXZxZzVPbW9Xb1drRlZZVjJLRmpwa1JmZmdDMjk5Y0lKR3B2dE93eElySFFabXYzbjNid0JVZEZiZFpmU3ZHbUF4dGZOTk10NXhmM0VtQ0pULTZtTXlSMExQTC1sRk1yRkE4QWxzRFBRbU4zSDVtcnVxSEdvbkFicXMyQVdsTnlCYVIwb2RVUEZ6OU1Oc1N2VXF1YndvUDhPc2lVZHFWTlZyY3R5Y1JlZklsY1k0VUNQVnBhd0RBYmptc2NELVk?oc=5",
-    "t": 1793959200000
-   },
-   {
-    "k": "bola",
-    "s": "Bolasport.com",
-    "j": "Tantang Arsenal, Hull City Merasa Hadapi Juara Bertahan Liga Champions",
-    "c": "Tantang Arsenal, Hull City Merasa Hadapi Juara Bertahan Liga Champions Bolasport.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZDFJTUZMRElwaW9GZVRMc3ExNXI0azAzVXQyUXBfN1dsLVhlZWE2RXlWenJRWDBrSEZNdlFVM1B5d3I3VVBCV0VCa21VMHR5b1dESTc0YWZtbXNJMUdFdVpYaHJTcnNaZDdfYVJ0cGd0RHRLQVVGV1d6aURKSzlQZUlvNEtPQnpYb2VDdmFSaUZLUXVneVVuSDhRNzFnUFp3dGtSaW5hN1l4dlAtSEc4?oc=5",
-    "t": 1793954700000
-   },
-   {
-    "k": "bola",
-    "s": "detikSport",
-    "j": "David Raya Masih Terhantui Kekalahan dari PSG di Final Liga Champions",
-    "c": "David Raya Masih Terhantui Kekalahan dari PSG di Final Liga Champions detikSport",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnNHalRMNEFzZ1pnUXhpT0h3N2E5RFBfamZ3SndCV1B0eTJ2R0tfY0JRQlRkQmhUWGlnWXpCZ1JNTlRkQTVkN01Ha2Rfa180ekZTX3c1ZTFaQ2hzTUJTMVF2aWxGR3FpbnBZYnBWYzhOcjE3YUlEZXlTME9RYzFMMmlwTEZKMUM0OVZ1QTE2cUE2cFVxX0g1OFRXa3ZsUGtlN21HWkk1bXpIcmFmc1oyV0hHQ2IyYkR4bGfSAb8BQVVfeXFMUDFTd29nM044ZGpITGpNQkdEc2tnbUFUbFZQWTYxT3NTVVRBcHRqbGlmMElqbDBoT0plU0RGanRoQkNFSUdpcS1XblMwRkM5SWR5ZmYySmctSjRYaktzTE9aR0dDYkU1NW9hMzNjVFRERkp5UkZ0T0NvdUtuU1NGZ3VGaTVTZ0RVTFEzWjJ0UDQtNmNUXzR1WEdsQzdYdHkzb0dLMUdMX09nX3NoNVA0TFVzbmJod3BpYmNuUVgteTg?oc=5",
-    "t": 1793946630000
-   },
-   {
-    "k": "bola",
-    "s": "Goal.com",
-    "j": "Jadwal Siaran Langsung Sepakbola TV Indonesia Hari Ini - Nonton Bola Live Malam Ini (Liga Inggris, Liga Champions, Liga Italia, BRI Super League / Liga 1 & Lainnya)",
-    "c": "Jadwal Siaran Langsung Sepakbola TV Indonesia Hari Ini - Nonton Bola Live Malam Ini (Liga Inggris, Liga Champions, Liga Italia, BRI Super League / Liga 1 & Lainnya) Goal.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczZXMDRWXzdpM3ZTcUhwQlhqZzZKWWtqcFNNeHlKdklBN0RDaVVNNGxwSjlIM0owVnpGMVp1UVdadVdTVW1PekI3YUVuU0xIXy1TQ3NnTkctNG5SUzBza1lPUW1fX0JWcklkdWQ4Zmd5Wmg5ck1pcjdCdjdtelBEVzhFYXJNZElCZ0w5WF9Ub20yMmly?oc=5",
-    "t": 1793946601000
-   },
-   {
-    "k": "bola",
-    "s": "Bola.com",
-    "j": "Sir Alex Ferguson Sebut Striker 5 Gol Ini Finisher Terbaik MU, Bukan Ronaldo atau Rooney",
-    "c": "Sir Alex Ferguson Sebut Striker 5 Gol Ini Finisher Terbaik MU, Bukan Ronaldo atau Rooney Bola.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU2ViOXVLSERmeVlSYUVjMmFWUUw3ZVBwcTE1bnVkOWR2N1AxOEhYX19oV005bHdVT3AzZUtBbWcwSmYyVVlVOWRvdndOVldhcDNtWmlMdkpKc3pKVU1qZkhkNnNpYUd2cjhpWVdvNVg4UURlSjRtemlrUTFlY0UzRU5Ucm84RVdJeWVkQzJ0YUtlaXh6aFhjcENjT09NeHNCblNlclE2Rlgwc1I2TzR1dTFBbzZCNWZIdTl2MG01SkhJT0tyamRkX9IBvAFBVV95cUxOd1VtLW1jRGptc0paSnZ4aHNaandWTmRBZGx0b0ZQSkJkVnpFZmVjNDRBd1JUTFJrRHptRS12c0JlRm9hR2hSd0RNRG9TN2MzOTR6Q0V6VGpzMnl6ZTJUdDRpN2JvMU9FSWh4QlZZb1I3R1hyeGhCcDRWNmp5T3VUQmZ5bzdSSVZDZ01OTkZKSS1qWmt1M2xwUncxVWJCOE9COVNTbkZTSUtZaTlEbTE5UXJIM1UwVTItWFBuWA?oc=5",
-    "t": 1793935807000
-   },
-   {
-    "k": "bola",
-    "s": "JPNN.com",
-    "j": "Erick Thohir Bongkar Penyebab Timnas Indonesia Batal Lawan Yordania, Situasinya Rumit",
-    "c": "Erick Thohir Bongkar Penyebab Timnas Indonesia Batal Lawan Yordania, Situasinya Rumit JPNN.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0FtV0dKZW5pVm15Wk5GUlN5S2V3c05DMUNxUGMtalltNVM0SVBBUjQwY3FNbEM1ZWFmTWlZU1VGRHJoUHRUYlRHelVuSk82b0g2aHdKYVpxZEs2V1Y0UnllTG9zb0I2ajAzX0NfNkQteThORDRyd1BzUjhCUzZjcVQwbkVXZzI5aTBrTGxpR2JPcHljWGFqejFZMnp0OFJOLVZqX0ZpOWxaOXhV0gGyAUFVX3lxTFBKejhWdGlNSnZwZUEtSk5NaGE5d3M0cDRaMTk0Qk9MbGVocUc1eDdnU21GcUVCczVNaGk0WDlXY2dpQ0NfRkRHMmFBb2NkMU9uR1owUmpjYUxkWFhMNFJYRWJnMlB2MjUwcjJXSjJPU2hWZ3Z5ZkRxLWZtREJOazItRHpQWS15dkI1bFRfdmFVOVlMaFNIb0lScndvVGZLT2ExMGlvYU9MZUdRUUVKUXZyQUE?oc=5",
-    "t": 1793928900000
-   },
-   {
-    "k": "bola",
-    "s": "detikSport",
-    "j": "Catatan Unik dari Pesta Sembilan Gol Como di Liga Champions",
-    "c": "Catatan Unik dari Pesta Sembilan Gol Como di Liga Champions detikSport",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWY4T1hGRGlKUm1kc0NDOGZOM3A4aGRHTXBjb0RrOEIzdDkycmEzRjFYTURTUXQzc3ZFZVViNWxkVlRwb0hkc194M1RTNmpONWxpVWZBc2U1RGttVlg5YnJpRWZEZ0NEWTRiUjhLT0hyV04tMktuQ1YzNUFUel95NzJ6Yi1LTllPZ2Z1bnBIQmZoUzAxbXlkM3RlV1pqYWdMRjRKb2F1OG5WT1ds0gGyAUFVX3lxTE1BaDBVY3FFVmZoLTlLVVUxdWJPVklzbmJuUDIybERQeVdlTzIteTFQTWhhS0s4RmJQd1FQTy1CNUc0b1FBTHRGdmRqT3lQbzNlbVVnUi05d3dSaVZwWW5PR042UGJFZjFvdU50Y28xY0pMcTNncWtsSmJoMDRGT3BMVmhEclZVaTFpdHNFTXprV0ZYc1lGRnJCS2NGY0RHZ1dNQmVKQnpPMkRJaHduT1NpLVE?oc=5",
-    "t": 1793926852000
-   },
-   {
-    "k": "bola",
-    "s": "Tribratanews Polda Jabar",
-    "j": "Piala Asia 2027 Resmi Ditunda, Erick Thohir Sebut Menguntungkan Persiapan Timnas Indonesia",
-    "c": "Piala Asia 2027 Resmi Ditunda, Erick Thohir Sebut Menguntungkan Persiapan Timnas Indonesia Tribratanews Polda Jabar",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSVEyQnR6UUlBTnNHZXZWZ1JlaVBpbmZDam5JYWkzRFR1dTVRa2ZjZHF3cE0wTURVcG9lbTJiWW5Lbm5kaWpKWmlicHBPb1RsZkdKUzR6VjFLakVYT2NDVjl1MjF0dW1DRDRWSjNfN08tNUQySlNDUVRSay1EUkdhNkktQ1gzZmVSNWVScXA0a3RvT0Z2cnN1RGVWa2dSbWFkZmFMTXpVbzVUWGlyWUpMaG9udVZFUE1vcHJ4ajRqWjRpd1ZnaGkxWA?oc=5",
-    "t": 1793923560000
-   },
-   {
-    "k": "bola",
-    "s": "Kompas.com",
-    "j": "Deretan Prestasi Satoru Mochizuki bersama Timnas Putri Indonesia",
-    "c": "Deretan Prestasi Satoru Mochizuki bersama Timnas Putri Indonesia Kompas.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNldvMklFQ3dQQWFSZFVucllqX3podWZjNXFXZHJmeEV0Z2JiX0dLX1lib2xCNmYzb1l4M0dmQUM3MVA3TFFXNmF2YV90UjRkR0xaZnlEb2FGdUVwWE1oMURmWlBTMjJzbS1TNzNQYWNTUmJJT0tIeFNCeW92VGZXOEtQNXhETTJPelRVdF9KYzNWTW5ENFU0OHhQNWFuVHc5ZmZtM3dGNUYxcTdFTGd1cHRvdw?oc=5",
-    "t": 1793920200000
-   },
-   {
-    "k": "bola",
-    "s": "Bola.com",
-    "j": "Mengapa The Longest Wait Tak Sajikan Kisah Timnas Indonesia Secara Kronologis?",
-    "c": "Mengapa The Longest Wait Tak Sajikan Kisah Timnas Indonesia Secara Kronologis? Bola.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRFkxRWlEc0hSVDJHQ3FKMzVhd2RRRWhxNXlMZHF2LVlBRTFVSGR1VFR0NmhCQUJSSzgxOE9PSHB1YURYZUFNWUdfRnlKT0dpRmhZNTk4THdXeU5UQWI0UHRaLTNSejlJMnV5RlBMbVRnWVVsRmlueWV2clVvbkhJRGJaZGJSZXZPbFYzTzM2X1FINHpBRWpGLVhURWw3cGJ1cXJEOG40eEFiQzJvbXhVTTAtMW93UVk5Skt6UGpR0gGvAUFVX3lxTE9RQVB5X2Q1NWRkNDJ2cnI3OUdyUlZqbjUzOEJRZlQ2RWdHLTJwU3oyeGhmZWxnUEk5ZXhESHJXcTBxLWdYRDFRRko3NFlmREJSYTNnS2U4ajQ5LUYxZ1lEb0ZYamN2eFo3elpjMUEwVnA2emprenh6VzBKTXBlRzA5a3JiWm80VHhrVmlmVThqdERFdC1fckVQMmlxdlBNNzJkN0lmRU9oZTFVU2szcGs?oc=5",
-    "t": 1793918726000
-   },
-   {
-    "k": "bola",
-    "s": "CNN Indonesia",
-    "j": "Resmi: Satoru Mochizuki Dicopot dari Pelatih Timnas Putri Indonesia",
-    "c": "Resmi: Satoru Mochizuki Dicopot dari Pelatih Timnas Putri Indonesia CNN Indonesia",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYkwwTXdnSU9sMFZlYzl4cEdNZ0VEVTNlNGRCa2JaWWcwNFFic1B2d0xEaFdkMlNGVFNRNmxtRmM5dER2bDRBZ1ZfRHU4QkVxSEU5RXpKaXJ4Y3JGQkVEZ2FMamJVcW9qYUZROVNoMWVJUTMwbW01TWRFLXJZQ2FtcVNRa1Q4N08xT0dzUFBFU28tcHdCTk1vVkdjWVEybFdUQWFyRU55blpIejhhWUxhTHZ0ZXpyZzVRTVp0eG5MeXhFQjRLaG1HMU1Md9IB0AFBVV95cUxOSWx2RHNDY3ZXd1lId2s0Yk5qSnllNWZhT1R0V282WWpXR0ZYYVpFUTY2Ml9ya0JWMmE2NmpremRVbUdyRldJMXdrY0N2OFBxWVdYbS0ycmZIS1dBM0ZBbGpBdXMwdUNXWWRhTElIbnFwMUJaejUxWHR1bDVqZlZzNHl1V3ljbHMzMGo4U2EtdlVTYmlXSFZzWnA3bG9mYVVhTm43T2hJWU9BNTFUSVo4S29NMklTSkJ3RU5hd3Q4bzBETVkzM2d3LVUwZ0hHX3Vm?oc=5",
-    "t": 1793885242000
-   },
-   {
-    "k": "bola",
-    "s": "Kompas.com",
-    "j": "Persib Bekuk Melbourne Victory, Pengamat Harap Kualitas Tertular ke Timnas Indonesia",
-    "c": "Persib Bekuk Melbourne Victory, Pengamat Harap Kualitas Tertular ke Timnas Indonesia Kompas.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd185bDNydVZXWUZNNFNScXNxWXROblI2WEpIMFh4d2FsS0dpeHdRYTAtcnpPVk5lRHRHNmNfRFlyMjUwOUpJRk8zX284ZUFKejc4THR1dFFWYV9hZU5OWEJpQkxSallZa0ZkRlQyRDNiLTlFWWlwV1AtelN6THFybnpnelNFeTFoMjVwX09TdjJmcndBWGg0U2tYeFo3QjRmajNkUG1mTnJKT3hSbzhrR09tUEhPU2ZHYVg5Sy1XZw?oc=5",
-    "t": 1793838480000
-   },
-   {
-    "k": "bola",
-    "s": "detikSport",
-    "j": "Klasemen Liga Champions: Madrid Tempel Ketat PSG",
-    "c": "Klasemen Liga Champions: Madrid Tempel Ketat PSG detikSport",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcW1GQVJISE5vSFN6aVU4ekNucFNqVHd1V1kxTVY5NGFkX3Zib1FPNnZ3T0ZlWE9SSU1LbXlFSUNaaG9xWFBZZS0tbHI5cHpRRHVocjFuS3JPVW5DOWYwNDZla2V4TVVIR2lybHc1OTZyZHY3QTJSWlV5OXVBcWRtV1p1YmtxTDhKS0pXd2s3NkdNVGpqQmFGN1Y2R2XSAaIBQVVfeXFMTmRUanRWbVQ3dG5ZdVJyTG53YV9wNk5QVms4X2pZVk9pcmRPTGRsUkwtWnU1d1VpcGk2blNYYW50UXIzTkx1ZWtXc2YxY3U3Z2Z2VU5PU2t5WFNmMnJOcGtfbHJPWU5Wb2lUNHAzTlRoQWE3SnZZZzBkQjVvZnFDSW1ZcGRXaURWZEhmY2tFbUtOMHRYOHFzaUZMVmFYeW82eC1n?oc=5",
-    "t": 1793834459000
-   },
-   {
-    "k": "bola",
-    "s": "ANTARA News Makassar",
-    "j": "Liga Champions - Liverpool dipermalukan Fenerbahce 2-3",
-    "c": "Liga Champions - Liverpool dipermalukan Fenerbahce 2-3 ANTARA News Makassar",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHl2b1pMMTdqcjRidTA1LVhDdGpLNThzYnR1UHBFb2s1bnE0WTJZUVphWjJ4U2d6cWZQa2tpZFZlRmU3cTk5YXJiZjM0X2ViTE10Mm9ndkd5MUZscWZRMkJ5TjZtZTY1NThkQWZMR2thbHRtckhQQnNGNXcxbmMybFdlLTBlWHhXa0xqX2JVUDZMaUVUZ2dld09HQXI2MDg?oc=5",
-    "t": 1793829063000
-   },
-   {
-    "k": "bola",
-    "s": "detikSport",
-    "j": "Bisa Bawa Madrid Juara Liga Champions, Mourinho?",
-    "c": "Bisa Bawa Madrid Juara Liga Champions, Mourinho? detikSport",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzRYZFpaSEl2VzRoR0JWNDVsV1VwZk9RaU9nWUpqd3puTE91MktsQ2tRV1BVTUZjQjBET19aRWlQSklQcVNtRURNUEVWQVpaVWxsX3NxaXgzWksyQ0FMZk92TDFjTFJodHMwODg4Vm5NeUlIZUhLTlROOWhDdFdWclFhQmEya3JhUVNZRE9XdmNTOVhodDBVcW9oQdIBoAFBVV95cUxOU21HYmJGQkJDeGxuazZNT05jTkF6QjNtSkVUV0d1eG9iaXdHR1lGV3RtS1Vvbno2MjJtMnRDYW5oeEhSMHJYenpCa3RKb2lTdS10Z0VCaG9SYlZuQ2R6ak5CLUd1UlN4U2xEV25kalJQSFZNb2ZUQ21HTExxd0JoNkEtSk14MlhHTk9qTWZ1Z184MW9kTU5OcXZHRHNlek1E?oc=5",
-    "t": 1793808005000
-   },
-   {
-    "k": "bola",
-    "s": "Bola.com",
-    "j": "Aksi Shea Lacey saat MU Bungkam Roma Bikin Suporter Berisik, Carrick Didesak Jadikannya Starter",
-    "c": "Aksi Shea Lacey saat MU Bungkam Roma Bikin Suporter Berisik, Carrick Didesak Jadikannya Starter Bola.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzJuZUZKRmJCNzZGNnRKTGJFTzljdjVkR3ZBNExsckJHbjhQNEZLeXlIVF9jT3A1aEFKbzhpR1ZOVTd3WmlGM2Q1M01qZ19ia2tDeFMyLURwVWlOekNXY0RyX2ZUeU04TUdveVE2SkF2Y00ySldhNXBDeTFCMlJwX0lMeUQ0RmppcGpiUEVXbnlNQkpCcFItYllNcWN3Z2JBbEJiemI3SEE1ZUZKZWI5RC0zOFhzc2lzSm1VMERlT1hrMG5zVmNXLTJTcDg0LWs1amfSAcYBQVVfeXFMT1VJWl9NRkRCa2d6VEZ6ZlNsZVdzTUVOdzdvX3U1dDlPQktlaE83dXdnRTVrTmdZLUd0WnpLS3hHNDA4LTNZeXV6VzBVeE9mTkV4MTNaaFNORXNBcHRPTmxLMWE3M0RfRl9oZjBtaWdWVlJtZFppSVg4MVpEdkJzRHFfeXlaeEtrTWpVMkJoaWJ3T1hEbGNkaFJNMWdDOGVLWWpIbnVKYWR5N19Pc2RrVEU2aHY1NHctTlppT0loR1NEaGtiLU5n?oc=5",
-    "t": 1793769302000
-   },
-   {
-    "k": "bola",
-    "s": "Bola.com",
-    "j": "Carlos Baleba Cedera saat MU Hadapi Roma, Terancam Absen hingga 3 Bulan",
-    "c": "Carlos Baleba Cedera saat MU Hadapi Roma, Terancam Absen hingga 3 Bulan Bola.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDh1YnVjMmw4SlpuN2lUb01tR0tmRUxEQ0VIbi1XLXVvN0VIS2paTnJHRHRTd2ZzTXBjMl9NUVZJbGJ4bS1qS1NYaWl4WUNmQVBrdG9iNEJJbHlmNTFOdXlrQkFjQWI4RVZ1T1pBQTV5YWlvMUplYW93QnZJQW5tVUlQcWZHQUtqNEx0WE1ORXZjRFEzbmoyM1dCSmdCRTdMM3JwRFFDS1B0cjEtRXpr0gGmAUFVX3lxTE9oUXZTc3pnaGRYeXhDZ1g0WHV5N2JGc0V4ckJmT3ZLRHF0MktIOGRJQ3lfZ0RhNk1wa2I1bWI5MFN4ZjB0Yl95RlFMX0hKdkxiY1RmakxfYy1sVG5rdEdmUnpaZHFrQTE2Y0ZGVnVzUVktUWVNMEVUMGVFWHBCbmI5NUNTMjdIMks1LUJxb0JkSHlCU2xXRFR6TXBzdVRocTRJT1hpb3c?oc=5",
-    "t": 1793764817000
-   },
-   {
-    "k": "bola",
-    "s": "Kompas.com",
-    "j": "Link Live Streaming Man United Vs AS Roma di Liga Champions 2026-2027",
-    "c": "Link Live Streaming Man United Vs AS Roma di Liga Champions 2026-2027 Kompas.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnAwUEZ0MEl3MTM3NEw1NGdaWGd5UUFVNWhadm1TRUdyMHZXSUVnUzJBM2pJa3VPMkVZMkVITEcycmk1UFhlVENfOFZwRFVBMWh6ekZaQWtIblBWaF9Cb29CZUhWbkszS2VkME5mcXVOMXhFMWtoOFpacUpJekJPaG16ZE1fVDVwc0pfUVVYMU9lSXV2Z0tIbV9nVU5qNVdhb0kzbXAtOXFQeGpSYlA1cWJ0Q0lCbTI3c1E?oc=5",
-    "t": 1793721600000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "10 pesepak bola yang punya karier musik, ada Memphis Depay",
-    "c": "Sepak bola dan musik merupakan dua dunia yang memiliki daya tarik tersendiri, khususnya di lingkup pop culture. ...",
-    "f": "https://img.antaranews.com/cache/800x533/2025/09/08/lithuania_v_holland_-world_cup_qualifier-1.jpg",
-    "u": "https://www.antaranews.com/berita/5827867/10-pesepak-bola-yang-punya-karier-musik-ada-memphis-depay",
-    "t": 1793664722000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Jadwal perdana League Cup Indonesia 2026/2027: Ada PSMS vs Persija",
-    "c": "Kompetisi sepak bola Indonesia bakal kedatangan turnamen baru pada musim 2026/2027. League Cup atau Piala Liga ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/07/7f943119-53ef-4a70-9f2d-75f54b05f9b4.jpeg",
-    "u": "https://www.antaranews.com/berita/5803621/jadwal-perdana-league-cup-indonesia-2026-2027-ada-psms-vs-persija",
-    "t": 1792632031000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Mengenal Stadion Metropolitano, venue final Liga Champions 2027",
-    "c": "Stadion Metropolitano di Madrid, Spanyol, akan menjadi panggung perebutan gelar juara Liga Champions UEFA atau UEFA ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/14/image-2026-10-14T043135.913.jpg",
-    "u": "https://www.antaranews.com/berita/5787505/mengenal-stadion-metropolitano-venue-final-liga-champions-2027",
-    "t": 1792035096000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Profil karier Emil Audero, penjaga gawang di Final ASEAN Cup 2026",
-    "c": "Emil Audero menjadi salah satu nama yang paling disorot setelah Timnas Indonesia meraih gelar juara FIFA ASEAN Cup ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/05/indonesia-juara-fifa-asean-cup-2026-2878692.jpg",
-    "u": "https://www.antaranews.com/berita/5774613/profil-karier-emil-audero-penjaga-gawang-di-final-asean-cup-2026",
-    "t": 1791339898000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Kasus Manchester City: Kronologi, dakwaan, hingga hukuman",
-    "c": "Kasus dugaan pelanggaran aturan finansial yang menjerat Manchester City memasuki babak baru setelah laporan pada ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/07/14/riley.jpg",
-    "u": "https://www.antaranews.com/berita/5765420/kasus-manchester-city-kronologi-dakwaan-hingga-hukuman",
-    "t": 1790777165000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Tiket FIFA ASEAN Cup 2026: Cara beli, syarat dan harganya",
-    "c": "FIFA ASEAN Cup 2026 akan segera dimulai dan Timnas Indonesia menjadi salah satu peserta yang akan berlaga di Divisi 1. ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/26/Indonesia-kalahkan-Singapura-250926-MRH-3.jpg",
-    "u": "https://www.antaranews.com/berita/5759421/tiket-fifa-asean-cup-2026-cara-beli-syarat-dan-harganya",
-    "t": 1790394844000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Cara dan syarat nonton BRI Super League Rp1",
-    "c": "Menonton langsung pertandingan BRI Super League menjadi pilihan bagi pencinta sepak bola untuk merasakan atmosfer ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/20/persib-bandung-menang-atas-persijap-jepara-2867580.jpg",
-    "u": "https://www.antaranews.com/berita/5759416/cara-dan-syarat-nonton-bri-super-league-rp1",
-    "t": 1790394706000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "8 pemain asing Super League yang dipanggil timnas negaranya",
-    "c": "Jeda internasional September 2026 membuat sejumlah klub Super League 2026/2027 harus kehilangan pemain asingnya untuk ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/19/madura-united-menang-atas-psim-18092026-ma-1.jpg",
-    "u": "https://www.antaranews.com/berita/5757739/8-pemain-asing-super-league-yang-dipanggil-timnas-negaranya",
-    "t": 1790299136000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Laga melawan Singapura jadi misi balas dendam Garuda di ASEAN CUP",
-    "c": "Timnas Indonesia akan memulai petualangan di FIFA ASEAN Cup 2026 dengan menghadapi Singapura. Laga ini menjadi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/09/24/20a333b8-ef1a-483e-a470-821f05454ead.jpeg",
-    "u": "https://www.antaranews.com/berita/5757733/laga-melawan-singapura-jadi-misi-balas-dendam-garuda-di-asean-cup",
-    "t": 1790298925000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Batu yang diduduki Mohamed Salah mendadak viral, ini lokasinya",
-    "c": "Sebuah bongkahan batu di kawasan pegunungan Trabzon, Turki, mendadak menjadi perhatian setelah pesepak bola Mohamed ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/07/04/XxjpseE000147_20260704_PEPFN0A001.jpg",
-    "u": "https://www.antaranews.com/berita/5757712/batu-yang-diduduki-mohamed-salah-mendadak-viral-ini-lokasinya",
-    "t": 1790297885000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "Suporter PSIM & PSS sepakat berdamai, bagaimana sejarah persetruannya?",
-    "c": "Rivalitas PSIM Yogyakarta dan PSS Sleman memasuki babak baru. Menjelang Derbi Mataram pada BRI Super League 2026/2027, ...",
-    "f": "https://img.antaranews.com/cache/800x533/2018/07/kericuhan-antara-oknum-suporter-dan-polisi.jpg",
-    "u": "https://www.antaranews.com/berita/5753065/suporter-psim-pss-sepakat-berdamai-bagaimana-sejarah-persetruannya",
-    "t": 1790072161000
-   },
-   {
-    "k": "bola",
-    "s": "Antara",
-    "j": "5 kiper terbaik dalam sejarah Barcelona, ada Valdes dan Ter Stegen",
-    "c": "FC Barcelona memiliki sejarah panjang dengan sejumlah penjaga gawang yang menjadi bagian penting dalam berbagai era ...",
-    "f": "https://img.antaranews.com/cache/800x533/2023/01/13/2023-01-12T215801Z_474159805_UP1EJ1C1P0O8W_RTRMADP_3_SOCCER-SPAIN-BET-FCB-REPORT.jpg",
-    "u": "https://www.antaranews.com/berita/5749717/5-kiper-terbaik-dalam-sejarah-barcelona-ada-valdes-dan-ter-stegen",
-    "t": 1789876995000
-   }
-  ],
-  "teknologi": [
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Mau jual HP bekas? Ini 9 langkah menghapus data pribadi",
-    "c": "Menjual ponsel atau handphone (HP) bekas tidak cukup hanya dengan menghapus foto, video, dan aplikasi. Pengguna juga ...",
-    "f": "https://img.antaranews.com/cache/800x533/2025/10/05/kebijakan-blokir-imei-2639121.jpg",
-    "u": "https://www.antaranews.com/berita/5835679/mau-jual-hp-bekas-ini-9-langkah-menghapus-data-pribadi",
-    "t": 1793928061000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Benarkah mode pesawat bisa percepat pengisian daya HP?",
-    "c": "Mengaktifkan mode pesawat atau airplane mode biasanya dilakukan ketika seseorang berada di dalam pesawat. Namun, fitur ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/05/23/WhatsApp-Image-2026-05-22-at-22.09.38.jpeg",
-    "u": "https://www.antaranews.com/berita/5833071/benarkah-mode-pesawat-bisa-percepat-pengisian-daya-hp",
-    "t": 1793847019000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Laptop tidak bisa terhubung ke Wi-Fi, apa penyebabnya?",
-    "c": "Laptop yang tiba-tiba tidak bisa terhubung ke jaringan Wi-Fi tentu dapat mengganggu aktivitas, terutama ketika ...",
-    "f": "https://img.antaranews.com/cache/800x533/2023/08/11/wifia.jpg",
-    "u": "https://www.antaranews.com/berita/5832947/laptop-tidak-bisa-terhubung-ke-wi-fi-apa-penyebabnya",
-    "t": 1793839514000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Mengenal LIMS, alat yang digunakan untuk menyadap Presiden Prabowo",
-    "c": "Kasus dugaan penyadapan terhadap Presiden Prabowo Subianto yang menyeret mantan Kapolri Jenderal Listyo Sigit Prabowo ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/11/04/Bareskrim-Tetapkan-Tiga-Tersangka-Kasus-Dugaan-Penyadapan-Ilegal-031126-gp-4.jpg",
-    "u": "https://www.antaranews.com/berita/5832595/mengenal-lims-alat-yang-digunakan-untuk-menyadap-presiden-prabowo",
-    "t": 1793805561000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Cara mengetahui HP disadap tanpa sepengetahuan pemiliknya",
-    "c": "Ponsel pintar menyimpan berbagai informasi pribadi, mulai dari percakapan, foto, lokasi, hingga akses ke rekening dan ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/08/16/1001195287.jpg",
-    "u": "https://www.antaranews.com/berita/5832475/cara-mengetahui-hp-disadap-tanpa-sepengetahuan-pemiliknya",
-    "t": 1793803430000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Laptop cepat panas dan kipas berisik, apa penyebabnya?",
-    "c": "Laptop yang tiba-tiba terasa panas disertai suara kipas yang semakin berisik sering kali membuat pengguna khawatir. ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/10/19/IMG_20261018_164905.jpg",
-    "u": "https://www.antaranews.com/berita/5831603/laptop-cepat-panas-dan-kipas-berisik-apa-penyebabnya",
-    "t": 1793786668000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Apa perbedaan FPS, RPG, MOBA, dan Battle Royale dalam dunia game?",
-    "c": "Dunia video game memiliki banyak jenis permainan dengan mekanisme dan tujuan yang berbeda-beda. Ada gim yang ...",
-    "f": "https://img.antaranews.com/cache/800x533/2025/08/14/2025-08-14-15-12-45.jpg",
-    "u": "https://www.antaranews.com/berita/5831519/apa-perbedaan-fps-rpg-moba-dan-battle-royale-dalam-dunia-game",
-    "t": 1793785361000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Cara menghapus data KTP dari pinjol, ini 7 langkah yang bisa dilakukan",
-    "c": "Penggunaan layanan pinjaman online (pinjol) mengharuskan calon peminjam menyerahkan sejumlah data pribadi, termasuk ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/07/28/WhatsApp-Image-2026-07-28-at-19.12.27_1.jpeg",
-    "u": "https://www.antaranews.com/berita/5830407/cara-menghapus-data-ktp-dari-pinjol-ini-7-langkah-yang-bisa-dilakukan",
-    "t": 1793754560000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Cara memindahkan chat WhatsApp ke HP baru tanpa kehilangan data",
-    "c": "Mengganti ponsel sering kali membuat pengguna khawatir kehilangan riwayat percakapan, foto, video, hingga dokumen ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/08/05/InShot_20260805_104732163.jpg",
-    "u": "https://www.antaranews.com/berita/5827855/cara-memindahkan-chat-whatsapp-ke-hp-baru-tanpa-kehilangan-data",
-    "t": 1793664295000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Cara menambah anggota keluarga di KK secara online",
-    "c": "Penambahan anggota keluarga dalam Kartu Keluarga (KK) kini dapat diajukan secara online melalui layanan administrasi ...",
-    "f": "https://img.antaranews.com/cache/800x533/2021/08/28/23.jpg",
-    "u": "https://www.antaranews.com/berita/5810055/cara-menambah-anggota-keluarga-di-kk-secara-online",
-    "t": 1792882823000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "8 penyebab HP tidak bisa menerima SMS dan cara mengatasinya",
-    "c": "Sinyal ponsel yang terlihat penuh tidak selalu menjamin semua layanan seluler berfungsi dengan baik. Pengguna bisa saja ...",
-    "f": "https://img.antaranews.com/cache/800x533/2024/06/17/IMG-20240616-WA0026.jpg",
-    "u": "https://www.antaranews.com/berita/5809183/8-penyebab-hp-tidak-bisa-menerima-sms-dan-cara-mengatasinya",
-    "t": 1792824706000
-   },
-   {
-    "k": "teknologi",
-    "s": "Antara",
-    "j": "Cara mengatasi notifikasi WhatsApp yang terlambat masuk",
-    "c": "Notifikasi WhatsApp yang terlambat masuk kerap membuat pengguna melewatkan pesan penting, baik dari keluarga, rekan ...",
-    "f": "https://img.antaranews.com/cache/800x533/2026/08/05/InShot_20260805_104732163.jpg",
-    "u": "https://www.antaranews.com/berita/5803673/cara-mengatasi-notifikasi-whatsapp-yang-terlambat-masuk",
-    "t": 1792633899000
-   },
-   {
-    "k": "teknologi",
-    "s": "Kementerian Agama",
-    "j": "Guru Melek Digital Nggak Harus Pakai Gadget Terus, Kok!",
-    "c": "Guru Melek Digital Nggak Harus Pakai Gadget Terus, Kok! Kementerian Agama",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJreFZMN05UWmRmSGFaOXpSZEtSVkZ6RTR2X1l1SEJaR1FmT3NscnVYLTdjVmVxd0Q0NEE3UlFJUkxmUjExZTFnbnRPcW93aklFRENOaVNHcUx4cmlyYjJPbVlxQVF6NjdwZThsbGRlcVNrM1owNEU4WEtULXU1dVNYZkJIRzc4WWkwUklJano3TFl3Q0Q5enpYRmI?oc=5",
-    "t": 1790924400000
-   },
-   {
-    "k": "teknologi",
-    "s": "Teknologi.id",
-    "j": "Meta Muse Charm Resmi Diperkenalkan, Gadget AI 5G Mirip Tamagotchi",
-    "c": "Meta Muse Charm Resmi Diperkenalkan, Gadget AI 5G Mirip Tamagotchi Teknologi.id",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZk1uYUlUaEJ5b2V0Xzd3SThpeF82Q2lPOG1ZRW5UX24xVTZOS2hHdWNOR213R2Z5R1VUTWx5SmpOSTJZRG1fdlB3aUpoMDBzNUFGMXdaY19pZ3JXWU0tNHZSdWs0dHVRSFAtWGd0TmtQR05nZkluUElXWEpMcHdjRVZGRHRlZ1JhNWxxdU8yTGp5Zl96b2VDMQ?oc=5",
-    "t": 1790319600000
-   },
-   {
-    "k": "teknologi",
-    "s": "TOPIK.ID",
-    "j": "Relay Q Diperkenalkan di IFA 2026, Gadget AI Berbasis Gemini yang Bisa Memahami Konteks Percakapan",
-    "c": "Relay Q Diperkenalkan di IFA 2026, Gadget AI Berbasis Gemini yang Bisa Memahami Konteks Percakapan TOPIK.ID",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ1M5bUZZcWZFal9HLTl6QzNZWEhEcWRwNDh3WU9PUTlCMkxTZXR5Q28zODhQQzVxRGZ4Z3M3M21JM3hSVl9CYldqTTJZMDJpb0xqcjdXWXhxV2owb3NjOVA4ZXE2LThNeGRwclBuNmV2NU0tOFVwWFROUmFyRTNtaHlPcXJMdXBhTkh5QlRubzlZdkUwWGVkRkkwT0trN3ZQdGxWVlhLMUp1dWoteTktcVdVOXRVcmxieUE?oc=5",
-    "t": 1788764400000
-   },
-   {
-    "k": "teknologi",
-    "s": "Teknologi.id",
-    "j": "HMD Touch AI Meluncur, HP Mini Mirip Nokia Lumia dengan Fitur AI",
-    "c": "HMD Touch AI Meluncur, HP Mini Mirip Nokia Lumia dengan Fitur AI Teknologi.id",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVktc21HLWlEY0xqUDV4VnB1U3hyMlBqbk1WeTRqSDRmam5uUzhWaDVnOEhFaVAxQURKMkQxQ3I2OVRXbDlfajFZOExJMnRHZjVLeUxaRGxpVnotQWFnQmNibE1IclNXa2RGUTJmMXpYRmVlZjhJdENpejVfVExKTzdnd1pkTF9lLXpoV1VzWlAxbU4yU3c?oc=5",
-    "t": 1785135600000
-   },
-   {
-    "k": "teknologi",
-    "s": "detikInet",
-    "j": "Deretan Kenaikan Harga Gadget dan Konsol Gegara Krisis RAM",
-    "c": "Deretan Kenaikan Harga Gadget dan Konsol Gegara Krisis RAM detikInet",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOS1jM2JmWVVGc1NVYzVabkx1ci1sZjVCRVVtWVdwTXpLSTFjandNZDcxSURXN1p3bmk5STgwUFEyeFMtMmRocUQ1NUt5S3FDRk9SRHQteU5lenNKNHRpZjJGV1luT3g0b3J3NE8wQ1FMdmNJS3h5d0E5VE8wLVZBUEZlWDlSUmdXM1NRMHBMQ1FUUkdlLV9hZno2VEtLcDRLV2fSAacBQVVfeXFMTUhkNUJ4ZnZ4RjRKT3RQaUFkbG5yNDk2Q2FNS0pBRkNCdzFYeHVaOEpLN0FCSkxXaFp5czdkcXR5c2Y3TmFNRUVaekxpelFtZC1FWjdXUnlpVDN0dEtFWTBuVUU1bkJpRUlsX05FXzlsTW1BcVlKdWFPS3Q2R0E2NVN0cUp2Ry1hRE5JNFpvVnV1QVB0LUk1eTVydnZQdkkzRU1lb3ZZM1E?oc=5",
-    "t": 1782802800000
-   },
-   {
-    "k": "teknologi",
-    "s": "okinews",
-    "j": "Tren Gadget 2026: Smartphone Makin Canggih dengan Fitur AI - okinews.disway.id",
-    "c": "Tren Gadget 2026: Smartphone Makin Canggih dengan Fitur AI - okinews.disway.id okinews",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSTVZNHRGT2N1Z0VIdXp2cE1GUlJELWdPemlyWUF3dnhUbkpRZlc4NUNiME5waE9HZS03a1BPT3lTMUx0dmpTSDJYQlNmMmhWaE12U2IydV9kYk1kQl9CV1ZSM0xwQUJYV3ZOeFZfV29VRzc1UXIwZDRsekVTZER4dWdwZEJVLTltMFVFTnhsMW5KejVKODZRR1pEYTNEYmlCeGfSAZgBQVVfeXFMUDQydmhMV1BvWU56Q0pVQUYzZFZSNlNpXzJDZ0t6M25BSXQ1UHZjaHRNb19xMXBmOWY1VTNJLXA2YTdJOXp3ZXNMSnZIYlBtSEdjLWdDOFctdlpiTWFkZmJOQUxEbDJ1QzRNZDZnNFp1UG95alRxM2JZc3Q2YmFqU0RRTmVnZmFDTk5mZDVENXFBcHdBbUxKNzE?oc=5",
-    "t": 1773730800000
-   },
-   {
-    "k": "teknologi",
-    "s": "GadgetSquad.ID",
-    "j": "Resmi Meluncur! TECNO MEGAPAD SE Bawa Teknologi AI Canggih ke Tablet Harga 2 Jutaan",
-    "c": "Resmi Meluncur! TECNO MEGAPAD SE Bawa Teknologi AI Canggih ke Tablet Harga 2 Jutaan GadgetSquad.ID",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV294YTA1aUpIYWhpREJtNkxKRF80NmFQdEJpanhoU0RGWnBLUjJuRVllWHpRc1UtSk9MMy1udVMzUkRLZ0ItR3ZHYlVLRzVPQXVJbkpMaWlvTXAxNFJMeGdlOUMxV3gwQnZ2RXIzODNCU3U5RGNqNC1VSEt0Y1BFX0ozaFVaNGhqUF9KUUJMZ0lVankxcGN5OWMwV3hKc3MtblI1T0VhRE96aTA2SWlaeA?oc=5",
-    "t": 1770624000000
-   },
-   {
-    "k": "teknologi",
-    "s": "CNN Indonesia",
-    "j": "Mengintip Deretan Gadget Canggih dan Unik di CES 2026",
-    "c": "Mengintip Deretan Gadget Canggih dan Unik di CES 2026 CNN Indonesia",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzJOekdoTkpoQ1VQLUpVTVB6SUZlUWRUV2VqZXlWalJwN1l3cl92bE5KTVdZdVhqVDB4dUJRMHV2OXdyeTk1R3BVbXJFNXV0WGxRRTFsakJlR0J1UklIc3V4WmlVdWEyT2c3bWJZWU9SM1AtZTRJOWc4VzctZFdiY2ZBdWlMVmhmTTMtbGRWTWF6blNLZ0JnbW1wTVRUeHlNRXB0X2g3bi1Xbk1Pd3d1WlVhU01ublB0dkJN?oc=5",
-    "t": 1767686400000
-   },
-   {
-    "k": "teknologi",
-    "s": "Ligagame Esports",
-    "j": "ENTER KOMPUTER Gelar Acara Edukasi Teknologi AI di Universitas Bunda Mulia",
-    "c": "ENTER KOMPUTER Gelar Acara Edukasi Teknologi AI di Universitas Bunda Mulia Ligagame Esports",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3piMnhNdk1sdFdReEcyaV9TOHhkcElDZ0MxVXhlN2pWdmQwcXJVeFhqYTlwTjI2bXhlb25zd2lzLUljdHdQcVU0Qi1iT1ZDdF9aajJ4QkNUNDFPdk1WMlhpMk9qOGVNZmd0MHJTTng5N3BLZzVWRF9oMVNJSHRJTXM0bXhMZEFQRjQ4RzhOb096Q01sU3FSLVdUZ2ZJMlBtQjZJdGRYSU5FdnUyeHdz0gG0AUFVX3lxTE1EOXVVYXN5UnhFUlBjUlZHT1J0ekZDWXBoRERBN1BXdGhaWXRXeVdNdDliTXU2NEZIbUFJVXptU01DcllBdmFlWWlvMk8zNEpSU0FxQ0NLTDdmeEZneUZqOGFYdWZiUERYR2FranVCNnNqLXVobzY5RGRfYm1vZkZoZ21vMWlBR1ZGQlN1R0lJNWZOWGdWbHhDTnNLbk9mQUNHQTh4UUNvd2RybFJrOVZxNENaVw?oc=5",
-    "t": 1747810800000
-   },
-   {
-    "k": "teknologi",
-    "s": "Eraspace",
-    "j": "Makin Canggih, Ini Contoh Artificial Intelligence di HP Kekinian",
-    "c": "Makin Canggih, Ini Contoh Artificial Intelligence di HP Kekinian Eraspace",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa0RNX0kxSWtPaDNjcEtDZ0ltZlgxTjgzMWVTQlhGVnZESUFWVWFVMGNSektWYXpLUjBlZnRiMWtJVG9VYUJzWDI1MVFHd2cxb0oxT1YxZWtuQVBBeEs3M3lONXNtczBPV1RlZ1F6YzMtWXBjV3ZvWFNGX2hreUFrb2dFSnZ6bW02RC1RM05ab2xuQTZqSzVqS1NPT0E?oc=5",
-    "t": 1723186800000
-   },
-   {
-    "k": "teknologi",
-    "s": "Hypeabis",
-    "j": "Kepoin Rabbit R1, Gadget AI yang Bakal Gantikan Smartphone?",
-    "c": "Kepoin Rabbit R1, Gadget AI yang Bakal Gantikan Smartphone? Hypeabis",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR0RxSFc2SVhsMGxwN2pmb05tN1o5UkNMQVgyUUhKcXR0Vzd3OXdqbHhkdXlXRHA5OXNMRno5U2VzUDVweGxUdUZjV3RSNXZVN2Z4aFNsX3FSZHQ4ZmVYaDBhMHRMSnN5SlQxUHZNc3NocG15cEtSNkJtYlJSc3NaRXVlRWhXc3JJdzZoZTlUNE53UQ?oc=5",
-    "t": 1714460400000
-   },
-   {
-    "k": "teknologi",
-    "s": "Suara.com",
-    "j": "Apa Itu Rabbit R1? Gadget AI Unik yang Mendadak Bikin Heboh",
-    "c": "Apa Itu Rabbit R1? Gadget AI Unik yang Mendadak Bikin Heboh Suara.com",
-    "f": "",
-    "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjZhaGFfVlhKMlVhTEdxVnN1RXhnTmpycG9QalhaY3NjM3F4endLb29WaUkwZ2JFOHY5a3phT1VQbTkxUjk2WHQ3dzkxUXB5ZmFtYkIzcktVblJRamNXYnN2V2dmWWo3SEtrblQtTzRHUDhHMHBtVUVaaHVfVlVLOTBINzlqOVRHOUdXcFU0VGcybWFSWF9hcmhHUnZrVzBwN19CUzdKTdIBpwFBVV95cUxNWlpHWkpaYXZCUDJNTFVqeDVPOWFaQzdialYyS1F0amJSYW5hbDZHMFZENjd3TE9FckwyazdyaHQ3SHdTOFVUdGFzbGNEa1RDSnl4b0xWdWtPcUpJZjV2bjhuNVpNdE9qckQ2UjExSGwtMkFkakVQRHdnb0dYMl9jTDlwU0plejl5aWxxVFdDTk1mWHN2WXZkdWl5cGNVYXVtN1NsZWxlbw?oc=5",
-    "t": 1714374000000
    }
   ]
  }
